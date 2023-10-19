@@ -1,4 +1,5 @@
 # layer3
+
 [layer3, neuron 0]
 ----------
 Top 20 concepts:
