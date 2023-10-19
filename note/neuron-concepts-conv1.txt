@@ -1,0 +1,897 @@
+# conv1
+[conv1, neuron 0]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, horde, crimson, badge, spd
+liberia, ferrari, cymru, kyrgyzstan, malawi
+seal, tonga, kosovo, municipalities, electoral
+----------
+Bottom 20 concepts:
+landing, suites, aerospace, photo, coherence
+highbeam, flown, photos, flew, relativity
+overhead, trailing, streamline, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 1]
+----------
+Top 20 concepts:
+green, grazing, wildlife, biodiversity, pasture
+nature, locals, hunting, emerald, surveying
+neighbour, teal, birding, nearby, neighbours
+meadows, ecological, meadow, ecology, finepix
+----------
+Bottom 20 concepts:
+emblem, coa, lava, signatures, capital
+nunavut, hiv, logos, drosophila, ferrari
+pour, rna, spd, accelerator, ascii
+carisoprodol, monogram, svg, signature, logo
+
+[conv1, neuron 2]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, horde, crimson, spd, badge
+liberia, ferrari, cymru, kyrgyzstan, malawi
+seal, kosovo, tonga, freebsd, municipalities
+----------
+Bottom 20 concepts:
+landing, aerospace, suites, photo, coherence
+highbeam, flown, flew, photos, relativity
+overhead, trailing, streamline, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 3]
+----------
+Top 20 concepts:
+linens, cookbooks, recommends, cookbook, cuisine
+kitchen, tasting, upscale, amenities, recipe
+indulgence, appetizers, dining, plated, cooking
+luxurious, specialties, recommendation, gourmet, social
+----------
+Bottom 20 concepts:
+albania, logos, cymru, initial, peptide
+municipal, municipality, monogram, wikimedia, municipalities
+vodafone, spd, red, nws, rna
+symbol, signature, carisoprodol, svg, logo
+
+[conv1, neuron 4]
+----------
+Top 20 concepts:
+streamline, photography, diecast, glide, blur
+pioneering, fischer, multifunction, sliding, miniature
+weber, retractable, bilder, spotting, collectable
+movable, social, trailing, saunders, pushing
+----------
+Bottom 20 concepts:
+hiv, freebsd, spd, tokelau, municipality
+tyrosine, municipal, nws, ferrari, peptide
+symbol, apoptosis, albania, rna, monogram
+municipalities, signature, svg, carisoprodol, logo
+
+[conv1, neuron 5]
+----------
+Top 20 concepts:
+suites, amenities, interior, interiors, accommodations
+minimizing, apartment, townhouse, supervisory, hostel
+supervising, dorm, hostels, photosmart, housekeeping
+kitchens, installations, accommodation, kitchen, thresholds
+----------
+Bottom 20 concepts:
+yuan, tuvalu, plane, rajasthan, mozambique
+kerala, peptide, mongolia, tyrosine, malawi
+kiribati, aircraft, albania, cymru, kyrgyzstan
+tokelau, carisoprodol, svg, signature, logo
+
+[conv1, neuron 6]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+badge, greed, crimson, horde, spd
+ferrari, seal, liberia, nws, electoral
+municipalities, rouge, cymru, malawi, municipality
+----------
+Bottom 20 concepts:
+photography, aviation, airplanes, overhead, landing
+soaring, coherence, streamline, relativity, aerospace
+flown, retractable, trailing, coolpix, flew
+flying, descending, glide, flight, finepix
+
+[conv1, neuron 7]
+----------
+Top 20 concepts:
+svg, logo, nws, slashdot, badge
+municipalities, rectangular, emblem, municipality, red
+medal, municipal, monogram, albania, agricultural
+electoral, malawi, wikimedia, toyota, corps
+----------
+Bottom 20 concepts:
+retractable, imaginative, blue, powershot, inbound
+hmmm, soaring, trailing, explored, flight
+descending, pic, defend, photography, flying
+flew, coolpix, glide, garrison, finepix
+
+[conv1, neuron 8]
+----------
+Top 20 concepts:
+hostel, room, bathroom, dorm, accommodations
+bedrooms, suites, hostels, accommodation, rooms
+amenities, lodging, hotel, interiors, corridors
+interior, corridor, hall, hotels, bedroom
+----------
+Bottom 20 concepts:
+polymers, airlines, airplanes, airborne, cymru
+plane, flying, ascii, peptide, faa
+aviation, aircraft, carisoprodol, rna, symbol
+wikimedia, boeing, logo, svg, signature
+
+[conv1, neuron 9]
+----------
+Top 20 concepts:
+logo, medal, diocese, garnet, municipalities
+bunker, senators, lava, spd, hiv
+svg, monogram, volcano, prostitution, clerk
+mafia, ordinator, rna, signature, atari
+----------
+Bottom 20 concepts:
+flickr, infocus, photosmart, migrating, test
+defend, freedom, retractable, flying, specifying
+green, powershot, flight, photo, flown
+flew, glide, coolpix, finepix, garrison
+
+[conv1, neuron 10]
+----------
+Top 20 concepts:
+hostel, dorm, bathroom, accommodations, suites
+amenities, hostels, nursery, remodeling, accommodation
+room, renovated, decor, interiors, bedrooms
+furnished, townhouse, yellow, furnishing, facilities
+----------
+Bottom 20 concepts:
+faa, subaru, spd, plane, mazda
+yuan, seal, initial, toyota, monogram
+rna, aircraft, ascii, boeing, wikimedia
+carisoprodol, symbol, signature, logo, svg
+
+[conv1, neuron 11]
+----------
+Top 20 concepts:
+red, logo, albania, svg, rot
+greed, crimson, horde, liberia, ferrari
+spd, badge, cymru, malawi, kyrgyzstan
+rouge, tonga, kosovo, seal, guiana
+----------
+Bottom 20 concepts:
+soaring, relativity, blue, aviation, highbeam
+airplanes, streamline, landing, aerospace, flown
+overhead, trailing, flew, retractable, coolpix
+flying, descending, glide, flight, finepix
+
+[conv1, neuron 12]
+----------
+Top 20 concepts:
+garrison, airplanes, aviation, flew, soaring
+flight, aircraft, flying, glide, airlines
+aerospace, airborne, airfare, descending, plane
+planes, blue, flown, soar, airfares
+----------
+Bottom 20 concepts:
+kyocera, elephant, signatures, ribosomal, punjab
+glucose, dresser, gorilla, ferrari, embryo
+hiv, electrode, svg, nucleotide, ventricular
+rna, monogram, carisoprodol, logo, signature
+
+[conv1, neuron 13]
+----------
+Top 20 concepts:
+streamline, glide, photography, blur, diecast
+pioneering, miniature, fischer, multifunction, sliding
+trailing, spotting, retractable, social, miniatures
+movable, bilder, flying, linens, descending
+----------
+Bottom 20 concepts:
+senate, tokelau, red, nws, spd
+municipal, municipality, tyrosine, apoptosis, ferrari
+peptide, symbol, albania, monogram, rna
+municipalities, signature, svg, carisoprodol, logo
+
+[conv1, neuron 14]
+----------
+Top 20 concepts:
+dorm, bathroom, room, hostel, accommodations
+suites, amenities, interiors, hostels, bedrooms
+remodeling, accommodation, renovated, rooms, decor
+hall, nursery, bathrooms, townhouse, furnished
+----------
+Bottom 20 concepts:
+fuji, kyrgyzstan, initial, albania, aviation
+toyota, yuan, faa, berg, ascii
+rna, cymru, aircraft, boeing, wikimedia
+symbol, carisoprodol, signature, logo, svg
+
+[conv1, neuron 15]
+----------
+Top 20 concepts:
+red, logo, albania, svg, rot
+greed, crimson, horde, liberia, spd
+ferrari, badge, malawi, kyrgyzstan, cymru
+seal, tonga, kosovo, freebsd, guiana
+----------
+Bottom 20 concepts:
+landing, aerospace, flew, flown, coherence
+suites, photo, highbeam, photos, relativity
+flying, trailing, streamline, overhead, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 16]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, indigo, peptide
+nucleotide, glucose, dehydrogenase, iss, methyl
+polymers, ultraviolet, uv, polymerase, blue
+ionamin, blackboard, alprazolam, led, synthase
+----------
+Bottom 20 concepts:
+pichunter, surveying, cleanup, aaa, defend
+clipart, crimson, wavelength, social, ezine
+uncategorized, appraiser, rouge, defence, defense
+slashdot, patrol, defenses, red, greed
+
+[conv1, neuron 17]
+----------
+Top 20 concepts:
+flying, flight, aviation, flew, airplanes
+airborne, aircraft, airlines, soaring, glide
+airfare, aerospace, descending, landing, airfares
+flown, plane, migrating, planes, inbound
+----------
+Bottom 20 concepts:
+electrode, dresser, volcano, font, embryo
+tyrosine, senate, cellar, seal, nucleotide
+ventricular, hiv, basement, svg, ferrari
+monogram, rna, signature, carisoprodol, logo
+
+[conv1, neuron 18]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, horde, crimson, badge, liberia
+spd, ferrari, cymru, malawi, kyrgyzstan
+seal, tonga, kosovo, municipalities, electoral
+----------
+Bottom 20 concepts:
+landing, suites, photo, aerospace, flown
+photos, highbeam, coherence, flew, relativity
+overhead, streamline, trailing, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 19]
+----------
+Top 20 concepts:
+hostel, nursery, dorm, bathroom, accommodation
+room, accommodations, hostels, suites, bedrooms
+renovated, amenities, remodeling, green, decor
+yellow, lodging, interiors, facilities, toilette
+----------
+Bottom 20 concepts:
+spd, fuji, red, badge, toyota
+yuan, emblem, avaya, aircraft, seal
+rna, wikimedia, ascii, monogram, boeing
+symbol, carisoprodol, svg, logo, signature
+
+[conv1, neuron 20]
+----------
+Top 20 concepts:
+red, greed, albania, logo, liberia
+rot, svg, kyrgyzstan, seal, crimson
+freebsd, ferrari, spd, malawi, horde
+inuyasha, cymru, kong, guiana, kosovo
+----------
+Bottom 20 concepts:
+aviation, amenities, trailing, streamline, landing
+flying, aerospace, photographs, highbeam, relativity
+suites, photo, overhead, coolpix, photos
+retractable, glide, flight, descending, finepix
+
+[conv1, neuron 21]
+----------
+Top 20 concepts:
+carisoprodol, signature, rna, nucleotide, peptide
+apoptosis, synthase, monogram, logo, drosophila
+dehydrogenase, polymerase, tyrosine, initial, polymers
+glucose, electrode, ventricular, ribosomal, ascii
+----------
+Bottom 20 concepts:
+finepix, glide, whereas, retractable, flown
+flew, test, blur, flickr, powershot
+aaa, defence, patrol, coolpix, bilder
+defenses, cleanup, petrol, defend, garrison
+
+[conv1, neuron 22]
+----------
+Top 20 concepts:
+garrison, airplanes, aerospace, aviation, aircraft
+flight, blue, airlines, flew, soaring
+glide, flying, airborne, planes, plane
+descending, airfare, defend, airplane, petrol
+----------
+Bottom 20 concepts:
+medal, punjab, yuan, dresser, tomato
+municipalities, gorilla, seal, hiv, embryo
+nucleotide, ferrari, electrode, ventricular, rna
+svg, monogram, carisoprodol, logo, signature
+
+[conv1, neuron 23]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, horde, crimson, liberia, ferrari
+spd, badge, cymru, kyrgyzstan, malawi
+seal, kosovo, tonga, municipalities, freebsd
+----------
+Bottom 20 concepts:
+landing, suites, aerospace, coherence, photo
+highbeam, photos, flown, flew, relativity
+overhead, trailing, streamline, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 24]
+----------
+Top 20 concepts:
+basement, uv, ultraviolet, cellar, led
+nightclub, dungeon, leds, lamps, lights
+crypt, illumination, candles, plasma, electro
+lighting, lamp, ir, bunker, laboratories
+----------
+Bottom 20 concepts:
+expedia, landing, airfares, wing, airmail
+acrobat, migrating, wildlife, aviation, airlines
+glide, audubon, flight, airfare, birding
+flown, airborne, soaring, flying, flew
+
+[conv1, neuron 25]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+dehydrogenase, rna, glucose, signature, apoptosis
+synthase, polymers, methyl, polymerase, metabolic
+node, blackboard, monogram, alprazolam, biosynthesis
+----------
+Bottom 20 concepts:
+bilder, flickr, aa, postal, blur
+collectable, blog, weblog, raid, greed
+aaa, petrol, patrol, wavelength, cleanup
+defense, defence, defenses, defend, garrison
+
+[conv1, neuron 26]
+----------
+Top 20 concepts:
+blue, airplanes, blues, plane, airplane
+aircraft, indigo, aerospace, airlines, aviation
+planes, cobalt, flight, saturation, ultraviolet
+blu, flew, gradient, fluorescence, cyan
+----------
+Bottom 20 concepts:
+delegate, crimson, ruby, tomato, tonga
+lava, ann, albania, bred, hungary
+horde, rot, badge, svg, rai
+logo, greed, slashdot, bib, red
+
+[conv1, neuron 27]
+----------
+Top 20 concepts:
+red, logo, albania, rot, greed
+crimson, svg, rouge, horde, liberia
+ferrari, spd, reds, tonga, badge
+lava, kerala, kosovo, guiana, tomato
+----------
+Bottom 20 concepts:
+planes, blue, overhead, trailing, intercept
+aircraft, airlines, flown, airborne, landing
+soaring, aerospace, airplanes, finepix, aviation
+descending, flew, flying, glide, flight
+
+[conv1, neuron 28]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, crimson, horde, liberia, ferrari
+spd, badge, cymru, kyrgyzstan, malawi
+seal, kosovo, tonga, freebsd, municipalities
+----------
+Bottom 20 concepts:
+landing, aerospace, suites, coherence, photo
+highbeam, flown, flew, photos, relativity
+trailing, overhead, streamline, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 29]
+----------
+Top 20 concepts:
+garrison, defend, blue, petrol, wavelength
+defenses, blues, aerospace, defence, cobalt
+leds, ultraviolet, saturation, purple, defense
+cleanup, soar, soaring, aircraft, flight
+----------
+Bottom 20 concepts:
+kyocera, vodafone, signatures, dehydrogenase, wellbutrin
+glucose, municipalities, agricultural, initial, electrode
+ventricular, apoptosis, nucleotide, tyrosine, rna
+svg, logo, monogram, carisoprodol, signature
+
+[conv1, neuron 30]
+----------
+Top 20 concepts:
+streamline, photography, blur, social, pioneering
+diecast, fischer, linens, glide, sliding
+weber, multifunction, miniature, photosmart, miniatures
+saunders, movable, scandinavian, storey, collectable
+----------
+Bottom 20 concepts:
+red, nucleotide, hiv, spd, tyrosine
+municipality, municipal, ferrari, nws, albania
+apoptosis, symbol, peptide, monogram, municipalities
+rna, signature, svg, carisoprodol, logo
+
+[conv1, neuron 31]
+----------
+Top 20 concepts:
+green, teal, finepix, emerald, wildlife
+biodiversity, hunting, nearby, coolpix, surveying
+neighbour, nature, grazing, toilette, birding
+locals, neighbours, ecological, roaming, pasture
+----------
+Bottom 20 concepts:
+pour, lava, avaya, gorilla, nunavut
+coa, signatures, ferrari, capital, logos
+hiv, spd, accelerator, rna, ascii
+monogram, carisoprodol, svg, signature, logo
+
+[conv1, neuron 32]
+----------
+Top 20 concepts:
+flying, flight, flew, glide, airborne
+aviation, airplanes, soaring, airlines, landing
+descending, aircraft, aerospace, airfare, flown
+inbound, migrating, spotting, migrate, airfares
+----------
+Bottom 20 concepts:
+volcano, basement, cellar, diocese, font
+peptide, senate, seal, nucleotide, tyrosine
+municipalities, ventricular, hiv, ferrari, monogram
+svg, rna, signature, carisoprodol, logo
+
+[conv1, neuron 33]
+----------
+Top 20 concepts:
+carisoprodol, indigo, tyrosine, blue, ultraviolet
+wellbutrin, uv, peptide, glucose, nucleotide
+polymers, dehydrogenase, led, iss, blu
+methyl, polymerase, blues, alprazolam, ionamin
+----------
+Bottom 20 concepts:
+countrywide, ruby, defense, sticker, scrapbooking
+pichunter, serv, defenses, crimson, clipart
+surveying, uncategorized, patrol, social, ezine
+rouge, appraiser, slashdot, red, greed
+
+[conv1, neuron 34]
+----------
+Top 20 concepts:
+airplanes, aviation, flew, flight, soaring
+aircraft, flying, garrison, glide, airlines
+aerospace, airborne, airfare, descending, plane
+planes, flown, airfares, soar, airplane
+----------
+Bottom 20 concepts:
+tomato, ribosomal, punjab, prostitution, embryos
+glucose, dresser, svg, gorilla, ferrari
+embryo, electrode, hiv, ventricular, nucleotide
+monogram, rna, carisoprodol, logo, signature
+
+[conv1, neuron 35]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, horde, crimson, badge, spd
+liberia, ferrari, cymru, kyrgyzstan, malawi
+seal, kosovo, tonga, municipalities, freebsd
+----------
+Bottom 20 concepts:
+landing, suites, aerospace, photo, coherence
+highbeam, flown, photos, flew, relativity
+overhead, trailing, streamline, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 36]
+----------
+Top 20 concepts:
+suites, dorm, accommodations, amenities, townhouse
+hostel, hostels, minimizing, bedrooms, interiors
+furnished, photosmart, apartment, housekeeping, room
+roommate, kitchen, resident, condo, photographs
+----------
+Bottom 20 concepts:
+peptide, nunavut, cymru, wikimedia, boeing
+vodafone, tuvalu, plane, denmark, rna
+aircraft, kiribati, symbol, kyrgyzstan, tokelau
+albania, signature, carisoprodol, svg, logo
+
+[conv1, neuron 37]
+----------
+Top 20 concepts:
+streamline, photography, blur, pioneering, diecast
+fischer, multifunction, social, weber, glide
+miniature, linens, bilder, collectable, photosmart
+scandinavian, saunders, miniatures, pichunter, sliding
+----------
+Bottom 20 concepts:
+freebsd, senate, municipality, municipal, spd
+tokelau, ferrari, tyrosine, nws, peptide
+symbol, apoptosis, albania, monogram, rna
+municipalities, signature, svg, carisoprodol, logo
+
+[conv1, neuron 38]
+----------
+Top 20 concepts:
+flying, flight, glide, migrating, flew
+landing, migrate, soaring, flown, descending
+airborne, spotting, aviation, migration, birding
+airfare, inbound, approach, trailing, airplanes
+----------
+Bottom 20 concepts:
+red, municipalities, tokelau, ign, apoptosis
+senate, tyrosine, nucleotide, peptide, spd
+hiv, ventricular, ferrari, seal, rna
+monogram, svg, signature, carisoprodol, logo
+
+[conv1, neuron 39]
+----------
+Top 20 concepts:
+amenities, suites, furnishing, recommends, kitchen
+interiors, townhouse, furnished, upscale, furnishings
+available, luxurious, novelties, loft, decor
+linens, beige, recommendation, inside, sherry
+----------
+Bottom 20 concepts:
+coa, municipal, vodafone, yuan, red
+population, albania, municipality, initial, monogram
+spd, municipalities, rna, wikimedia, signature
+symbol, nws, carisoprodol, svg, logo
+
+[conv1, neuron 40]
+----------
+Top 20 concepts:
+amenities, bathroom, suites, kitchen, townhouse
+dorm, accommodations, kitchens, hostel, interiors
+hostels, faucets, remodeling, bathrooms, sinks
+cleanliness, upscale, minimizing, room, installations
+----------
+Bottom 20 concepts:
+apoptosis, boeing, vodafone, toyota, cymru
+monogram, nucleotide, coa, spd, initial
+kite, yuan, nws, rna, signature
+logo, wikimedia, symbol, svg, carisoprodol
+
+[conv1, neuron 41]
+----------
+Top 20 concepts:
+garrison, airplanes, aviation, flew, soaring
+aircraft, flight, flying, glide, airlines
+aerospace, airborne, airfare, descending, plane
+planes, flown, blue, soar, airfares
+----------
+Bottom 20 concepts:
+kyocera, signatures, elephant, tomato, glucose
+punjab, dresser, gorilla, embryo, ferrari
+hiv, electrode, svg, nucleotide, ventricular
+rna, monogram, carisoprodol, logo, signature
+
+[conv1, neuron 42]
+----------
+Top 20 concepts:
+red, albania, logo, greed, crimson
+rot, rouge, svg, inuyasha, horde
+reds, ferrari, tomato, badge, liberia
+malawi, tonga, bred, kyrgyzstan, spd
+----------
+Bottom 20 concepts:
+intercept, airlines, passing, blues, coolpix
+flown, trailing, aerospace, aviation, overhead
+soaring, airplanes, landing, blue, flew
+descending, flying, glide, finepix, flight
+
+[conv1, neuron 43]
+----------
+Top 20 concepts:
+red, logo, albania, svg, rot
+greed, crimson, horde, liberia, spd
+ferrari, badge, kyrgyzstan, cymru, malawi
+seal, freebsd, tonga, kosovo, rouge
+----------
+Bottom 20 concepts:
+landing, aerospace, coherence, flew, suites
+flown, photo, highbeam, relativity, photos
+trailing, flying, streamline, overhead, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 44]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, horde, crimson, badge, liberia
+spd, ferrari, cymru, kyrgyzstan, malawi
+seal, kosovo, tonga, municipalities, electoral
+----------
+Bottom 20 concepts:
+suites, landing, aerospace, photo, coherence
+highbeam, photos, flown, flew, relativity
+overhead, streamline, trailing, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 45]
+----------
+Top 20 concepts:
+aviation, flew, flying, airplanes, flight
+soaring, aircraft, airlines, glide, airborne
+aerospace, airfare, garrison, descending, airfares
+plane, flown, soar, planes, landing
+----------
+Bottom 20 concepts:
+bedroom, glucose, prostitution, embryos, svg
+cellar, basement, gorilla, dresser, embryo
+ferrari, electrode, ventricular, nucleotide, hiv
+monogram, rna, logo, carisoprodol, signature
+
+[conv1, neuron 46]
+----------
+Top 20 concepts:
+logo, senators, monogram, rna, hiv
+vhs, svg, signature, prostitution, diocese
+bunker, spd, medal, badge, kiosk
+atari, mechanic, avaya, msi, suzuki
+----------
+Bottom 20 concepts:
+airlines, inbound, powershot, petrol, test
+aerospace, airborne, flown, migrating, coolpix
+freedom, overhead, defend, green, flight
+soaring, flying, glide, flew, garrison
+
+[conv1, neuron 47]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, nucleotide, wellbutrin, peptide
+glucose, rna, signature, dehydrogenase, apoptosis
+polymers, synthase, methyl, polymerase, metabolic
+initial, blackboard, biosynthesis, node, alprazolam
+----------
+Bottom 20 concepts:
+listings, postal, uncategorized, blur, bilder
+collectable, blog, weblog, raid, aaa
+greed, petrol, patrol, wavelength, cleanup
+defense, defence, defenses, defend, garrison
+
+[conv1, neuron 48]
+----------
+Top 20 concepts:
+streamline, glide, pioneering, photography, blur
+diecast, fischer, multifunction, spotting, trailing
+retractable, flight, flying, leveraging, bilder
+movable, social, pichunter, linens, descending
+----------
+Bottom 20 concepts:
+senate, tyrosine, municipality, ventricular, municipal
+apoptosis, tokelau, red, peptide, symbol
+spd, albania, ferrari, monogram, municipalities
+rna, svg, signature, carisoprodol, logo
+
+[conv1, neuron 49]
+----------
+Top 20 concepts:
+garrison, airplanes, aviation, aircraft, flew
+flight, aerospace, soaring, airlines, flying
+glide, blue, airborne, airfare, plane
+descending, planes, soar, flown, airplane
+----------
+Bottom 20 concepts:
+medal, signatures, kyocera, apoptosis, punjab
+tomato, dresser, gorilla, hiv, embryo
+ferrari, electrode, nucleotide, ventricular, svg
+rna, monogram, carisoprodol, logo, signature
+
+[conv1, neuron 50]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, nucleotide, wellbutrin, peptide
+dehydrogenase, rna, glucose, signature, apoptosis
+synthase, polymerase, polymers, methyl, metabolic
+node, monogram, blackboard, alprazolam, biosynthesis
+----------
+Bottom 20 concepts:
+bilder, flickr, postal, aa, collectable
+blur, blog, weblog, raid, greed
+aaa, petrol, patrol, wavelength, cleanup
+defense, defence, defenses, defend, garrison
+
+[conv1, neuron 51]
+----------
+Top 20 concepts:
+glide, flying, flight, migrating, flew
+migrate, spotting, airborne, soaring, landing
+inbound, descending, airfare, flown, aviation
+migration, airlines, airplanes, streamline, diecast
+----------
+Bottom 20 concepts:
+coa, municipalities, symbol, senate, red
+volcano, apoptosis, nucleotide, tyrosine, peptide
+spd, hiv, ventricular, svg, ferrari
+monogram, rna, signature, carisoprodol, logo
+
+[conv1, neuron 52]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, dehydrogenase, signature, rna, apoptosis
+methyl, polymers, synthase, blackboard, polymerase
+metabolic, node, monogram, ionamin, alprazolam
+----------
+Bottom 20 concepts:
+aa, flickr, uncategorized, postal, collectable
+red, weblog, blog, raid, aaa
+petrol, greed, patrol, cleanup, wavelength
+defense, defence, defenses, defend, garrison
+
+[conv1, neuron 53]
+----------
+Top 20 concepts:
+flew, airplanes, aviation, soaring, flying
+flight, glide, airlines, aircraft, garrison
+airfare, airborne, aerospace, descending, airfares
+flown, plane, planes, migrating, soar
+----------
+Bottom 20 concepts:
+punjab, senators, embryos, glucose, prostitution
+basement, svg, dresser, ferrari, gorilla
+electrode, embryo, ventricular, hiv, nucleotide
+rna, monogram, carisoprodol, logo, signature
+
+[conv1, neuron 54]
+----------
+Top 20 concepts:
+bathroom, dorm, hostel, remodeling, amenities
+suites, interiors, hostels, room, accommodations
+decor, nursery, renovated, bathrooms, townhouse
+accommodation, interior, hall, furnished, stalls
+----------
+Bottom 20 concepts:
+faa, apoptosis, mazda, plane, monogram
+spd, toyota, avaya, ascii, initial
+rna, yuan, aircraft, wikimedia, boeing
+symbol, carisoprodol, signature, logo, svg
+
+[conv1, neuron 55]
+----------
+Top 20 concepts:
+streamline, photography, blur, fischer, diecast
+social, linens, miniature, pioneering, multifunction
+recommends, weber, scandinavian, miniatures, collectable
+sliding, want, saunders, bilder, glide
+----------
+Bottom 20 concepts:
+red, freebsd, tyrosine, tokelau, spd
+ferrari, peptide, municipal, municipality, nws
+symbol, apoptosis, albania, monogram, rna
+municipalities, signature, svg, carisoprodol, logo
+
+[conv1, neuron 56]
+----------
+Top 20 concepts:
+red, logo, svg, albania, rot
+greed, horde, crimson, ferrari, liberia
+badge, spd, cymru, kyrgyzstan, malawi
+seal, kosovo, tonga, municipalities, electoral
+----------
+Bottom 20 concepts:
+landing, suites, aerospace, photo, coherence
+highbeam, photos, flown, flew, relativity
+overhead, trailing, streamline, flying, retractable
+coolpix, glide, descending, flight, finepix
+
+[conv1, neuron 57]
+----------
+Top 20 concepts:
+aviation, flew, flying, airplanes, flight
+soaring, aircraft, airlines, glide, airborne
+aerospace, airfare, airfares, descending, garrison
+plane, flown, planes, soar, landing
+----------
+Bottom 20 concepts:
+prostitution, glucose, embryos, bedroom, svg
+cellar, gorilla, basement, embryo, dresser
+electrode, ventricular, ferrari, nucleotide, hiv
+monogram, rna, logo, carisoprodol, signature
+
+[conv1, neuron 58]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, dehydrogenase, signature, rna, apoptosis
+methyl, polymers, synthase, blackboard, polymerase
+metabolic, node, monogram, ionamin, alprazolam
+----------
+Bottom 20 concepts:
+aa, flickr, uncategorized, postal, collectable
+red, weblog, blog, raid, aaa
+petrol, greed, patrol, cleanup, wavelength
+defense, defence, defenses, defend, garrison
+
+[conv1, neuron 59]
+----------
+Top 20 concepts:
+linens, blur, kitchen, recommends, creme
+photography, plated, atkins, amenities, beige
+social, cooking, novelties, mccormick, available
+photosmart, miniatures, softcover, suites, fischer
+----------
+Bottom 20 concepts:
+red, ferrari, apoptosis, peptide, senate
+vodafone, municipal, municipality, monogram, wikimedia
+albania, spd, nws, rna, symbol
+municipalities, signature, svg, carisoprodol, logo
+
+[conv1, neuron 60]
+----------
+Top 20 concepts:
+want, wants, purchased, need, defence
+available, petrol, these, purchasing, cleanup
+ordered, wishlist, recommends, preferable, collectable
+selling, compact, magnum, sold, sophisticated
+----------
+Bottom 20 concepts:
+municipality, mudvayne, palau, tuvalu, arabidopsis
+rna, futuna, symbol, malawi, population
+nws, monogram, kiribati, apoptosis, tokelau
+municipalities, signature, svg, carisoprodol, logo
+
+[conv1, neuron 61]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, signature, dehydrogenase, rna, apoptosis
+methyl, polymers, synthase, blackboard, polymerase
+metabolic, node, monogram, ionamin, alprazolam
+----------
+Bottom 20 concepts:
+listings, flickr, uncategorized, postal, collectable
+red, weblog, blog, raid, aaa
+petrol, greed, patrol, cleanup, wavelength
+defense, defence, defenses, defend, garrison
+
+[conv1, neuron 62]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, dehydrogenase, rna, polymers, polymerase
+methyl, ionamin, synthase, apoptosis, blackboard
+alprazolam, metabolic, nitrogen, semiconductors, biosynthesis
+----------
+Bottom 20 concepts:
+spotting, listings, appraiser, ezine, collectable
+weblog, petrol, surveying, uncategorized, cleanup
+aaa, wavelength, red, patrol, garrison
+defense, defence, defend, greed, defenses
+
+[conv1, neuron 63]
+----------
+Top 20 concepts:
+glide, flying, flight, flew, airborne
+soaring, descending, migrating, landing, flown
+migrate, inbound, spotting, aviation, streamline
+airfare, trailing, migration, airplanes, aerospace
+----------
+Bottom 20 concepts:
+seal, apoptosis, tokelau, albania, symbol
+tyrosine, peptide, nucleotide, ventricular, senate
+spd, hiv, municipalities, ferrari, monogram
+rna, svg, signature, carisoprodol, logo
+

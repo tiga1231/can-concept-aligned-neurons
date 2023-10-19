@@ -1,0 +1,3585 @@
+# layer1
+[layer1, neuron 0]
+----------
+Top 20 concepts:
+maroon, burgundy, pinkworld, crimson, magenta
+pink, cranberry, raspberry, stained, wavelength
+purple, neon, ultraviolet, velvet, plum
+rouge, furnished, throne, fluorescent, periods
+----------
+Bottom 20 concepts:
+vodafone, panel, aviation, overhead, ladder
+ladders, aluminium, landing, siemens, logo
+gartner, soaring, lowering, vertical, detail
+sprint, upward, flying, grille, descending
+
+[layer1, neuron 1]
+----------
+Top 20 concepts:
+garrison, blue, defend, petrol, wavelength
+blues, saturation, blu, defense, cleanup
+defence, cobalt, leds, ultraviolet, aerospace
+defenses, cyan, raid, purple, indigo
+----------
+Bottom 20 concepts:
+bonsai, signatures, panoramic, habitat, courtyard
+blackboard, siding, diploma, carisoprodol, villagers
+zebra, skeleton, granite, frontgate, paving
+habit, monogram, stair, stairs, signature
+
+[layer1, neuron 2]
+----------
+Top 20 concepts:
+dark, darkness, banner, pluto, blackboard
+darker, noir, minimal, venom, iss
+garnet, carisoprodol, alexa, black, phantomnode
+melanoma, sao, openbsd, alienware, shakira
+----------
+Bottom 20 concepts:
+supervisory, bilder, resident, replica, listings
+accommodations, hist, relocation, consolidated, toilette
+suites, miniature, slovenian, lodging, defence
+overhead, defenses, surveying, defend, garrison
+
+[layer1, neuron 3]
+----------
+Top 20 concepts:
+accommodations, suites, accommodation, lodging, hostel
+hostels, dorm, travelodge, room, furnished
+amenities, bedrooms, hotel, hotels, motels
+rooms, furnishing, condominium, decor, townhouse
+----------
+Bottom 20 concepts:
+lava, rot, rna, badge, palau
+medal, fuji, suzuki, coa, initial
+mazda, ferrari, tokelau, symbol, emblem
+seal, red, signature, svg, logo
+
+[layer1, neuron 4]
+----------
+Top 20 concepts:
+interiors, upstairs, architectures, downstairs, interior
+passages, lobby, galleries, stairs, architectural
+museum, conservatory, decor, inside, workstations
+hostels, getty, amenities, accesses, exhibitions
+----------
+Bottom 20 concepts:
+ascii, volcano, kiribati, sudan, wikimedia
+kosovo, nunavut, nws, liberia, signature
+anguilla, monogram, red, pixel, kyrgyzstan
+albania, carisoprodol, seal, logo, svg
+
+[layer1, neuron 5]
+----------
+Top 20 concepts:
+aviation, airplanes, flew, garrison, flight
+aircraft, flying, soaring, airlines, aerospace
+airborne, glide, airfare, plane, blue
+flown, planes, soar, airfares, airplane
+----------
+Bottom 20 concepts:
+tomato, medal, embryos, signatures, garnet
+senators, cellar, electrode, gorilla, svg
+prostitution, ferrari, hiv, ventricular, embryo
+rna, dresser, monogram, logo, signature
+
+[layer1, neuron 6]
+----------
+Top 20 concepts:
+logo, svg, red, albania, municipality
+malawi, municipalities, municipal, nws, electoral
+guiana, kosovo, denmark, liberia, cymru
+tunisia, hungary, kyrgyzstan, kerala, wikimedia
+----------
+Bottom 20 concepts:
+streamline, widescreen, pioneering, ambient, thresholds
+aperture, downstairs, inside, swinger, interiors
+retractable, explored, interior, descending, trailing
+relativity, amenities, photography, coolpix, finepix
+
+[layer1, neuron 7]
+----------
+Top 20 concepts:
+red, logo, crimson, svg, badge
+rot, avaya, rouge, wikimedia, spd
+slashdot, medal, hiv, seal, freebsd
+burgundy, monogram, greed, emblem, tomato
+----------
+Bottom 20 concepts:
+multifunction, imaginative, pioneering, photosmart, highbeam
+soaring, migrating, streamline, photos, flown
+flew, flying, photo, overhead, coolpix
+trailing, pic, glide, flight, finepix
+
+[layer1, neuron 8]
+----------
+Top 20 concepts:
+grazing, pasture, green, toilette, meadows
+shropshire, meadow, wildlife, grass, biodiversity
+locals, surveying, lawn, sheep, nature
+hereford, ecology, birding, maternity, rancho
+----------
+Bottom 20 concepts:
+capital, overlay, rot, bahrain, ascii
+logos, garnet, badge, emblem, lava
+ferrari, diocese, accelerator, monogram, signatures
+spd, drosophila, svg, logo, signature
+
+[layer1, neuron 9]
+----------
+Top 20 concepts:
+biodiversity, wildlife, nature, surveying, hunting
+fauna, stormwater, roadside, excursion, exploring
+outdoor, explores, excursions, wilderness, wilde
+outdoors, locals, woodland, nearby, forestry
+----------
+Bottom 20 concepts:
+sen, symbol, red, carisoprodol, emblem
+fuji, initial, jakarta, overlay, seal
+naval, qatar, monogram, spd, nunavut
+bahrain, minimal, signature, svg, logo
+
+[layer1, neuron 10]
+----------
+Top 20 concepts:
+linens, aaa, linen, furnished, defence
+creme, recommends, garrison, chestnut, cleanup
+furnishing, furnishings, suites, upscale, novelties
+installations, beige, gourmet, listings, quilts
+----------
+Bottom 20 concepts:
+monogram, signature, logos, spd, horde
+battery, emule, mechanic, population, capital
+wikimedia, choir, tyres, municipal, newsgator
+svg, initial, nws, municipalities, logo
+
+[layer1, neuron 11]
+----------
+Top 20 concepts:
+aviation, flying, glide, flight, streamline
+petrol, airborne, aerospace, garrison, flew
+flown, diecast, soaring, aircraft, airlines
+landing, airplanes, airmail, spotting, highbeam
+----------
+Bottom 20 concepts:
+hiv, red, senate, bunker, organ
+monogram, carisoprodol, svg, ferrari, basement
+rna, diocese, dungeon, signature, crypt
+horde, municipalities, cellar, crimson, logo
+
+[layer1, neuron 12]
+----------
+Top 20 concepts:
+hostel, hostels, amenities, privacy, toilette
+accommodation, lodging, finepix, accessibility, accommodations
+coolpix, thresholds, downstairs, suites, accesses
+powershot, upstairs, usability, specifying, photographs
+----------
+Bottom 20 concepts:
+yuan, badge, tuvalu, crimson, drosophila
+papua, rot, symbol, qatar, kiribati
+monogram, bahrain, emblem, anguilla, tokelau
+carisoprodol, red, svg, signature, logo
+
+[layer1, neuron 13]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, noir
+darker, venom, lq, pluto, alexa
+headlights, elec, vr, wallpaper, panoramic
+supernatural, guitar, cellar, flashlight, sc
+----------
+Bottom 20 concepts:
+ordinances, safeguards, accommodations, adjoining, establishments
+conserved, listings, householder, subcategories, ibid
+incorporation, clearinghouse, practicable, purchaser, consolidated
+suitability, precedence, coefficient, specifying, appraiser
+
+[layer1, neuron 14]
+----------
+Top 20 concepts:
+logo, svg, red, albania, guiana
+municipality, liberia, municipal, municipalities, malawi
+avaya, nws, badge, signature, kosovo
+denmark, cymru, ferrari, tonga, electoral
+----------
+Bottom 20 concepts:
+aperture, streamline, widescreen, pic, downstairs
+intrusion, glide, excursions, trailing, photography
+relativity, passages, amenities, coherence, retractable
+descending, thresholds, explored, coolpix, finepix
+
+[layer1, neuron 15]
+----------
+Top 20 concepts:
+red, logo, svg, albania, ferrari
+liberia, spd, greed, badge, rot
+kyrgyzstan, avaya, cymru, kosovo, malawi
+tonga, nws, guiana, seal, denmark
+----------
+Bottom 20 concepts:
+widescreen, upstairs, glide, pic, photographs
+trailing, photo, amenities, suites, photography
+explored, passages, relativity, downstairs, coherence
+thresholds, retractable, descending, coolpix, finepix
+
+[layer1, neuron 16]
+----------
+Top 20 concepts:
+decor, nesting, tapestry, nested, quilts
+nursery, decorated, listings, furnishing, audubon
+ornamental, biodiversity, interiors, lodging, duplex
+suites, repository, specifying, pichunter, photographs
+----------
+Bottom 20 concepts:
+nsu, monogram, isuzu, frankfurt, emblem
+suzuki, initial, ascii, rna, fuji
+symbol, minimal, garnet, red, seal
+carisoprodol, spd, signature, svg, logo
+
+[layer1, neuron 17]
+----------
+Top 20 concepts:
+installations, steps, accesses, ramp, multifunction
+fiberglass, usability, accessibility, stair, stairs
+specifying, retaining, thresholds, fabrication, pioneering
+restructuring, leveraging, ovens, flooring, stainless
+----------
+Bottom 20 concepts:
+kuala, liberia, kiribati, yuan, hanoi
+tokelau, qatar, guiana, kerala, kyrgyzstan
+drosophila, anguilla, signature, wikimedia, sudan
+red, carisoprodol, ascii, svg, logo
+
+[layer1, neuron 18]
+----------
+Top 20 concepts:
+logo, svg, monogram, signature, nucleotide
+rna, diagram, synthase, municipalities, avaya
+vodafone, municipality, carisoprodol, schematic, municipal
+logos, peptide, nws, toshiba, rectangular
+----------
+Bottom 20 concepts:
+powershot, aforementioned, green, tempted, test
+hmmm, wants, exploring, pic, aspirations
+solitary, flickr, patrol, coolpix, cleanup
+want, defend, finepix, explored, garrison
+
+[layer1, neuron 19]
+----------
+Top 20 concepts:
+maroon, burgundy, crimson, garnet, seal
+stain, cranberry, cursor, velvet, fox
+elk, lynx, cardinal, qatar, rat
+stained, ordinator, archbishop, cabernet, blood
+----------
+Bottom 20 concepts:
+gallery, linkages, bilder, relativity, overhead
+installations, photography, interior, pic, multifunction
+diecast, fotos, photos, coolpix, foto
+leveraging, photosmart, photo, photographs, finepix
+
+[layer1, neuron 20]
+----------
+Top 20 concepts:
+red, albania, logo, greed, svg
+kyrgyzstan, liberia, rot, reds, ferrari
+ussr, malawi, guiana, rouge, kosovo
+inuyasha, cymru, tonga, belarus, corps
+----------
+Bottom 20 concepts:
+inside, fluorescence, threshold, explored, awakenings
+interiors, intrusion, photo, interior, descending
+photos, stairs, photographs, upstairs, widescreen
+thresholds, passages, coolpix, downstairs, finepix
+
+[layer1, neuron 21]
+----------
+Top 20 concepts:
+red, logo, svg, albania, avaya
+spd, badge, rot, ferrari, freebsd
+crimson, nws, denmark, wikimedia, vodafone
+cymru, kyrgyzstan, kosovo, greed, signature
+----------
+Bottom 20 concepts:
+streamline, suites, interiors, swinger, expeditions
+retrieval, pioneering, amenities, passages, upstairs
+relativity, explored, flight, glide, excursions
+trailing, downstairs, coolpix, descending, finepix
+
+[layer1, neuron 22]
+----------
+Top 20 concepts:
+maroon, burgundy, garnet, carisoprodol, cabernet
+crimson, qatar, tyrosine, volcano, seal
+pluto, medal, monogram, ordinator, mahogany
+signature, drosophila, velvet, rna, dehydrogenase
+----------
+Bottom 20 concepts:
+foto, restructuring, pioneering, overhead, suites
+imaginative, consolidated, modernization, particulars, openoffice
+bilder, diecast, installations, photo, photographs
+multifunction, coolpix, leveraging, finepix, photosmart
+
+[layer1, neuron 23]
+----------
+Top 20 concepts:
+red, logo, horde, rot, greed
+slashdot, spd, mudvayne, zombie, bloody
+anti, blood, emblem, badge, memberlistmemberlist
+svg, stain, ign, mafia, tend
+----------
+Bottom 20 concepts:
+acoustics, photography, glide, pic, relativity
+infocus, powershot, overhead, aperture, photos
+photographed, harmonic, photosmart, coherence, photo
+photographs, widescreen, coolpix, retractable, finepix
+
+[layer1, neuron 24]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, dehydrogenase, signature, rna, apoptosis
+methyl, synthase, polymers, polymerase, node
+metabolic, ionamin, alprazolam, blackboard, monogram
+----------
+Bottom 20 concepts:
+postal, uncategorized, flickr, particulars, scouting
+petrol, collectable, raid, weblog, blog
+aaa, greed, patrol, cleanup, wavelength
+defense, defence, defend, defenses, garrison
+
+[layer1, neuron 25]
+----------
+Top 20 concepts:
+flying, flight, aviation, airborne, flew
+soaring, glide, aircraft, airplanes, airlines
+landing, aerospace, flown, airfare, airmail
+descending, planes, inbound, spotting, airways
+----------
+Bottom 20 concepts:
+organ, hiv, bedroom, carisoprodol, font
+corridors, dresser, monogram, municipalities, diocese
+senate, crimson, rna, ferrari, signature
+crypt, dungeon, cellar, basement, logo
+
+[layer1, neuron 26]
+----------
+Top 20 concepts:
+horde, red, rot, bloody, greed
+vampires, blood, wavelength, infected, outbreak
+crimson, zombie, devils, spd, senators
+ascii, brigade, anti, slaughter, gore
+----------
+Bottom 20 concepts:
+streamline, knoxville, widescreen, photosmart, photography
+overhead, fujifilm, foto, vols, lehigh
+purdue, photos, photographed, photograph, retractable
+audubon, photo, coolpix, photographs, finepix
+
+[layer1, neuron 27]
+----------
+Top 20 concepts:
+interiors, amenities, decor, installations, lobby
+hostel, suites, interior, renovated, clubhouse
+decoration, facilities, bathroom, hall, corridors
+hospitality, inside, accommodations, hostels, facilitating
+----------
+Bottom 20 concepts:
+toshiba, horde, pixel, monogram, subaru
+minimal, cymru, toyota, yuan, vodafone
+fuji, ferrari, initial, nws, albania
+red, signature, svg, logo, carisoprodol
+
+[layer1, neuron 28]
+----------
+Top 20 concepts:
+horde, red, bloody, greed, rot
+blood, zombie, livestock, infected, slaughter
+stain, mudvayne, cattle, gore, logo
+butcher, spd, crimson, anti, outbreak
+----------
+Bottom 20 concepts:
+lehigh, pic, glide, audubon, foto
+overhead, streamline, relativity, purdue, coherence
+photograph, photography, photos, photographed, widescreen
+coolpix, photographs, photo, retractable, finepix
+
+[layer1, neuron 29]
+----------
+Top 20 concepts:
+nucleotide, carisoprodol, rna, synthase, peptide
+polymerase, drosophila, signature, monogram, apoptosis
+polymers, tyrosine, dehydrogenase, node, capacitor
+arabidopsis, electrode, diagram, glucose, semiconductors
+----------
+Bottom 20 concepts:
+suche, spotting, infocus, explored, whereas
+wants, collectable, postal, aforementioned, test
+hunting, defence, cleanup, want, listings
+flickr, bilder, coolpix, defend, garrison
+
+[layer1, neuron 30]
+----------
+Top 20 concepts:
+horde, red, greed, rot, bloody
+blood, crimson, vampires, zombie, mafia
+infected, ansi, spd, ascii, tend
+papers, villagers, outbreak, bleed, anti
+----------
+Bottom 20 concepts:
+overhead, glide, lingere, usability, relativity
+fujifilm, coherence, lehigh, purdue, foto
+photos, pic, photograph, audubon, photographed
+photo, photographs, coolpix, retractable, finepix
+
+[layer1, neuron 31]
+----------
+Top 20 concepts:
+bw, pic, vintage, clic, commute
+relativity, transport, transported, photographs, photography
+postal, photograph, motoring, afternoon, pioneering
+withdrawn, commuter, excursions, ancestor, montgomery
+----------
+Bottom 20 concepts:
+albania, anguilla, flag, defense, slashdot
+monogram, nws, liberia, badge, signature
+uc, banner, seal, greed, carisoprodol
+profileprofile, emblem, svg, red, logo
+
+[layer1, neuron 32]
+----------
+Top 20 concepts:
+horde, cattle, butcher, greed, livestock
+slaughter, red, bloody, rot, blood
+infected, decal, pedestrian, gore, condemned
+steaks, stain, emblem, bleed, outbreak
+----------
+Bottom 20 concepts:
+flexibility, harriet, brandy, photographs, airlines
+glide, flown, photos, landing, gull
+acrobat, airborne, finepix, soaring, aviation
+birding, flight, audubon, flew, flying
+
+[layer1, neuron 33]
+----------
+Top 20 concepts:
+regard, ears, bailey, missy, abby
+libby, lola, indi, fostering, molly
+skye, sophie, widget, murphy, fiona
+esther, macy, brandy, shropshire, flynn
+----------
+Bottom 20 concepts:
+frankfurt, cardinal, mozambique, carisoprodol, qatar
+diocese, nacional, ibis, denmark, slogan
+pretoria, bahrain, ascii, rot, monogram
+signature, albania, minimal, svg, logo
+
+[layer1, neuron 34]
+----------
+Top 20 concepts:
+suites, hostel, hostels, accommodations, furnishing
+dorm, bedrooms, interiors, amenities, accommodation
+room, furnishings, installations, flooring, renovated
+downstairs, decor, furnished, lodging, upstairs
+----------
+Bottom 20 concepts:
+spd, apoptosis, kyrgyzstan, toyota, vodafone
+agricultural, medal, mudvayne, svg, coa
+population, horde, ascii, carisoprodol, signature
+logo, red, nws, pixel, wikimedia
+
+[layer1, neuron 35]
+----------
+Top 20 concepts:
+red, logo, albania, greed, rot
+svg, spd, kosovo, kyrgyzstan, reds
+crimson, liberia, mudvayne, cymru, horde
+ferrari, tonga, freebsd, seal, avaya
+----------
+Bottom 20 concepts:
+striped, stairs, barred, photosmart, ramp
+duplex, steps, photographed, widescreen, trailing
+lehigh, passages, interior, coolpix, photographs
+streamline, photos, upstairs, downstairs, finepix
+
+[layer1, neuron 36]
+----------
+Top 20 concepts:
+dark, pluto, garnet, darkness, blackboard
+carisoprodol, black, darker, noir, minimal
+melanoma, banner, venom, signature, phantomnode
+sao, shakira, tyrosine, cairo, guitarist
+----------
+Bottom 20 concepts:
+migrate, lodging, leveraging, retractable, modernization
+miniature, consolidated, diecast, openoffice, particulars
+listings, relocation, overhead, suites, photosmart
+multifunction, surveying, defenses, defend, garrison
+
+[layer1, neuron 37]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, noir
+venom, darker, panoramic, pluto, headlights
+supernatural, wallpaper, generator, cellar, alexa
+guitar, led, initial, elec, dbz
+----------
+Bottom 20 concepts:
+householder, furnishing, bilder, particulars, adequacy
+accommodations, lodging, consolidated, adjoining, pichunter
+precedence, defenses, listings, ibid, coefficient
+practicable, cleanup, suitability, appraiser, specifying
+
+[layer1, neuron 38]
+----------
+Top 20 concepts:
+flew, glide, flying, flight, aviation
+airplanes, soaring, airlines, airborne, aircraft
+airfare, garrison, flown, aerospace, blue
+airfares, landing, plane, migrating, planes
+----------
+Bottom 20 concepts:
+embryos, signatures, volcano, embryo, lava
+dresser, ferrari, accelerator, prostitution, horde
+ventricular, gorilla, basement, rna, hiv
+senators, monogram, cellar, logo, signature
+
+[layer1, neuron 39]
+----------
+Top 20 concepts:
+garrison, blue, airplanes, aerospace, aviation
+aircraft, flight, flew, airlines, glide
+soaring, flying, airborne, plane, blues
+planes, airfare, airplane, soar, defend
+----------
+Bottom 20 concepts:
+badge, punjab, gorilla, prostitution, electrode
+signatures, villagers, garnet, rna, ordinator
+tomato, embryo, ferrari, dresser, ventricular
+medal, svg, monogram, logo, signature
+
+[layer1, neuron 40]
+----------
+Top 20 concepts:
+aircraft, airborne, aviation, airplanes, flew
+flying, soaring, plane, flight, airlines
+eagle, airmail, aerospace, soar, fly
+landing, hawk, planes, airplane, corsair
+----------
+Bottom 20 concepts:
+fireplaces, kennel, townhouse, facilities, courtyard
+sauna, bathrooms, interior, bathroom, kitchens
+rooms, kitchen, crypt, dungeon, interiors
+basement, stalls, corridor, cellar, corridors
+
+[layer1, neuron 41]
+----------
+Top 20 concepts:
+signature, carisoprodol, logo, monogram, nucleotide
+svg, rna, peptide, synthase, diagram
+apoptosis, drosophila, emblem, municipalities, tyrosine
+medal, diploma, ascii, polymerase, polymers
+----------
+Bottom 20 concepts:
+toilette, listings, defenses, defence, spotting
+wants, blog, test, infocus, patrol
+powershot, blur, explored, flickr, bilder
+want, cleanup, coolpix, defend, garrison
+
+[layer1, neuron 42]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+guiana, cymru, badge, malawi, kosovo
+municipality, municipalities, signature, greed, kyrgyzstan
+ferrari, electoral, tonga, spd, denmark
+----------
+Bottom 20 concepts:
+photo, trailing, aperture, interiors, glide
+suites, streamline, downstairs, photography, widescreen
+explored, passages, amenities, thresholds, relativity
+descending, coherence, coolpix, retractable, finepix
+
+[layer1, neuron 43]
+----------
+Top 20 concepts:
+photography, pose, social, photosmart, competitiveness
+diecast, posed, want, purchased, spinning
+streamline, becker, brandy, multifunction, green
+wants, posing, petrol, weber, held
+----------
+Bottom 20 concepts:
+population, emblem, capital, albania, badge
+ascii, seal, municipal, rectangular, liberia
+municipality, horde, nws, carisoprodol, diocese
+municipalities, monogram, signature, svg, logo
+
+[layer1, neuron 44]
+----------
+Top 20 concepts:
+meredith, finepix, harriet, polly, miniature
+lola, quilting, flynn, chubby, aforementioned
+sherry, philippe, nabble, stuffing, cocos
+squirt, sonny, baby, oliver, fostering
+----------
+Bottom 20 concepts:
+carisoprodol, diocese, symbol, municipalities, denmark
+wikimedia, minimal, accelerator, rot, monogram
+garnet, senators, senate, spd, signature
+ascii, nws, frankfurt, svg, logo
+
+[layer1, neuron 45]
+----------
+Top 20 concepts:
+corridor, corridors, dorm, hall, rooms
+bathroom, room, apartment, hostel, doors
+thresholds, door, accommodations, bedrooms, townhouse
+bathrooms, suites, interiors, interior, hostels
+----------
+Bottom 20 concepts:
+berg, apoptosis, palau, peptide, kenya
+guiana, mozambique, nacional, volcano, malawi
+symbol, kyrgyzstan, tanzania, botswana, angola
+cymru, albania, logo, svg, signature
+
+[layer1, neuron 46]
+----------
+Top 20 concepts:
+glide, poole, gull, landing, paddle
+watersports, floating, bathing, cruising, retrieving
+birding, swimming, graceful, sliding, goose
+clearwater, duck, swan, chesapeake, inlet
+----------
+Bottom 20 concepts:
+monogram, ascii, gorilla, bedroom, ferrari
+rot, volcano, horde, basement, coa
+carisoprodol, rna, tomato, signature, red
+spd, cellar, logo, hiv, drosophila
+
+[layer1, neuron 47]
+----------
+Top 20 concepts:
+stair, particulars, stairs, spiral, thresholds
+downstairs, upstairs, accessibility, restructuring, installations
+safeguards, architectures, steps, housewares, minimizing
+quilts, social, multifunction, interiors, novelties
+----------
+Bottom 20 concepts:
+ferrari, elk, kosovo, nsu, boeing
+cymru, avaya, iss, labrador, anguilla
+vodafone, minimal, albania, kiribati, signature
+tokelau, red, svg, logo, carisoprodol
+
+[layer1, neuron 48]
+----------
+Top 20 concepts:
+vampires, mafia, horde, zombie, rot
+crimson, vampire, prostitution, villagers, maroon
+ordinator, stab, bloody, blood, red
+pedestrian, senators, emeritus, stain, devil
+----------
+Bottom 20 concepts:
+overhead, exif, swansea, retractable, audubon
+vols, fiberglass, leveraging, infocus, fujifilm
+usability, getty, coherence, photograph, specifying
+photosmart, photographs, photo, coolpix, finepix
+
+[layer1, neuron 49]
+----------
+Top 20 concepts:
+maroon, burgundy, garnet, crimson, qatar
+mahogany, logo, cranberry, magenta, svg
+ubuntu, cabernet, carisoprodol, latvia, signature
+medal, loyola, monogram, usc, stanford
+----------
+Bottom 20 concepts:
+flying, hunting, surveying, multifunction, petrol
+photographs, glide, retrieval, mover, inside
+spotting, interiors, diecast, photosmart, blur
+toilette, defend, garrison, coolpix, finepix
+
+[layer1, neuron 50]
+----------
+Top 20 concepts:
+suites, widescreen, finepix, linens, basins
+installations, excursions, landscapes, solitary, retaining
+photo, listings, classicvacations, diecast, terrace
+freeport, surroundings, setting, view, scenery
+----------
+Bottom 20 concepts:
+ascii, rna, spd, wikimedia, apoptosis
+kyrgyzstan, coa, albania, symbol, monogram
+synthase, cursor, badge, drosophila, carisoprodol
+emblem, svg, signature, red, logo
+
+[layer1, neuron 51]
+----------
+Top 20 concepts:
+banner, darkness, dark, noir, iss
+panoramic, supernatural, darker, headlights, paranormal
+bedroom, cellar, venom, flashlight, wallpaper
+bed, crypt, pluto, generator, blackboard
+----------
+Bottom 20 concepts:
+reed, greed, identifiers, safeguards, shear
+consolidated, listed, ibid, perl, escrow
+conserved, analyses, purchaser, suitability, clipart
+coefficient, defenses, specifying, appraiser, cleanup
+
+[layer1, neuron 52]
+----------
+Top 20 concepts:
+logo, red, svg, albania, avaya
+signature, denmark, ferrari, badge, crimson
+vodafone, kyrgyzstan, nws, wikimedia, municipality
+guiana, spd, cymru, municipal, liberia
+----------
+Bottom 20 concepts:
+pioneering, pic, suites, downstairs, multifunction
+relativity, passages, coherence, photography, amenities
+excursions, glide, trailing, retractable, explored
+thresholds, descending, garrison, coolpix, finepix
+
+[layer1, neuron 53]
+----------
+Top 20 concepts:
+trays, pans, sequencing, cookbooks, strips
+photo, tabletop, finepix, boards, rollers
+sequence, glazing, ovens, cooking, counters
+slider, repetition, pioneering, preparations, steps
+----------
+Bottom 20 concepts:
+spd, anti, iss, symbol, rna
+initial, qr, monogram, vodafone, signature
+carisoprodol, hiv, pixel, avaya, wikimedia
+cursor, nws, ascii, svg, logo
+
+[layer1, neuron 54]
+----------
+Top 20 concepts:
+aviation, flew, airplanes, airlines, flying
+flight, soaring, aircraft, glide, airborne
+airfare, aerospace, garrison, plane, airfares
+flown, planes, airplane, descending, soar
+----------
+Bottom 20 concepts:
+accelerator, garnet, electrode, nucleotide, horde
+gorilla, embryos, ferrari, ventricular, prostitution
+embryo, hiv, senators, monogram, rna
+basement, dresser, logo, cellar, signature
+
+[layer1, neuron 55]
+----------
+Top 20 concepts:
+toilette, bathroom, privacy, amenities, accommodations
+suites, specifying, beige, lodging, usability
+hmmm, bathrooms, toilet, remington, travelodge
+shower, basins, accommodation, toilets, towels
+----------
+Bottom 20 concepts:
+tuvalu, monogram, carisoprodol, berg, garnet
+yuan, rna, rei, fuji, naval
+emblem, initial, tokelau, palau, spd
+diocese, red, signature, svg, logo
+
+[layer1, neuron 56]
+----------
+Top 20 concepts:
+interiors, thresholds, upstairs, downstairs, passages
+vaults, stalls, galleries, repository, corridors
+suites, interior, gallery, stair, inside
+photographs, stairs, accesses, wardrobe, threshold
+----------
+Bottom 20 concepts:
+freebsd, volcano, pixel, kyrgyzstan, seal
+avaya, vodafone, spd, signature, nws
+toyota, ferrari, fuji, albania, isuzu
+red, svg, ascii, carisoprodol, logo
+
+[layer1, neuron 57]
+----------
+Top 20 concepts:
+stair, flooring, thresholds, steps, stairs
+downstairs, upstairs, multifunction, barred, laminate
+usability, accessibility, fiberglass, installations, threshold
+ventilation, insulation, finepix, accesses, retractable
+----------
+Bottom 20 concepts:
+avaya, kiribati, liberia, guiana, agricultural
+municipalities, yuan, bahrain, carisoprodol, kerala
+albania, wikimedia, kyrgyzstan, anguilla, nws
+red, ascii, signature, svg, logo
+
+[layer1, neuron 58]
+----------
+Top 20 concepts:
+soaring, flew, airborne, flying, flight
+aviation, aircraft, soar, fly, airplanes
+eagle, plane, airlines, glide, aerospace
+hawk, flown, landing, planes, falcon
+----------
+Bottom 20 concepts:
+organ, lobby, interiors, facilities, tavern
+dresser, fireplaces, columns, library, registers
+kennel, stairs, stalls, corridor, courtyard
+dungeon, cellar, basement, corridors, crypt
+
+[layer1, neuron 59]
+----------
+Top 20 concepts:
+garrison, blue, finepix, airplane, airplanes
+plane, blues, flew, ultraviolet, fluorescence
+indigo, planes, saturation, flight, banner
+petrol, aircraft, cobalt, aerospace, soaring
+----------
+Bottom 20 concepts:
+tend, paving, delegate, editor, educator
+avaya, net, medal, badge, agricultural
+wikimedia, municipality, monogram, hungary, bib
+municipalities, slashdot, signature, logo, svg
+
+[layer1, neuron 60]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+guiana, cymru, malawi, kosovo, ferrari
+kyrgyzstan, badge, tonga, municipality, greed
+municipalities, spd, denmark, signature, avaya
+----------
+Bottom 20 concepts:
+upstairs, glide, photographs, interiors, trailing
+streamline, widescreen, suites, photography, downstairs
+explored, relativity, amenities, passages, thresholds
+coherence, descending, retractable, coolpix, finepix
+
+[layer1, neuron 61]
+----------
+Top 20 concepts:
+flew, flight, flying, flown, glide
+airborne, aviation, diecast, streamline, pioneering
+birding, scaled, landing, weber, soaring
+springer, withdrawn, spotting, richland, goose
+----------
+Bottom 20 concepts:
+capital, spd, albania, red, ferrari
+seal, volcano, senate, horde, hiv
+municipalities, cellar, rna, diocese, monogram
+crimson, carisoprodol, svg, signature, logo
+
+[layer1, neuron 62]
+----------
+Top 20 concepts:
+soaring, flew, airplanes, aircraft, flying
+flight, aviation, airborne, airlines, aerospace
+glide, plane, soar, airfare, flown
+airplane, planes, overhead, descending, falcon
+----------
+Bottom 20 concepts:
+fireplaces, font, embryo, bunker, tomatoes
+embryos, tomato, prostitution, logo, kitchen
+ferrari, rna, tavern, dungeon, hiv
+electrode, dresser, basement, cellar, signature
+
+[layer1, neuron 63]
+----------
+Top 20 concepts:
+corridor, corridors, dorm, room, suites
+bedrooms, hall, rooms, hostel, interiors
+accommodations, townhouse, hostels, accommodation, apartment
+closet, bathroom, renovated, remodeling, interior
+----------
+Bottom 20 concepts:
+isuzu, angola, toyota, kyrgyzstan, pixel
+seal, juvenile, badge, cymru, yuan
+agricultural, fuji, apoptosis, carisoprodol, ascii
+symbol, wikimedia, svg, logo, signature
+
+[layer1, neuron 64]
+----------
+Top 20 concepts:
+maroon, burgundy, crimson, garnet, logo
+svg, qatar, carisoprodol, signature, medal
+magenta, monogram, red, ubuntu, stanford
+cranberry, usc, latvia, seal, wikimedia
+----------
+Bottom 20 concepts:
+excursions, multifunction, interiors, petrol, descending
+defenses, migrate, photosmart, glide, diecast
+hunting, retrieval, blur, surveying, spotting
+toilette, defend, coolpix, finepix, garrison
+
+[layer1, neuron 65]
+----------
+Top 20 concepts:
+aviation, airplanes, garrison, aircraft, airlines
+flew, flight, flying, soaring, aerospace
+airborne, glide, airfare, plane, blue
+planes, airfares, flown, airplane, soar
+----------
+Bottom 20 concepts:
+kittens, medal, embryos, svg, ordinator
+garnet, electrode, senators, cellar, gorilla
+prostitution, hiv, ferrari, ventricular, embryo
+rna, dresser, monogram, logo, signature
+
+[layer1, neuron 66]
+----------
+Top 20 concepts:
+horde, red, rot, bloody, blood
+greed, vampires, crimson, zombie, stain
+infected, mafia, emblem, stab, butcher
+tend, villagers, ordinator, vampire, devil
+----------
+Bottom 20 concepts:
+overhead, weymouth, photographed, getty, pic
+photos, usability, fujifilm, relativity, widescreen
+foto, photograph, purdue, retractable, photosmart
+coherence, photo, coolpix, photographs, finepix
+
+[layer1, neuron 67]
+----------
+Top 20 concepts:
+flight, flying, glide, streamline, aviation
+soaring, airborne, aerospace, flown, flew
+overhead, landing, diecast, descending, inverted
+aircraft, petrol, airlines, floating, scandinavian
+----------
+Bottom 20 concepts:
+spd, freebsd, hiv, albania, apoptosis
+red, municipal, nws, municipality, monogram
+ferrari, diocese, rna, horde, crimson
+carisoprodol, signature, municipalities, svg, logo
+
+[layer1, neuron 68]
+----------
+Top 20 concepts:
+aviation, flight, airborne, airplanes, flying
+aircraft, airlines, flew, aerospace, soaring
+glide, airfare, plane, planes, descending
+landing, flown, airfares, airmail, airplane
+----------
+Bottom 20 concepts:
+carisoprodol, font, hiv, senate, crimson
+dresser, organ, bunker, prostitution, monogram
+ferrari, municipalities, crypt, diocese, rna
+signature, dungeon, basement, cellar, logo
+
+[layer1, neuron 69]
+----------
+Top 20 concepts:
+red, logo, svg, albania, greed
+rot, liberia, ferrari, kyrgyzstan, cymru
+spd, kosovo, malawi, seal, tonga
+badge, horde, guiana, freebsd, inuyasha
+----------
+Bottom 20 concepts:
+streamline, interiors, upstairs, photography, widescreen
+explored, photos, thresholds, photographs, photo
+suites, amenities, relativity, passages, downstairs
+coherence, descending, coolpix, retractable, finepix
+
+[layer1, neuron 70]
+----------
+Top 20 concepts:
+soaring, flew, airplanes, flying, aircraft
+aviation, flight, airlines, airborne, plane
+aerospace, soar, glide, airfare, airplane
+flown, planes, overhead, airfares, falcon
+----------
+Bottom 20 concepts:
+embryos, prostitution, fireplaces, hiv, sauna
+corridors, stalls, bedroom, bunker, kitchens
+electrode, rna, corridor, tavern, kitchen
+dungeon, signature, dresser, basement, cellar
+
+[layer1, neuron 71]
+----------
+Top 20 concepts:
+monogram, symbol, svg, accelerator, diocese
+lambda, signature, coa, ordinator, cursor
+emblem, axe, rna, fuji, volcano
+archbishop, papua, bat, guitarist, agricultural
+----------
+Bottom 20 concepts:
+awesome, modernization, specifying, defend, enjoyed
+explored, ecard, multifunction, powershot, photo
+imaginative, bilder, photosmart, infocus, leveraging
+flickr, photographs, garrison, finepix, coolpix
+
+[layer1, neuron 72]
+----------
+Top 20 concepts:
+photographs, nesting, nested, excursions, ornamental
+photography, coolpix, pioneering, multifunction, wilde
+hunting, stormwater, differing, swinger, biodiversity
+exploring, suitability, succession, systematically, treasures
+----------
+Bottom 20 concepts:
+bahrain, guam, monogram, qatar, initial
+minimal, cymru, kiribati, tokelau, anguilla
+guiana, albania, senate, liberia, signature
+carisoprodol, seal, red, svg, logo
+
+[layer1, neuron 73]
+----------
+Top 20 concepts:
+grazing, wildlife, pasture, biodiversity, nature
+meadows, green, birding, meadow, ecology
+grass, lawn, shropshire, locals, surveying
+fauna, ecological, nearby, hunting, acreage
+----------
+Bottom 20 concepts:
+diocese, metro, signatures, naval, garnet
+ferrari, ascii, overlay, hiv, monaco
+monogram, pour, barcelona, bahrain, spd
+drosophila, accelerator, svg, signature, logo
+
+[layer1, neuron 74]
+----------
+Top 20 concepts:
+kitchen, kitchens, interiors, counters, amenities
+cookbooks, loft, interior, streamline, photography
+glazing, cook, specialties, indoor, preparatory
+minimizing, townhouse, workstations, vocational, multidisciplinary
+----------
+Bottom 20 concepts:
+guiana, mongolia, kyrgyzstan, freebsd, cursor
+malawi, red, monogram, ascii, nws
+wikimedia, liberia, albania, signature, pixel
+anguilla, seal, carisoprodol, svg, logo
+
+[layer1, neuron 75]
+----------
+Top 20 concepts:
+shower, showers, burgundy, maroon, stain
+stains, rat, staining, stained, cranberry
+adopt, leakage, leak, leaks, splinter
+basename, homeowner, copper, householder, mold
+----------
+Bottom 20 concepts:
+lobby, vodafone, museum, finepix, touring
+approach, heading, aerospace, yamaha, hyderabad
+automobile, galleries, exhibitions, itinerary, departing
+flying, airlines, flight, descending, aviation
+
+[layer1, neuron 76]
+----------
+Top 20 concepts:
+banner, darkness, iss, dark, darker
+panoramic, pluto, noir, headlights, venom
+alexa, wallpaper, fireworks, flashlight, ultraviolet
+supernatural, lq, electricity, elec, lights
+----------
+Bottom 20 concepts:
+burma, ordinances, perl, regency, thermometer
+restoration, petitioner, seating, former, delegated
+variant, conserved, clipart, genealogical, listed
+analyses, bib, purchaser, size, appraiser
+
+[layer1, neuron 77]
+----------
+Top 20 concepts:
+photosmart, finepix, pose, diecast, photography
+blur, weber, wheeler, posed, whipping
+posing, multifunction, coolpix, becker, pioneering
+saunders, purchased, snapshot, held, cooke
+----------
+Bottom 20 concepts:
+anguilla, ascii, rna, badge, horde
+volcano, liberia, diocese, symbol, seal
+emblem, municipalities, qatar, albania, nws
+monogram, carisoprodol, signature, svg, logo
+
+[layer1, neuron 78]
+----------
+Top 20 concepts:
+repository, mosaic, nested, nesting, specifying
+photographs, quilts, lattice, suites, toilette
+suitability, decor, minimizing, sourcing, bilder
+firewall, firewalls, thresholds, woven, ornamental
+----------
+Bottom 20 concepts:
+spd, nunavut, nws, liberia, rna
+cymru, suzuki, anguilla, minimal, symbol
+emblem, carisoprodol, isuzu, red, seal
+initial, monogram, signature, svg, logo
+
+[layer1, neuron 79]
+----------
+Top 20 concepts:
+ascii, telnet, lava, arabidopsis, senators
+tend, red, rot, spd, resistor
+sectors, yugoslavia, volcanic, ansi, crimson
+arrows, nero, atari, senate, bitmap
+----------
+Bottom 20 concepts:
+enjoyed, foto, leveraging, narnia, hostel
+inviting, photos, hostels, listings, lodging
+amenities, quilts, guess, topless, usability
+coolpix, photo, swansea, privat, finepix
+
+[layer1, neuron 80]
+----------
+Top 20 concepts:
+glide, floating, cruising, landing, poole
+cruise, gull, streamline, sliding, solitary
+withdrawn, retrieving, gulf, gnd, motoring
+migrating, graceful, weymouth, flying, migrate
+----------
+Bottom 20 concepts:
+crimson, synthase, agricultural, hoodia, emblem
+carisoprodol, spd, horde, signature, basement
+monogram, rna, veterinary, tomatoes, red
+tomato, cellar, hiv, logo, drosophila
+
+[layer1, neuron 81]
+----------
+Top 20 concepts:
+red, logo, horde, svg, greed
+rot, mudvayne, albania, spd, blood
+badge, cymru, liberia, bloody, municipalities
+electoral, nws, kosovo, kyrgyzstan, anti
+----------
+Bottom 20 concepts:
+glide, thresholds, suites, downstairs, passages
+lehigh, infocus, photos, photography, aperture
+coherence, photographs, descending, relativity, photo
+widescreen, streamline, coolpix, retractable, finepix
+
+[layer1, neuron 82]
+----------
+Top 20 concepts:
+corridors, bathroom, corridor, suites, interiors
+bedrooms, stalls, room, rooms, hall
+thresholds, bathrooms, accommodations, dorm, townhouse
+closet, accommodation, remodeling, installations, hostel
+----------
+Bottom 20 concepts:
+seal, monogram, lava, emblem, yuan
+albania, volcano, badge, initial, carisoprodol
+cursor, apoptosis, kyrgyzstan, ascii, fuji
+symbol, wikimedia, svg, signature, logo
+
+[layer1, neuron 83]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, panoramic
+darker, noir, headlights, pluto, supernatural
+alexa, wallpaper, venom, cellar, led
+generator, blackboard, fireworks, elec, lights
+----------
+Bottom 20 concepts:
+listed, housekeeping, ibid, consolidated, pursuant
+practicable, escrow, incorporation, precedence, clipart
+analyses, conserved, householder, suitability, coefficient
+safeguards, adjoining, specifying, purchaser, appraiser
+
+[layer1, neuron 84]
+----------
+Top 20 concepts:
+logo, red, crimson, svg, burgundy
+maroon, avaya, badge, rot, medal
+garnet, wikimedia, signature, nws, ferrari
+seal, albania, spd, kyrgyzstan, monogram
+----------
+Bottom 20 concepts:
+photos, pioneering, toilette, powershot, photographs
+flight, retractable, pic, downstairs, photo
+inside, photosmart, trailing, explored, excursions
+thresholds, glide, descending, coolpix, finepix
+
+[layer1, neuron 85]
+----------
+Top 20 concepts:
+interiors, downstairs, decor, interior, upstairs
+renovated, lobby, steps, decorations, hostels
+amenities, stairs, suites, corridors, decoration
+tiles, remodeling, passages, repository, crib
+----------
+Bottom 20 concepts:
+kangaroo, seal, logo, subaru, initial
+mazda, mitsubishi, vodafone, svg, minimal
+toshiba, sudan, spd, kyrgyzstan, toyota
+fuji, symbol, kyocera, cursor, suzuki
+
+[layer1, neuron 86]
+----------
+Top 20 concepts:
+signature, svg, monogram, logo, carisoprodol
+medal, emblem, rna, nucleotide, ascii
+accelerator, drosophila, bunker, atari, symbol
+diploma, isuzu, ambulance, garnet, rifle
+----------
+Bottom 20 concepts:
+imaginative, enjoying, toilette, pics, multifunction
+leveraging, enjoyed, photographs, finepix, blur
+powershot, infocus, listings, explored, want
+flickr, bilder, defend, coolpix, garrison
+
+[layer1, neuron 87]
+----------
+Top 20 concepts:
+iss, darkness, dark, venom, elec
+sao, initial, pluto, intro, noir
+seizure, dcs, dbz, sc, darker
+supernatural, generator, filmed, rant, ultraviolet
+----------
+Bottom 20 concepts:
+construed, adequacy, adjoining, specifies, accrued
+establishments, precedence, weblog, practicable, genealogical
+clipart, incorporation, safeguards, subcategories, ibid
+clearinghouse, suitability, purchaser, specifying, appraiser
+
+[layer1, neuron 88]
+----------
+Top 20 concepts:
+glide, airborne, flying, flight, streamline
+flown, flew, soaring, aviation, landing
+blur, floating, petrol, photosmart, aerospace
+garrison, photography, inverted, inbound, fischer
+----------
+Bottom 20 concepts:
+municipality, rot, municipal, prostitution, red
+carisoprodol, albania, spd, nws, diocese
+rna, monogram, ferrari, horde, senate
+crimson, municipalities, signature, svg, logo
+
+[layer1, neuron 89]
+----------
+Top 20 concepts:
+retrieving, retrieve, surveying, birding, stormwater
+wildlife, muddy, hunting, retriever, locals
+nature, retrieved, biodiversity, finepix, explores
+wetland, roaming, yielding, bathing, weir
+----------
+Bottom 20 concepts:
+red, frankfurt, capital, jakarta, carisoprodol
+signatures, initial, badge, logos, coa
+qatar, symbol, diocese, spd, bahrain
+emblem, monogram, signature, svg, logo
+
+[layer1, neuron 90]
+----------
+Top 20 concepts:
+flew, glide, flying, flight, soaring
+airlines, aviation, airborne, airfare, airplanes
+landing, flown, aircraft, migrating, airfares
+garrison, migrate, aerospace, blue, freedom
+----------
+Bottom 20 concepts:
+prostitution, senate, dungeon, volcano, signatures
+spd, horde, lava, ventricular, ferrari
+gorilla, rna, senators, hiv, accelerator
+basement, monogram, cellar, logo, signature
+
+[layer1, neuron 91]
+----------
+Top 20 concepts:
+red, svg, rectangular, profileprofile, badge
+seal, nws, cursor, slashdot, emblem
+logo, garnet, crimson, monogram, rot
+wikimedia, medal, greed, archbishop, tomato
+----------
+Bottom 20 concepts:
+descending, widescreen, photos, amenities, installations
+photographs, photo, awakenings, relativity, interiors
+inside, leveraging, synchronization, interior, coherence
+explored, coolpix, pic, photography, finepix
+
+[layer1, neuron 92]
+----------
+Top 20 concepts:
+maroon, burgundy, crimson, garnet, qatar
+cranberry, magenta, mahogany, stained, cabernet
+velvet, stain, ubuntu, latvia, seal
+raspberry, carisoprodol, medal, usc, stanford
+----------
+Bottom 20 concepts:
+migrate, synchronization, photo, snapshot, finepix
+soaring, lookout, flown, coolpix, photographs
+flew, leveraging, multifunction, flight, surveying
+photosmart, spotting, glide, flying, diecast
+
+[layer1, neuron 93]
+----------
+Top 20 concepts:
+maroon, burgundy, crimson, logo, red
+svg, garnet, signature, medal, seal
+carisoprodol, albania, qatar, monogram, freebsd
+badge, rot, ferrari, wikimedia, magenta
+----------
+Bottom 20 concepts:
+retrieval, photo, photos, inside, interiors
+explored, retractable, diecast, excursions, thresholds
+suites, toilette, multifunction, photographs, glide
+descending, photosmart, garrison, coolpix, finepix
+
+[layer1, neuron 94]
+----------
+Top 20 concepts:
+interiors, downstairs, accessibility, upstairs, interior
+architectures, usability, suites, installations, loft
+stairs, conservatory, thresholds, amenities, penthouse
+indoor, townhouse, indoors, glazing, facilities
+----------
+Bottom 20 concepts:
+horde, coyote, elk, skull, medal
+kangaroo, symbol, emblem, wikimedia, pixel
+badge, cursor, seal, carisoprodol, red
+monogram, anguilla, signature, logo, svg
+
+[layer1, neuron 95]
+----------
+Top 20 concepts:
+interiors, decor, corridors, bedrooms, columns
+hostels, interior, downstairs, lobby, suites
+passages, upstairs, furnished, rooms, renovated
+townhouse, stalls, furnishing, crib, thresholds
+----------
+Bottom 20 concepts:
+initial, ferrari, pixel, mazda, albania
+isuzu, rna, cymru, spd, toyota
+vodafone, fuji, symbol, kyrgyzstan, suzuki
+carisoprodol, red, seal, logo, svg
+
+[layer1, neuron 96]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+cymru, guiana, kyrgyzstan, malawi, ferrari
+kosovo, greed, tonga, spd, badge
+rot, avaya, municipality, municipalities, seal
+----------
+Bottom 20 concepts:
+interiors, upstairs, trailing, photographs, photo
+streamline, widescreen, photography, suites, explored
+amenities, relativity, downstairs, passages, thresholds
+coherence, descending, retractable, coolpix, finepix
+
+[layer1, neuron 97]
+----------
+Top 20 concepts:
+condemned, rot, demolition, papers, hud
+vent, bathrooms, red, pixel, remodeling
+dong, greed, bathroom, toilet, dungeon
+plumbers, tenant, spd, zombie, infected
+----------
+Bottom 20 concepts:
+cdna, shropshire, receptors, photographs, suriname
+photosmart, coolpix, websphere, wellbutrin, photo
+britannica, photography, phosphorylation, fluorescence, audubon
+surnames, dehydrogenase, tyrosine, harmonic, finepix
+
+[layer1, neuron 98]
+----------
+Top 20 concepts:
+steps, stairs, stair, restructuring, pioneering
+ramp, usability, downstairs, upstairs, multifunction
+accesses, leveraging, slides, retaining, rollers
+installations, architectures, spans, ramps, accessibility
+----------
+Bottom 20 concepts:
+coa, ordinator, hiv, emblem, symbol
+garnet, badge, crimson, profileprofile, spd
+pixel, monogram, ascii, medal, carisoprodol
+cursor, signature, svg, red, logo
+
+[layer1, neuron 99]
+----------
+Top 20 concepts:
+upstairs, architectures, retractable, descending, overhead
+above, downstairs, stair, upwards, streamline
+glide, stairs, elevated, lookup, relativity
+installations, aa, loft, architectural, ladder
+----------
+Bottom 20 concepts:
+pixel, toyota, zombie, hiv, badge
+ventricular, horde, volcano, yuan, logo
+agricultural, seal, rna, embryos, initial
+medal, embryo, signature, apoptosis, carisoprodol
+
+[layer1, neuron 100]
+----------
+Top 20 concepts:
+garrison, diecast, petrol, defend, cleanup
+patrol, aa, weber, photography, aaa
+multifunction, photosmart, streamline, wants, want
+magnum, wishlist, recommends, booster, these
+----------
+Bottom 20 concepts:
+ferrari, agricultural, initial, badge, apoptosis
+albania, horde, medal, rna, diocese
+municipal, crimson, municipality, nws, municipalities
+signature, carisoprodol, monogram, svg, logo
+
+[layer1, neuron 101]
+----------
+Top 20 concepts:
+banner, signature, noir, carisoprodol, logo
+iss, guitar, venom, initial, font
+blackboard, monogram, rna, dark, drosophila
+electrode, ascii, piano, slogan, supernatural
+----------
+Bottom 20 concepts:
+surveying, particulars, sarbanes, openoffice, blog
+lodging, leases, nearby, trembl, defend
+appraiser, consolidated, multifunction, ibid, listings
+garrison, bilder, defenses, cleanup, specifying
+
+[layer1, neuron 102]
+----------
+Top 20 concepts:
+maroon, burgundy, crimson, garnet, logo
+svg, red, qatar, medal, signature
+cranberry, magenta, wikimedia, monogram, carisoprodol
+ubuntu, latvia, seal, badge, stanford
+----------
+Bottom 20 concepts:
+expeditions, multifunction, surveying, defend, hunting
+diecast, thresholds, excursions, photosmart, retrieval
+interiors, inside, descending, spotting, glide
+blur, toilette, coolpix, garrison, finepix
+
+[layer1, neuron 103]
+----------
+Top 20 concepts:
+maroon, burgundy, crimson, garnet, stained
+cranberry, stain, qatar, seal, cabernet
+magenta, velvet, cursor, cardinal, mahogany
+archbishop, elk, ordinator, blood, raspberry
+----------
+Bottom 20 concepts:
+ibook, photograph, linkages, modernization, pioneering
+interoperability, photography, pic, multifunction, fotos
+overhead, foto, photo, photos, coolpix
+diecast, photographs, photosmart, leveraging, finepix
+
+[layer1, neuron 104]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, dehydrogenase, methyl, apoptosis, signature
+rna, polymers, ionamin, tramadol, blackboard
+magnesium, metabolic, node, synthase, polymerase
+----------
+Bottom 20 concepts:
+phpbb, blur, uncategorized, collectable, scouting
+blog, raid, weblog, petrol, aaa
+red, cleanup, patrol, wavelength, greed
+defence, defense, defend, defenses, garrison
+
+[layer1, neuron 105]
+----------
+Top 20 concepts:
+carisoprodol, signature, nucleotide, rna, monogram
+peptide, tyrosine, glucose, wellbutrin, logo
+polymers, synthase, apoptosis, dehydrogenase, symbol
+svg, initial, polymerase, ascii, diagram
+----------
+Bottom 20 concepts:
+spotting, coolpix, listings, pichunter, collectable
+want, raid, petrol, aaa, blur
+flickr, blog, bilder, defense, patrol
+cleanup, defence, defenses, defend, garrison
+
+[layer1, neuron 106]
+----------
+Top 20 concepts:
+window, lobby, interiors, nightclub, lightbox
+indoors, venue, thresholds, projectors, glassware
+loft, rooms, tavern, lights, dungeon
+laboratory, mirrors, gatherings, windows, passages
+----------
+Bottom 20 concepts:
+parrot, guiana, g, boeing, carisoprodol
+signature, fly, pin, svg, deg
+eagle, angola, hawk, flew, female
+bird, male, mating, juvenile, mounted
+
+[layer1, neuron 107]
+----------
+Top 20 concepts:
+carisoprodol, signature, tyrosine, wellbutrin, nucleotide
+peptide, logo, rna, svg, monogram
+glucose, apoptosis, dehydrogenase, symbol, vodafone
+synthase, node, tokelau, methyl, polymers
+----------
+Bottom 20 concepts:
+blog, surveying, bilder, hunting, amenities
+aforementioned, thresholds, collectable, blur, spotting
+petrol, flickr, intrusion, defense, cleanup
+patrol, defence, defenses, defend, garrison
+
+[layer1, neuron 108]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, indigo, blue
+glucose, peptide, methyl, iss, dehydrogenase
+polymers, nucleotide, uv, blu, ionamin
+ultraviolet, nitrogen, alprazolam, led, polymerase
+----------
+Bottom 20 concepts:
+cardinal, rot, pichunter, buckinghamshire, wavelength
+uncategorized, maroon, patrol, ruby, ezine
+reds, surveying, defenses, appraiser, burgundy
+rouge, slashdot, crimson, red, greed
+
+[layer1, neuron 109]
+----------
+Top 20 concepts:
+nested, dinar, pulses, soups, supper
+stuffing, newborn, coupling, luncheon, nesting
+dinners, lunch, aforementioned, eating, differing
+nest, sourcing, photo, identification, buds
+----------
+Bottom 20 concepts:
+carisoprodol, municipalities, yugoslavia, slogan, senate
+denmark, accelerator, rot, liberia, isuzu
+ferrari, frankfurt, spd, monogram, minimal
+red, garnet, signature, svg, logo
+
+[layer1, neuron 110]
+----------
+Top 20 concepts:
+red, logo, albania, svg, greed
+liberia, rot, kyrgyzstan, malawi, cymru
+seal, kosovo, ferrari, tonga, guiana
+spd, horde, freebsd, inuyasha, badge
+----------
+Bottom 20 concepts:
+explored, photography, streamline, interiors, widescreen
+upstairs, photos, thresholds, amenities, photo
+photographs, relativity, suites, coherence, passages
+downstairs, descending, coolpix, retractable, finepix
+
+[layer1, neuron 111]
+----------
+Top 20 concepts:
+corridors, rooms, suites, interiors, room
+corridor, doors, dorm, thresholds, accommodations
+bedrooms, apartment, townhouse, hostel, amenities
+hostels, condominium, cabinets, hotels, hotel
+----------
+Bottom 20 concepts:
+isuzu, coa, angola, boeing, freebsd
+volcano, toyota, apoptosis, nws, kiribati
+vodafone, logo, kyrgyzstan, wikimedia, carisoprodol
+tokelau, signature, cymru, agricultural, svg
+
+[layer1, neuron 112]
+----------
+Top 20 concepts:
+uv, ultraviolet, blue, indigo, carisoprodol
+led, leds, wellbutrin, tyrosine, blu
+glucose, lights, peptide, fluorescence, cyan
+polymers, ionamin, lighting, nucleotide, blues
+----------
+Bottom 20 concepts:
+scouting, labour, heartland, ruby, pichunter
+objectionable, countrywide, reds, regard, buckinghamshire
+burgundy, banner, rouge, appraiser, cardinal
+crimson, surveying, slashdot, red, greed
+
+[layer1, neuron 113]
+----------
+Top 20 concepts:
+interiors, corridors, corridor, stalls, thresholds
+decor, suites, rooms, hall, interior
+bedrooms, townhouse, room, curtains, dorm
+hostel, hostels, remodeling, furnishing, columns
+----------
+Bottom 20 concepts:
+sakai, nws, tokelau, mazda, cymru
+suzuki, pixel, fuji, apoptosis, seal
+isuzu, kyrgyzstan, toyota, symbol, signature
+ascii, wikimedia, carisoprodol, svg, logo
+
+[layer1, neuron 114]
+----------
+Top 20 concepts:
+red, rot, greed, horde, crimson
+spd, rouge, lava, mafia, trains
+papers, railway, pixel, highways, ambulance
+pedestrian, railroad, blood, ferrari, anti
+----------
+Bottom 20 concepts:
+usability, powershot, vols, coherence, relativity
+swinger, handel, chromatography, foto, photograph
+retractable, audubon, photography, photographed, photos
+photosmart, photo, coolpix, photographs, finepix
+
+[layer1, neuron 115]
+----------
+Top 20 concepts:
+bathrooms, toilets, bathroom, kennel, condemned
+facilities, toilet, blinds, red, sanitation
+rot, radiator, stalls, greed, rammstein
+foreclosure, householder, plumbing, condominium, slashdot
+----------
+Bottom 20 concepts:
+discovery, firefly, aircraft, passing, tackling
+airlines, finepix, flown, airplanes, inbound
+aviation, soaring, landing, trailing, airborne
+glide, flew, descending, flight, flying
+
+[layer1, neuron 116]
+----------
+Top 20 concepts:
+maroon, burgundy, garnet, crimson, elk
+stain, velvet, cabernet, stained, seal
+hoodia, volcano, cranberry, archbishop, mudvayne
+coyote, qatar, lama, mahogany, ordinator
+----------
+Bottom 20 concepts:
+jubilee, swinger, retractable, openoffice, flight
+modernization, photography, foto, fotos, flying
+photographs, photos, multifunction, overhead, photo
+leveraging, coolpix, photosmart, diecast, finepix
+
+[layer1, neuron 117]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, dehydrogenase, signature, rna, methyl
+apoptosis, polymers, synthase, ionamin, metabolic
+polymerase, blackboard, node, alprazolam, initial
+----------
+Bottom 20 concepts:
+petrol, scouting, flickr, red, particulars
+uncategorized, collectable, raid, weblog, aaa
+blog, patrol, cleanup, greed, wavelength
+defense, defence, defend, defenses, garrison
+
+[layer1, neuron 118]
+----------
+Top 20 concepts:
+locals, surveying, supervisory, retrieving, supervising
+neighbours, borrower, grazing, roaming, neighbour
+exploring, mobility, explores, handlers, supervised
+pioneering, rancho, watchdog, humphrey, dudley
+----------
+Bottom 20 concepts:
+coa, senate, kiribati, medal, maldives
+anguilla, jakarta, symbol, spd, monogram
+carisoprodol, badge, red, drosophila, tokelau
+bahrain, emblem, svg, signature, logo
+
+[layer1, neuron 119]
+----------
+Top 20 concepts:
+kitchen, kitchens, gatherings, preparatory, interiors
+amenities, cookbooks, suites, housewives, counters
+interior, cooking, hostels, photosmart, photographs
+social, townhouse, chefs, winery, residency
+----------
+Bottom 20 concepts:
+tokelau, monogram, kiribati, red, nunavut
+spd, pixel, initial, denmark, rot
+nws, symbol, vanuatu, signature, ascii
+liberia, cymru, carisoprodol, logo, svg
+
+[layer1, neuron 120]
+----------
+Top 20 concepts:
+logo, monogram, svg, avaya, ign
+signature, badge, spd, initial, emblem
+hiv, wikimedia, municipalities, symbol, capital
+red, nws, logos, ascii, senators
+----------
+Bottom 20 concepts:
+scattering, photographs, photography, migrating, powershot
+spacious, streamline, retractable, green, widescreen
+flickr, glide, coherence, megapixels, explored
+photo, pic, coolpix, garrison, finepix
+
+[layer1, neuron 121]
+----------
+Top 20 concepts:
+wants, want, cleanup, ordered, petrol
+wishlist, need, purchased, scandinavian, clipart
+aaa, garrison, purchasing, defence, defend
+sit, wanting, suche, aa, manufacturer
+----------
+Bottom 20 concepts:
+pathway, rna, locations, mosque, tavern
+lighthouse, condemned, columns, entering, pillars
+organ, entrance, basement, corridor, elevator
+corridors, bunker, dungeon, crypt, cellar
+
+[layer1, neuron 122]
+----------
+Top 20 concepts:
+carisoprodol, signature, monogram, rna, peptide
+nucleotide, logo, svg, synthase, tyrosine
+apoptosis, glucose, diocese, drosophila, medal
+diploma, polymerase, dehydrogenase, blackboard, initial
+----------
+Bottom 20 concepts:
+powershot, particulars, petrol, listings, spotting
+explored, hunting, cleanup, defence, want
+test, patrol, bilder, coolpix, aaa
+flickr, defenses, blur, defend, garrison
+
+[layer1, neuron 123]
+----------
+Top 20 concepts:
+dark, iss, venom, darkness, sao
+minimal, noir, initial, pluto, rna
+blackboard, polymers, carisoprodol, darker, glucose
+accelerator, nucleotide, guitar, electrode, nba
+----------
+Bottom 20 concepts:
+miniature, blog, ezine, hist, expat
+practicable, openoffice, metasearch, ibid, defend
+defenses, toilette, listings, lodging, specifying
+surveying, appraiser, weblog, bilder, garrison
+
+[layer1, neuron 124]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, darker
+noir, headlights, supernatural, panoramic, venom
+pluto, flashlight, lq, ultraviolet, wallpaper
+alexa, cellar, generator, paranormal, elec
+----------
+Bottom 20 concepts:
+subcategories, ibid, applicability, listed, clearinghouse
+analyses, safeguards, practicable, adjoining, establishments
+consolidated, clipart, precedence, incorporation, conserved
+suitability, purchaser, coefficient, specifying, appraiser
+
+[layer1, neuron 125]
+----------
+Top 20 concepts:
+steps, stairs, stair, ramp, accessibility
+downstairs, upstairs, usability, modernization, excursions
+accesses, benches, passages, architectures, withdrawn
+retaining, step, abandoned, succession, seating
+----------
+Bottom 20 concepts:
+kyrgyzstan, kerala, nws, wikimedia, tokelau
+emblem, medal, seal, volcano, vodafone
+yuan, guiana, pixel, logo, anguilla
+svg, red, carisoprodol, cursor, albania
+
+[layer1, neuron 126]
+----------
+Top 20 concepts:
+carisoprodol, signature, rna, nucleotide, peptide
+monogram, synthase, tyrosine, logo, apoptosis
+wellbutrin, svg, dehydrogenase, glucose, polymerase
+node, drosophila, polymers, ventricular, initial
+----------
+Bottom 20 concepts:
+hunting, wants, obtain, aforementioned, test
+collectable, aaa, defense, bilder, petrol
+coolpix, want, flickr, blur, patrol
+defence, cleanup, defenses, defend, garrison
+
+[layer1, neuron 127]
+----------
+Top 20 concepts:
+maroon, burgundy, garnet, svg, carisoprodol
+signature, monogram, crimson, qatar, mahogany
+cabernet, medal, diocese, logo, diploma
+latvia, tyrosine, cursor, seal, rna
+----------
+Bottom 20 concepts:
+hmmm, petrol, explored, flickr, spotting
+inside, multifunction, bilder, imaginative, hunting
+blur, photographs, photosmart, diecast, toilette
+leveraging, coolpix, defend, finepix, garrison
+
+[layer1, neuron 128]
+----------
+Top 20 concepts:
+repository, amenities, installations, toilette, specifying
+cage, enclosure, lattice, retractable, restructuring
+cages, accesses, facilities, catalytic, barred
+diecast, modernization, sentenced, accessibility, firewall
+----------
+Bottom 20 concepts:
+kyrgyzstan, wikimedia, symbol, kosovo, anguilla
+yuan, albania, cymru, emblem, overlay
+cursor, carisoprodol, seal, initial, minimal
+monogram, red, signature, svg, logo
+
+[layer1, neuron 129]
+----------
+Top 20 concepts:
+streamline, glide, floating, pioneering, multifunction
+retractable, sliding, scaled, diecast, bilder
+withdrawn, maritime, migrating, mariner, movable
+imaginative, coupling, leveraging, excursions, sunderland
+----------
+Bottom 20 concepts:
+badge, agricultural, diocese, ascii, coa
+crimson, hiv, tomato, medal, emblem
+initial, drosophila, horde, ferrari, carisoprodol
+monogram, svg, signature, red, logo
+
+[layer1, neuron 130]
+----------
+Top 20 concepts:
+signature, monogram, accelerator, carisoprodol, svg
+rna, nucleotide, symbol, synthase, peptide
+logo, diocese, fuji, capacitor, diploma
+municipalities, rectangular, drosophila, pyramid, cheque
+----------
+Bottom 20 concepts:
+leveraging, spotting, hmmm, imaginative, infocus
+spying, cleanup, defenses, hunting, aaa
+defence, explored, listings, patrol, bilder
+want, flickr, coolpix, defend, garrison
+
+[layer1, neuron 131]
+----------
+Top 20 concepts:
+logo, red, svg, crimson, albania
+signature, liberia, avaya, ferrari, kyrgyzstan
+badge, guiana, medal, seal, burgundy
+wikimedia, rot, denmark, maroon, freebsd
+----------
+Bottom 20 concepts:
+inside, pic, trailing, passages, photographs
+photos, multifunction, excursions, explored, amenities
+glide, downstairs, interiors, suites, retractable
+thresholds, garrison, descending, coolpix, finepix
+
+[layer1, neuron 132]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, signature, wellbutrin, peptide
+nucleotide, rna, monogram, dehydrogenase, glucose
+synthase, apoptosis, methyl, polymerase, node
+polymers, symbol, initial, blackboard, ionamin
+----------
+Bottom 20 concepts:
+want, spotting, particulars, listings, collectable
+raid, greed, scouting, flickr, blur
+wavelength, petrol, aaa, cleanup, defense
+patrol, defence, defenses, defend, garrison
+
+[layer1, neuron 133]
+----------
+Top 20 concepts:
+bathroom, townhouse, apartment, duplex, bathrooms
+decor, interiors, hostels, toilette, tiles
+kitchen, suites, toilets, hostel, renovated
+renovation, toilet, accommodations, remodeling, kitchens
+----------
+Bottom 20 concepts:
+niue, badge, cymru, anguilla, tobago
+freebsd, yuan, seal, crimson, cardinal
+malawi, tyrosine, dehydrogenase, albania, svg
+wikimedia, carisoprodol, signature, logo, red
+
+[layer1, neuron 134]
+----------
+Top 20 concepts:
+emblem, ordinator, horde, rot, monogram
+svg, stain, stab, symbol, crimson
+vampires, logo, emeritus, lava, red
+devil, cursor, greed, mafia, axe
+----------
+Bottom 20 concepts:
+relativity, powershot, interior, bilder, flickr
+infocus, photos, photograph, photography, photographed
+usability, pic, foto, photosmart, coherence
+widescreen, photo, coolpix, photographs, finepix
+
+[layer1, neuron 135]
+----------
+Top 20 concepts:
+dcs, aircraft, plane, boeing, aviation
+kyrgyzstan, airplanes, jet, red, aerospace
+nunavut, qatar, svg, fly, faa
+corsair, tajikistan, airlines, angola, belarus
+----------
+Bottom 20 concepts:
+suites, indoor, shelters, interior, kennel
+bulbs, corridor, fluorescent, hostels, dorm
+bathrooms, hostel, lobby, kitchen, amenities
+corridors, interiors, stalls, fluorescence, bathroom
+
+[layer1, neuron 136]
+----------
+Top 20 concepts:
+stormwater, upstream, retrieving, mosaic, nature
+excursions, retrieve, waterways, biodiversity, weir
+groundwater, pace, obstacles, adventure, pioneering
+basins, passages, explores, wetlands, toilette
+----------
+Bottom 20 concepts:
+coa, ferrari, bahrain, diocese, carisoprodol
+drosophila, red, overlay, apron, iss
+badge, profileprofile, symbol, initial, spd
+emblem, monogram, signature, svg, logo
+
+[layer1, neuron 137]
+----------
+Top 20 concepts:
+luncheon, specialties, weighting, lunch, sourcing
+buffet, salads, abundance, multifunction, preparation
+delights, minimizing, feast, pulses, leveraging
+superpages, horticulture, burners, enjoyed, preparing
+----------
+Bottom 20 concepts:
+overlay, bat, yugoslavia, medal, anguilla
+mudvayne, albania, denmark, red, carisoprodol
+cursor, liberia, iss, signature, elk
+monogram, minimal, seal, svg, logo
+
+[layer1, neuron 138]
+----------
+Top 20 concepts:
+carisoprodol, signature, monogram, rna, logo
+peptide, nucleotide, svg, synthase, apoptosis
+tyrosine, glucose, initial, blackboard, polymers
+diploma, fuji, drosophila, dehydrogenase, polymerase
+----------
+Bottom 20 concepts:
+powershot, explored, particulars, hunting, test
+raid, aa, bilder, coolpix, want
+cleanup, petrol, defence, flickr, blur
+aaa, patrol, defenses, defend, garrison
+
+[layer1, neuron 139]
+----------
+Top 20 concepts:
+banner, darkness, iss, dark, supernatural
+darker, panoramic, pluto, noir, cellar
+wallpaper, headlights, venom, lq, fireworks
+flashlight, ultraviolet, alexa, generator, elec
+----------
+Bottom 20 concepts:
+clearinghouse, delegated, clipart, conserved, establishments
+consolidated, importer, specifying, defenses, incorporation
+expat, householder, coefficient, adjoining, genealogical
+precedence, escrow, safeguards, purchaser, appraiser
+
+[layer1, neuron 140]
+----------
+Top 20 concepts:
+interiors, upstairs, downstairs, installations, suites
+stairs, amenities, stalls, architectures, corridors
+shelving, bathroom, decor, stair, interior
+facilities, thresholds, conservatory, hostels, loft
+----------
+Bottom 20 concepts:
+isuzu, guiana, initial, nws, kiribati
+cursor, symbol, kyrgyzstan, yuan, seal
+tokelau, sudan, monogram, anguilla, wikimedia
+red, logo, carisoprodol, signature, svg
+
+[layer1, neuron 141]
+----------
+Top 20 concepts:
+upstairs, downstairs, retractable, interiors, thresholds
+suites, installations, loft, ventilation, interior
+stair, specifying, usability, particulars, hostel
+stairs, amenities, dorm, attic, penthouse
+----------
+Bottom 20 concepts:
+toyota, senators, agricultural, monogram, wikimedia
+horde, volcano, mudvayne, cymru, kyrgyzstan
+ferrari, yuan, ascii, carisoprodol, albania
+crimson, red, svg, signature, logo
+
+[layer1, neuron 142]
+----------
+Top 20 concepts:
+thresholds, interiors, stalls, corridors, galleries
+gallery, interior, columns, passages, barred
+upstairs, conservatory, downstairs, pillars, hall
+accesses, threshold, suites, townhouse, galerie
+----------
+Bottom 20 concepts:
+mazda, volcano, lava, freebsd, ferrari
+nws, albania, tokelau, kyrgyzstan, monogram
+toyota, anguilla, seal, isuzu, ascii
+signature, red, carisoprodol, svg, logo
+
+[layer1, neuron 143]
+----------
+Top 20 concepts:
+wildlife, birding, juvenile, surveying, grazing
+locals, female, fauna, majestic, male
+cooperative, individual, shropshire, identifying, nature
+hunting, humphrey, watchdog, supervising, polly
+----------
+Bottom 20 concepts:
+naval, overlay, rooms, arabidopsis, candles
+spd, semiconductors, hiv, diocese, minimal
+attic, vault, bahrain, cellar, signatures
+monogram, drosophila, svg, signature, logo
+
+[layer1, neuron 144]
+----------
+Top 20 concepts:
+logo, red, svg, albania, signature
+liberia, municipalities, guiana, cymru, badge
+municipality, malawi, kyrgyzstan, kosovo, electoral
+ferrari, tonga, nws, wikimedia, greed
+----------
+Bottom 20 concepts:
+trailing, interiors, aperture, upstairs, photography
+amenities, suites, glide, explored, relativity
+passages, downstairs, coolpix, widescreen, coherence
+thresholds, streamline, descending, retractable, finepix
+
+[layer1, neuron 145]
+----------
+Top 20 concepts:
+flight, flying, soaring, flew, airborne
+glide, aerospace, aviation, flown, airplanes
+airlines, garrison, overhead, aircraft, petrol
+landing, descending, flyers, fly, planes
+----------
+Bottom 20 concepts:
+organ, capital, municipality, font, municipal
+horde, hiv, ventricular, prostitution, apoptosis
+ferrari, crimson, monogram, rna, diocese
+svg, carisoprodol, municipalities, signature, logo
+
+[layer1, neuron 146]
+----------
+Top 20 concepts:
+red, greed, horde, logo, bloody
+rot, blood, mudvayne, livestock, memberlistmemberlist
+slipknot, cattle, vaccination, crimson, slaughter
+zombie, delegates, cows, bison, spd
+----------
+Bottom 20 concepts:
+transverse, spiral, flight, vertices, flew
+spectra, purdue, oblique, aperture, wing
+coherence, glide, streamline, stargate, winding
+overhead, lehigh, descending, finepix, retractable
+
+[layer1, neuron 147]
+----------
+Top 20 concepts:
+suites, corridors, corridor, interiors, closet
+hall, wardrobe, cabinets, townhouse, photosmart
+amenities, hostel, dorm, thresholds, bathroom
+room, rooms, bedrooms, clubhouse, inside
+----------
+Bottom 20 concepts:
+agricultural, spd, sakai, toyota, kyrgyzstan
+suzuki, vodafone, signature, cymru, denmark
+carisoprodol, nws, fuji, symbol, isuzu
+maharashtra, albania, ascii, svg, logo
+
+[layer1, neuron 148]
+----------
+Top 20 concepts:
+drosophila, ascii, rna, synthase, cursor
+dcs, vampires, peptide, arabidopsis, volcano
+nucleotide, initial, bats, apoptosis, iss
+symbols, escherichia, signature, lambda, lava
+----------
+Bottom 20 concepts:
+overstock, preparatory, repository, suites, lodging
+photo, bilder, installations, practicable, specifying
+suitability, fiberglass, listings, wholesaler, furnishing
+expat, clearinghouse, coolpix, photographs, amenities
+
+[layer1, neuron 149]
+----------
+Top 20 concepts:
+rot, crimson, horde, bloody, red
+mafia, vampires, condemned, papers, blood
+dungeon, greed, zombie, bleed, sacrifice
+pixel, infected, ascii, vampire, stain
+----------
+Bottom 20 concepts:
+swansea, tibetan, audubon, fujifilm, getty
+kelley, foto, specifying, phentermine, photography
+photos, photosmart, websphere, fiberglass, purdue
+photograph, coolpix, photographs, photo, finepix
+
+[layer1, neuron 150]
+----------
+Top 20 concepts:
+maroon, crimson, burgundy, garnet, red
+blood, cranberry, rot, stain, crab
+seal, bloody, horde, qatar, cardinal
+elk, rat, ordinator, magenta, gore
+----------
+Bottom 20 concepts:
+accesses, interior, pic, multifunction, diecast
+overhead, powershot, specifying, coherence, bilder
+leveraging, foto, photography, photos, relativity
+photosmart, coolpix, photographs, photo, finepix
+
+[layer1, neuron 151]
+----------
+Top 20 concepts:
+architectures, spiral, stairs, pic, lookout
+upstairs, downstairs, relativity, audubon, exploring
+stair, pioneering, convergence, structural, cage
+lattice, scaled, navigational, nesting, restructuring
+----------
+Bottom 20 concepts:
+cursor, volcano, badge, liberia, drosophila
+emblem, tomato, agricultural, ferrari, profileprofile
+medal, seal, anguilla, albania, monogram
+svg, signature, carisoprodol, red, logo
+
+[layer1, neuron 152]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+kyrgyzstan, greed, ferrari, badge, kosovo
+cymru, rot, malawi, spd, seal
+guiana, tonga, horde, signature, avaya
+----------
+Bottom 20 concepts:
+photos, interiors, upstairs, streamline, photography
+explored, photographs, photo, amenities, suites
+relativity, downstairs, widescreen, passages, thresholds
+coherence, descending, retractable, coolpix, finepix
+
+[layer1, neuron 153]
+----------
+Top 20 concepts:
+audubon, pic, birding, nesting, lookout
+toilette, nested, swinger, navigational, nest
+hmmm, relativity, surveying, exploring, architectures
+restructuring, retrieving, scaled, aperture, pioneering
+----------
+Bottom 20 concepts:
+profileprofile, cymru, cursor, rectangular, albania
+diocese, ferrari, tomato, liberia, overlay
+agricultural, tokelau, crimson, anguilla, monogram
+carisoprodol, svg, red, signature, logo
+
+[layer1, neuron 154]
+----------
+Top 20 concepts:
+photosmart, cooking, cook, blur, cooks
+brandy, chefs, finepix, domestic, cookers
+pose, cooker, housewife, candid, baking
+snapshot, kitchen, stuffing, cookbook, social
+----------
+Bottom 20 concepts:
+kyoto, rot, minimal, logos, senate
+emblem, denmark, liberia, bahrain, albania
+rna, ascii, spd, qatar, monogram
+nws, signature, symbol, svg, logo
+
+[layer1, neuron 155]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, noir
+darker, venom, blackboard, cellar, supernatural
+led, crypt, panoramic, altar, alexa
+headlights, silhouette, paranormal, bedroom, wallpaper
+----------
+Bottom 20 concepts:
+listed, particulars, subcategories, mansfield, analyses
+lodging, precedence, perl, surveying, metasearch
+coefficient, pichunter, rentals, ibid, appraiser
+consolidated, conserved, cleanup, specifying, listings
+
+[layer1, neuron 156]
+----------
+Top 20 concepts:
+carisoprodol, signature, nucleotide, tyrosine, peptide
+rna, wellbutrin, monogram, glucose, dehydrogenase
+polymers, apoptosis, synthase, symbol, initial
+polymerase, blackboard, methyl, alprazolam, node
+----------
+Bottom 20 concepts:
+weblog, pichunter, listings, collectable, petrol
+flickr, blur, wavelength, raid, greed
+bilder, blog, aaa, patrol, defense
+cleanup, defence, defenses, defend, garrison
+
+[layer1, neuron 157]
+----------
+Top 20 concepts:
+grille, cage, interiors, grill, cages
+corridors, balcony, patio, chandelier, barred
+garages, interior, stainless, installations, grilled
+gates, ventilation, mesh, repository, gateways
+----------
+Bottom 20 concepts:
+kiribati, cursor, tuvalu, initial, cymru
+denmark, kyrgyzstan, mongolia, pluto, anguilla
+ubuntu, tokelau, minimal, monogram, albania
+kosovo, svg, signature, carisoprodol, logo
+
+[layer1, neuron 158]
+----------
+Top 20 concepts:
+red, bedrooms, curtains, curtain, logo
+bedroom, closet, wardrobe, liberia, benin
+rooms, svg, greed, stalls, alterations
+dresser, renovation, salon, residential, nursery
+----------
+Bottom 20 concepts:
+timing, commuter, aviation, transport, transporting
+passing, discovery, airplanes, spotting, finepix
+trailing, landing, descending, commute, intercept
+inbound, glide, flew, flying, flight
+
+[layer1, neuron 159]
+----------
+Top 20 concepts:
+room, bathroom, hostel, accommodations, bedrooms
+suites, dorm, accommodation, hotel, rooms
+hostels, lodging, amenities, corridors, corridor
+hotels, motels, hall, bathrooms, travelodge
+----------
+Bottom 20 concepts:
+spd, population, ngo, rei, berg
+signatures, subaru, ubuntu, agricultural, nws
+cursor, ascii, cymru, banner, symbol
+rna, wikimedia, logo, svg, signature
+
+[layer1, neuron 160]
+----------
+Top 20 concepts:
+kitchen, kitchens, hostel, hostels, interiors
+downstairs, townhouse, upstairs, decor, suites
+accommodations, room, cookbooks, inside, interior
+loft, dorm, attic, thresholds, amenities
+----------
+Bottom 20 concepts:
+carisoprodol, vodafone, suzuki, liberia, kyrgyzstan
+anguilla, ngo, tanzania, kiribati, angola
+isuzu, yuan, boeing, fuji, cymru
+botswana, kenya, signature, toyota, logo
+
+[layer1, neuron 161]
+----------
+Top 20 concepts:
+nested, discarded, nesting, fence, barred
+swinger, ornamental, biodiversity, caching, fences
+birding, securing, coolpix, thresholds, cage
+exploring, retrieved, hunting, hiding, outdoor
+----------
+Bottom 20 concepts:
+ferrari, guiana, senate, hiv, lava
+yuan, kosovo, fuji, bahrain, spd
+volcano, liberia, albania, isuzu, tokelau
+red, carisoprodol, signature, svg, logo
+
+[layer1, neuron 162]
+----------
+Top 20 concepts:
+soaring, flew, airplanes, aircraft, flying
+flight, aviation, airlines, airborne, aerospace
+plane, glide, soar, airfare, overhead
+planes, airplane, flown, descending, garrison
+----------
+Bottom 20 concepts:
+kiosk, embryo, volcano, embryos, kitchen
+prostitution, tomatoes, logo, tomato, bunker
+dungeon, tavern, rna, ferrari, hiv
+electrode, basement, dresser, cellar, signature
+
+[layer1, neuron 163]
+----------
+Top 20 concepts:
+birding, nesting, audubon, nature, biodiversity
+wildlife, hunting, nested, excursions, wilde
+surveying, fauna, retrieving, pioneering, nearby
+nest, swinger, exploring, explores, stormwater
+----------
+Bottom 20 concepts:
+anguilla, ferrari, profileprofile, overlay, tokelau
+tomato, minimal, liberia, albania, bahrain
+emblem, qatar, monogram, senate, seal
+carisoprodol, signature, red, svg, logo
+
+[layer1, neuron 164]
+----------
+Top 20 concepts:
+logo, red, svg, albania, signature
+greed, liberia, horde, badge, cymru
+rot, municipalities, kosovo, electoral, spd
+kyrgyzstan, malawi, guiana, ferrari, municipality
+----------
+Bottom 20 concepts:
+flight, aperture, passages, glide, thresholds
+photographs, downstairs, suites, explored, photo
+amenities, descending, photography, widescreen, relativity
+coherence, streamline, coolpix, retractable, finepix
+
+[layer1, neuron 165]
+----------
+Top 20 concepts:
+photosmart, brandy, pose, fischer, sherry
+philippe, garrison, lola, hartley, antony
+blur, posing, photography, clement, finepix
+alain, marion, melvin, petrol, claude
+----------
+Bottom 20 concepts:
+logos, garnet, ferrari, red, municipalities
+carisoprodol, symbol, horde, albania, rna
+spd, ascii, senate, monogram, rot
+nws, crimson, signature, svg, logo
+
+[layer1, neuron 166]
+----------
+Top 20 concepts:
+photography, interiors, blur, glazing, multifunction
+indoor, frameworks, loft, tangible, indoors
+kitchen, relativity, multidisciplinary, recommends, social
+eclectic, awakenings, retrospective, photographs, snapshots
+----------
+Bottom 20 concepts:
+kyrgyzstan, municipality, ascii, gnu, isuzu
+anguilla, wikimedia, labrador, medal, kiribati
+nws, badge, tokelau, liberia, monogram
+signature, seal, carisoprodol, svg, logo
+
+[layer1, neuron 167]
+----------
+Top 20 concepts:
+aviation, aircraft, airplanes, flying, airlines
+airborne, flew, soaring, glide, aerospace
+flight, descending, landing, plane, inbound
+airfare, planes, flown, spotting, intercept
+----------
+Bottom 20 concepts:
+nucleotide, hiv, pharmacy, salon, polymerase
+kiosk, prostitution, senate, bakery, electrode
+carisoprodol, barn, logo, counselors, tavern
+signature, dresser, dungeon, cellar, basement
+
+[layer1, neuron 168]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+guiana, cymru, malawi, ferrari, badge
+kosovo, municipality, kyrgyzstan, tonga, municipalities
+denmark, signature, spd, nws, greed
+----------
+Bottom 20 concepts:
+interiors, excursions, pic, glide, streamline
+widescreen, trailing, suites, downstairs, photography
+amenities, relativity, passages, explored, thresholds
+coherence, descending, retractable, coolpix, finepix
+
+[layer1, neuron 169]
+----------
+Top 20 concepts:
+plane, aircraft, petrol, dcs, aviation
+aa, airplanes, planes, airplane, cruiser
+hanger, hklm, aaa, aero, faa
+helicopter, boeing, fly, corsair, racer
+----------
+Bottom 20 concepts:
+sanctuary, coppermine, room, hostels, cookbooks
+gowns, stanford, kitchen, embryos, dresser
+fireplaces, cabinets, bedroom, corridors, pillars
+logo, columns, stalls, rooms, bedrooms
+
+[layer1, neuron 170]
+----------
+Top 20 concepts:
+maroon, garnet, burgundy, carisoprodol, pluto
+monogram, tyrosine, signature, cabernet, qatar
+svg, seal, velvet, melanoma, ordinator
+rna, mahogany, volcano, medal, dehydrogenase
+----------
+Bottom 20 concepts:
+flight, modernization, pioneering, particulars, photo
+surveying, bilder, snapshot, openoffice, photographs
+migrate, overhead, multifunction, garrison, coolpix
+finepix, defend, diecast, leveraging, photosmart
+
+[layer1, neuron 171]
+----------
+Top 20 concepts:
+red, logo, svg, albania, avaya
+ferrari, badge, guiana, kyrgyzstan, denmark
+signature, nws, liberia, spd, municipality
+cymru, wikimedia, vodafone, tonga, kosovo
+----------
+Bottom 20 concepts:
+pioneering, interiors, streamline, suites, pic
+excursions, downstairs, glide, relativity, passages
+photography, amenities, trailing, coherence, explored
+retractable, thresholds, descending, coolpix, finepix
+
+[layer1, neuron 172]
+----------
+Top 20 concepts:
+streamline, diecast, glide, cruise, finepix
+garrison, highbeam, coolpix, cruising, excursions
+retractable, petrol, dream, sliding, cruiser
+reconditioned, multifunction, movable, fiberglass, defend
+----------
+Bottom 20 concepts:
+liberia, pixel, agricultural, red, coa
+medal, kyrgyzstan, horde, nws, monogram
+hiv, volcano, ascii, rna, svg
+seal, carisoprodol, signature, albania, logo
+
+[layer1, neuron 173]
+----------
+Top 20 concepts:
+logo, red, svg, albania, avaya
+spd, badge, cymru, tonga, horde
+nws, rot, kosovo, ferrari, kyrgyzstan
+municipalities, liberia, municipality, malawi, signature
+----------
+Bottom 20 concepts:
+passages, pic, excursions, trailing, powershot
+suites, photo, streamline, photographs, photography
+downstairs, glide, relativity, explored, coherence
+thresholds, descending, retractable, coolpix, finepix
+
+[layer1, neuron 174]
+----------
+Top 20 concepts:
+dungeon, mafia, rot, bloody, horde
+condemned, crimson, zombie, cellar, papers
+vampires, infected, blood, pixel, greed
+villagers, red, stain, butcher, bleed
+----------
+Bottom 20 concepts:
+swansea, kelley, weymouth, photos, photosmart
+grenadines, kissimmee, glide, purdue, audubon
+algeria, geophysical, bournemouth, phentermine, photograph
+photo, photographs, websphere, coolpix, finepix
+
+[layer1, neuron 175]
+----------
+Top 20 concepts:
+stair, steps, stairs, thresholds, marble
+barred, gradual, knobs, mattresses, molding
+bending, folds, handel, substrates, folded
+handles, rack, limestone, downstairs, masonry
+----------
+Bottom 20 concepts:
+liberia, kyrgyzstan, carisoprodol, minimal, kiribati
+taipei, hanoi, signature, fuji, qatar
+spd, guiana, nws, frankfurt, red
+ascii, kerala, bahrain, svg, logo
+
+[layer1, neuron 176]
+----------
+Top 20 concepts:
+logo, red, svg, albania, municipalities
+municipality, badge, cymru, signature, liberia
+electoral, malawi, guiana, kosovo, nws
+denmark, wikimedia, kyrgyzstan, municipal, avaya
+----------
+Bottom 20 concepts:
+aperture, flight, photo, suites, trailing
+downstairs, passages, relativity, thresholds, glide
+amenities, explored, photography, streamline, coherence
+descending, widescreen, coolpix, retractable, finepix
+
+[layer1, neuron 177]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+cymru, greed, malawi, kosovo, badge
+guiana, kyrgyzstan, municipalities, spd, rot
+municipality, tonga, ferrari, electoral, signature
+----------
+Bottom 20 concepts:
+aperture, interiors, glide, photographs, photo
+suites, streamline, downstairs, explored, amenities
+photography, passages, relativity, widescreen, thresholds
+descending, coherence, coolpix, retractable, finepix
+
+[layer1, neuron 178]
+----------
+Top 20 concepts:
+wildlife, birding, surveying, biodiversity, audubon
+nature, nearby, locals, habitat, forestry
+fauna, supervised, hunting, watchers, grazing
+juvenile, ecology, lookout, spying, visitation
+----------
+Bottom 20 concepts:
+schematic, spd, pour, ferrari, fuji
+accelerator, monogram, kiribati, naval, overlay
+tokelau, minimal, carisoprodol, nunavut, qatar
+ascii, bahrain, signature, svg, logo
+
+[layer1, neuron 179]
+----------
+Top 20 concepts:
+corridors, corridor, dorm, room, bedrooms
+rooms, suites, hostel, accommodations, hostels
+interiors, hall, apartment, accommodation, townhouse
+amenities, residences, lodging, curtains, condominium
+----------
+Bottom 20 concepts:
+agricultural, volcano, isuzu, ubuntu, seal
+albania, lava, angola, fuji, ascii
+apoptosis, carisoprodol, kyrgyzstan, pixel, cymru
+wikimedia, symbol, signature, logo, svg
+
+[layer1, neuron 180]
+----------
+Top 20 concepts:
+red, logo, svg, albania, ferrari
+avaya, spd, liberia, badge, rot
+nws, kyrgyzstan, guiana, signature, tonga
+municipality, kosovo, cymru, municipalities, vodafone
+----------
+Bottom 20 concepts:
+photos, photo, streamline, suites, excursions
+passages, amenities, downstairs, pic, relativity
+glide, photography, trailing, coherence, explored
+thresholds, retractable, descending, coolpix, finepix
+
+[layer1, neuron 181]
+----------
+Top 20 concepts:
+red, horde, emblem, svg, logo
+symbol, rot, spd, senators, brigade
+ascii, arrows, corps, monogram, vampires
+greed, diocese, cursor, crimson, png
+----------
+Bottom 20 concepts:
+lehigh, photograph, powershot, relativity, widescreen
+foto, infocus, coherence, photographed, flickr
+guess, usability, explored, retractable, photography
+pic, photo, photographs, coolpix, finepix
+
+[layer1, neuron 182]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, darker
+noir, pluto, venom, headlights, supernatural
+panoramic, lq, wallpaper, fireworks, alexa
+flashlight, charcoal, electricity, sc, cellar
+----------
+Bottom 20 concepts:
+accrued, safeguards, clipart, accommodations, adjoining
+subcategories, conserved, practicable, establishments, housekeeping
+genealogical, coefficient, suitability, precedence, incorporation
+specifying, householder, clearinghouse, purchaser, appraiser
+
+[layer1, neuron 183]
+----------
+Top 20 concepts:
+kitchen, kitchens, interiors, townhouse, decor
+hostels, interior, housewares, tiles, renovated
+loft, shelving, suites, furnishing, installations
+amenities, stools, facilities, upstairs, cabinets
+----------
+Bottom 20 concepts:
+kyrgyzstan, kiribati, skull, emblem, isuzu
+juvenile, yuan, cursor, nws, monogram
+badge, seal, initial, symbol, red
+carisoprodol, wikimedia, logo, signature, svg
+
+[layer1, neuron 184]
+----------
+Top 20 concepts:
+blue, blues, cobalt, saturation, indigo
+fluorescence, blu, cyan, ultraviolet, chlorine
+aerospace, lights, leds, garrison, epson
+teal, coolpix, stargate, philips, ambient
+----------
+Bottom 20 concepts:
+cardinal, tomato, delegate, lava, slashdot
+albania, burgundy, maroon, bred, garnet
+angola, greed, badge, medal, horde
+rot, crimson, svg, logo, red
+
+[layer1, neuron 185]
+----------
+Top 20 concepts:
+upstairs, confined, downstairs, repository, restructuring
+barred, nested, nesting, stairs, cage
+stair, balcony, structural, catalytic, lattice
+architectures, constrained, leveraging, cages, finepix
+----------
+Bottom 20 concepts:
+fuji, wikimedia, kyrgyzstan, hiv, kiribati
+tokelau, spd, ferrari, initial, albania
+monogram, cymru, denmark, minimal, signature
+ascii, carisoprodol, svg, red, logo
+
+[layer1, neuron 186]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+ferrari, guiana, cymru, kyrgyzstan, kosovo
+malawi, spd, badge, tonga, avaya
+greed, rot, municipality, denmark, municipalities
+----------
+Bottom 20 concepts:
+photographs, pic, photo, excursions, widescreen
+streamline, trailing, photography, suites, relativity
+explored, downstairs, amenities, passages, coherence
+thresholds, descending, retractable, coolpix, finepix
+
+[layer1, neuron 187]
+----------
+Top 20 concepts:
+steps, stairs, downstairs, stair, upstairs
+accessibility, interiors, thresholds, amenities, interior
+accesses, usability, renovated, facilities, architectures
+terrace, suites, townhouse, kitchens, stratford
+----------
+Bottom 20 concepts:
+yuan, initial, nws, pixel, rna
+ascii, vodafone, wikimedia, emblem, monogram
+symbol, badge, albania, signature, anguilla
+red, carisoprodol, cursor, logo, svg
+
+[layer1, neuron 188]
+----------
+Top 20 concepts:
+garrison, pioneering, streamline, diecast, miniature
+wheeler, weber, hmmm, hist, cruiser
+withdrawn, mover, photosmart, replica, chaired
+sliding, portable, transport, movable, pose
+----------
+Bottom 20 concepts:
+peptide, arabidopsis, crest, horde, apoptosis
+drosophila, spd, diocese, municipalities, albania
+symbol, emblem, nws, rna, crimson
+monogram, svg, carisoprodol, signature, logo
+
+[layer1, neuron 189]
+----------
+Top 20 concepts:
+garrison, aviation, flight, flying, aerospace
+flew, airborne, soaring, aircraft, airplanes
+airlines, glide, blue, airfare, defend
+flown, petrol, soar, airfares, plane
+----------
+Bottom 20 concepts:
+ordinator, senators, municipalities, prostitution, tomato
+medal, volcano, carisoprodol, seal, diocese
+hiv, ventricular, garnet, gorilla, ferrari
+rna, svg, monogram, logo, signature
+
+[layer1, neuron 190]
+----------
+Top 20 concepts:
+monogram, signature, carisoprodol, rna, initial
+logo, symbol, nucleotide, gate, peptide
+synthase, font, diocese, organ, drosophila
+signatures, svg, elevator, key, polymerase
+----------
+Bottom 20 concepts:
+hmmm, infocus, spotting, megapixel, hunting
+finepix, explored, test, leveraging, petrol
+want, patrol, flickr, megapixels, cleanup
+powershot, blur, coolpix, defend, garrison
+
+[layer1, neuron 191]
+----------
+Top 20 concepts:
+drosophila, synthase, rna, diagram, ascii
+nucleotide, peptide, cursor, apoptosis, subroutine
+signature, capacitor, graph, polymerase, schematic
+node, sectors, arabidopsis, lava, carisoprodol
+----------
+Bottom 20 concepts:
+relax, enjoying, necessity, recommends, listings
+available, sundays, postal, ecard, flickr
+lush, expat, enjoyed, infocus, want
+finepix, photographs, explored, amenities, coolpix
+
+[layer1, neuron 192]
+----------
+Top 20 concepts:
+red, logo, svg, albania, greed
+liberia, malawi, cymru, kyrgyzstan, rot
+kosovo, ferrari, seal, guiana, tonga
+spd, badge, horde, kerala, municipalities
+----------
+Bottom 20 concepts:
+interiors, explored, photos, upstairs, photography
+streamline, photographs, photo, widescreen, amenities
+suites, thresholds, relativity, downstairs, passages
+coherence, descending, coolpix, retractable, finepix
+
+[layer1, neuron 193]
+----------
+Top 20 concepts:
+sinks, basins, bathroom, faucets, flooring
+amenities, cleanliness, marble, sink, molding
+fiberglass, sanitary, tub, plumbing, suites
+before, thresholds, laminate, usability, remodeling
+----------
+Bottom 20 concepts:
+mozambique, taipei, fuji, nacional, cardinal
+maharashtra, rei, guiana, malawi, crimson
+kyrgyzstan, frankfurt, red, yuan, wikimedia
+kerala, albania, signature, logo, svg
+
+[layer1, neuron 194]
+----------
+Top 20 concepts:
+banner, noir, crypt, darkness, cellar
+dark, blackboard, altar, bedroom, basement
+font, panoramic, wallpaper, silhouette, ascii
+darker, paranormal, signature, piano, supernatural
+----------
+Bottom 20 concepts:
+sarbanes, defence, defend, nearby, suffolk
+listings, raid, coefficient, greed, multifunction
+mansfield, southwest, reed, defense, ibid
+slovenian, defenses, bilder, specifying, cleanup
+
+[layer1, neuron 195]
+----------
+Top 20 concepts:
+retrieving, surveying, grazing, birding, toilette
+solitary, hmmm, spying, locals, roaming
+openoffice, fischer, nearby, enclosure, supervising
+biodiversity, pioneering, wildlife, miniature, buckley
+----------
+Bottom 20 concepts:
+papua, tokelau, ferrari, garnet, palau
+badge, spd, overlay, lava, diocese
+rot, carisoprodol, monogram, drosophila, crimson
+emblem, red, signature, svg, logo
+
+[layer1, neuron 196]
+----------
+Top 20 concepts:
+aviation, airborne, flight, aircraft, aerospace
+flying, airplanes, soaring, flew, airlines
+glide, plane, landing, descending, planes
+flown, airfare, fly, airways, inbound
+----------
+Bottom 20 concepts:
+svg, carisoprodol, municipal, dresser, basement
+counselors, senate, horde, rna, organ
+crypt, diocese, cellar, crimson, ferrari
+prostitution, dungeon, municipalities, signature, logo
+
+[layer1, neuron 197]
+----------
+Top 20 concepts:
+birding, hunting, biodiversity, surveying, retrieving
+wildlife, nature, swinger, stormwater, explores
+wilde, muddy, pioneering, locals, exploring
+roaming, ecology, spotting, nesting, fauna
+----------
+Bottom 20 concepts:
+liberia, spd, tomato, liechtenstein, ferrari
+kosovo, rectangular, minimal, diocese, seal
+overlay, senate, albania, emblem, monogram
+carisoprodol, svg, signature, red, logo
+
+[layer1, neuron 198]
+----------
+Top 20 concepts:
+red, horde, greed, rot, logo
+blood, bloody, mudvayne, spd, anti
+stain, zombie, gore, crimson, infected
+mafia, ign, memberlistmemberlist, slashdot, svg
+----------
+Bottom 20 concepts:
+interior, overhead, purdue, lehigh, foto
+infocus, streamline, relativity, photograph, photosmart
+photography, photographed, coherence, photos, widescreen
+photographs, coolpix, photo, retractable, finepix
+
+[layer1, neuron 199]
+----------
+Top 20 concepts:
+stairs, downstairs, steps, upstairs, pioneering
+stair, exploring, pic, lookout, excursions
+architectures, ladders, relativity, photographs, abandoned
+passages, explored, explores, restructuring, ladder
+----------
+Bottom 20 concepts:
+ascii, tokelau, nws, cursor, albania
+medal, sudan, emblem, kiribati, badge
+qatar, profileprofile, anguilla, seal, monogram
+red, signature, carisoprodol, svg, logo
+
+[layer1, neuron 200]
+----------
+Top 20 concepts:
+furnished, interior, interiors, amenities, furnishing
+accommodations, suites, minimizing, furnishings, lounge
+quilts, sofas, cushions, luxurious, lodging
+chesterfield, cabin, accommodation, listings, dorm
+----------
+Bottom 20 concepts:
+maharashtra, denmark, fuji, guiana, carisoprodol
+rna, kyrgyzstan, minimal, wikimedia, pixel
+municipalities, cursor, albania, mudvayne, nws
+symbol, ascii, signature, svg, logo
+
+[layer1, neuron 201]
+----------
+Top 20 concepts:
+carisoprodol, peptide, rna, nucleotide, tyrosine
+signature, synthase, wellbutrin, monogram, apoptosis
+dehydrogenase, polymerase, node, drosophila, glucose
+diagram, capacitor, initial, polymers, formula
+----------
+Bottom 20 concepts:
+want, suche, recherche, collectable, petrol
+bilder, postal, defense, pichunter, spotting
+scouting, hunting, patrol, flickr, defence
+cleanup, defenses, blur, defend, garrison
+
+[layer1, neuron 202]
+----------
+Top 20 concepts:
+bathroom, bathrooms, toilets, accommodations, privacy
+shower, amenities, room, toilette, suites
+toilet, corridors, dorm, rooms, hostel
+corridor, facilities, apartment, showers, accommodation
+----------
+Bottom 20 concepts:
+rna, garnet, ferrari, anguilla, emblem
+volcano, ubuntu, kyrgyzstan, badge, cymru
+agricultural, yuan, palau, symbol, red
+wikimedia, albania, logo, svg, signature
+
+[layer1, neuron 203]
+----------
+Top 20 concepts:
+nested, finepix, coolpix, retrieving, swinger
+spying, birding, supervising, hunting, nesting
+sequencing, trailing, supervisory, surveying, proceedings
+snapshot, bilder, aforementioned, weir, biodiversity
+----------
+Bottom 20 concepts:
+municipal, hiv, municipalities, kyrgyzstan, symbol
+diocese, senate, ascii, albania, qatar
+emblem, ferrari, bahrain, monogram, carisoprodol
+minimal, signature, red, svg, logo
+
+[layer1, neuron 204]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+malawi, cymru, municipalities, badge, municipality
+guiana, kosovo, signature, electoral, greed
+nws, kyrgyzstan, spd, tonga, ferrari
+----------
+Bottom 20 concepts:
+excursions, aperture, suites, pic, glide
+trailing, downstairs, amenities, widescreen, explored
+photography, passages, streamline, relativity, thresholds
+descending, coherence, coolpix, retractable, finepix
+
+[layer1, neuron 205]
+----------
+Top 20 concepts:
+logo, red, svg, albania, denmark
+spd, vodafone, avaya, toyota, cymru
+municipalities, ferrari, badge, municipal, municipality
+liberia, tonga, signature, rot, nws
+----------
+Bottom 20 concepts:
+movable, confined, corridors, bathroom, coherence
+stargate, ceilings, accesses, loft, guess
+explored, finepix, retractable, inside, amenities
+suites, upstairs, thresholds, descending, downstairs
+
+[layer1, neuron 206]
+----------
+Top 20 concepts:
+kitchen, kitchens, interiors, hostels, installations
+interior, townhouse, upstairs, downstairs, amenities
+hostel, renovated, loft, counters, facilities
+remodeling, decor, suites, workstations, renovation
+----------
+Bottom 20 concepts:
+wikimedia, kangaroo, emblem, tokelau, liberia
+albania, rajasthan, guiana, kyrgyzstan, initial
+monogram, sudan, anguilla, red, symbol
+seal, carisoprodol, signature, logo, svg
+
+[layer1, neuron 207]
+----------
+Top 20 concepts:
+architectures, confined, cages, cage, lattice
+downstairs, conservatory, upstairs, architectural, thresholds
+stairs, guess, barred, interiors, imprisonment
+sentenced, confinement, architecture, townhouse, stair
+----------
+Bottom 20 concepts:
+liberia, kiribati, emblem, agricultural, isuzu
+niue, profileprofile, albania, tobago, tokelau
+seal, medal, badge, monogram, anguilla
+red, carisoprodol, signature, svg, logo
+
+[layer1, neuron 208]
+----------
+Top 20 concepts:
+photosmart, cookers, photo, fundraiser, enjoying
+princes, cooks, candid, supervising, minimizing
+pics, enjoyment, cook, coolpix, fundraising
+undefined, bays, ladyboy, snapshot, chefs
+----------
+Bottom 20 concepts:
+carisoprodol, rna, qatar, kyoto, liberia
+anti, monogram, albania, symbol, denmark
+ascii, garnet, senate, rot, spd
+signature, red, svg, minimal, logo
+
+[layer1, neuron 209]
+----------
+Top 20 concepts:
+red, logo, svg, crimson, albania
+burgundy, avaya, freebsd, maroon, signature
+badge, ferrari, garnet, rot, wikimedia
+sandisk, reds, kyrgyzstan, debian, nws
+----------
+Bottom 20 concepts:
+thresholds, suites, spotting, amenities, explored
+retrieval, passages, expeditions, toilette, trailing
+interiors, flight, excursions, upstairs, glide
+garrison, downstairs, coolpix, descending, finepix
+
+[layer1, neuron 210]
+----------
+Top 20 concepts:
+logo, red, svg, albania, liberia
+guiana, malawi, cymru, kyrgyzstan, kosovo
+municipality, municipalities, badge, electoral, tonga
+ferrari, denmark, nws, municipal, spd
+----------
+Bottom 20 concepts:
+trailing, photographs, photo, inside, upstairs
+interiors, suites, explored, widescreen, photography
+downstairs, relativity, amenities, descending, coherence
+retractable, passages, thresholds, coolpix, finepix
+
+[layer1, neuron 211]
+----------
+Top 20 concepts:
+radiator, bathroom, elevator, corridor, accelerator
+columns, door, font, pillar, bedroom
+bathrooms, sauna, corridors, grille, vaults
+basement, piano, drainage, frontgate, column
+----------
+Bottom 20 concepts:
+postal, flying, migrate, flew, timor
+rouge, wavelength, defense, hunting, airborne
+swaziland, defend, expat, spotting, reds
+garrison, wildlife, birding, greed, red
+
+[layer1, neuron 212]
+----------
+Top 20 concepts:
+upstairs, downstairs, interiors, passages, lobby
+photographs, architectures, amenities, interior, stairs
+eclectic, workstations, coherence, repository, upscale
+stair, quotations, loft, landmarks, thresholds
+----------
+Bottom 20 concepts:
+minimal, cursor, vodafone, seal, spd
+kyrgyzstan, nws, red, botswana, guiana
+cymru, liberia, kiribati, albania, initial
+pixel, carisoprodol, anguilla, svg, logo
+
+[layer1, neuron 213]
+----------
+Top 20 concepts:
+banner, darkness, dark, bedroom, cellar
+noir, crypt, paranormal, iss, candles
+darker, basement, supernatural, corridor, alexa
+flashlight, tunnel, candle, panoramic, lamp
+----------
+Bottom 20 concepts:
+supplementary, phpbb, newsgroup, perl, escrow
+clearinghouse, expat, suitability, airborne, aggregator
+cleanup, practicable, listed, appraiser, ecological
+purchaser, airmail, incorporation, specifying, coefficient
+
+[layer1, neuron 214]
+----------
+Top 20 concepts:
+banner, signature, noir, cellar, dark
+carisoprodol, crypt, bedroom, blackboard, darkness
+altar, font, organ, initial, darker
+silhouette, supernatural, guitar, ascii, basement
+----------
+Bottom 20 concepts:
+suitability, slovenian, particulars, defend, openoffice
+appraiser, leveraging, coolpix, practicable, ibid
+modernization, leases, defenses, consolidated, expat
+listings, bilder, multifunction, cleanup, specifying
+
+[layer1, neuron 215]
+----------
+Top 20 concepts:
+steps, stairs, preparatory, stair, downstairs
+preparations, thresholds, preparation, preparing, usability
+cookbooks, step, finepix, counters, amenities
+pressing, accessibility, blur, pans, photo
+----------
+Bottom 20 concepts:
+alfa, sudan, rot, freebsd, guiana
+monogram, cursor, liberia, kenya, albania
+wikimedia, avaya, ascii, pixel, vodafone
+nws, anguilla, svg, logo, red
+
+[layer1, neuron 216]
+----------
+Top 20 concepts:
+red, logo, svg, albania, greed
+malawi, badge, avaya, nws, liberia
+guiana, ferrari, rot, spd, cymru
+kyrgyzstan, kosovo, tonga, denmark, reds
+----------
+Bottom 20 concepts:
+photos, photo, widescreen, inside, retractable
+explored, coolpix, coherence, suites, interior
+relativity, passages, upstairs, photography, interiors
+amenities, pic, thresholds, downstairs, finepix
+
+[layer1, neuron 217]
+----------
+Top 20 concepts:
+carisoprodol, tyrosine, wellbutrin, nucleotide, peptide
+glucose, dehydrogenase, rna, signature, apoptosis
+methyl, polymers, synthase, polymerase, metabolic
+ionamin, node, initial, alprazolam, tramadol
+----------
+Bottom 20 concepts:
+listings, petrol, flickr, scouting, uncategorized
+collectable, particulars, raid, aaa, weblog
+blog, patrol, greed, cleanup, wavelength
+defense, defence, defend, defenses, garrison
+
+[layer1, neuron 218]
+----------
+Top 20 concepts:
+logo, svg, red, albania, guiana
+municipality, avaya, municipalities, municipal, denmark
+badge, nws, malawi, cymru, signature
+liberia, electoral, kosovo, ferrari, vodafone
+----------
+Bottom 20 concepts:
+pioneering, intrusion, pic, streamline, downstairs
+glide, excursions, widescreen, trailing, passages
+relativity, photography, amenities, descending, thresholds
+coherence, retractable, explored, coolpix, finepix
+
+[layer1, neuron 219]
+----------
+Top 20 concepts:
+garrison, blue, airfare, aviation, finepix
+airlines, flight, glide, flying, flew
+aerospace, airfares, petrol, defend, soaring
+airplanes, coolpix, aircraft, airborne, airline
+----------
+Bottom 20 concepts:
+spd, ordinator, emblem, diocese, seal
+garnet, ventricular, albania, carisoprodol, red
+horde, senate, senators, rna, medal
+coa, monogram, svg, logo, signature
+
+[layer1, neuron 220]
+----------
+Top 20 concepts:
+bathroom, room, hostel, dorm, suites
+accommodations, hostels, bedrooms, amenities, bathrooms
+accommodation, renovated, rooms, toilet, toilets
+hall, lodging, remodeling, interiors, interior
+----------
+Bottom 20 concepts:
+fuji, nws, bred, ubuntu, toyota
+cymru, rei, ascii, cardinal, cursor
+subaru, rna, spd, red, banner
+wikimedia, symbol, logo, svg, signature
+
+[layer1, neuron 221]
+----------
+Top 20 concepts:
+stairs, stair, upstairs, downstairs, architectures
+steps, spiral, ladder, ladders, passages
+lattice, thresholds, catalytic, relativity, confined
+guess, ventilation, structural, cages, architectural
+----------
+Bottom 20 concepts:
+tobago, futuna, liberia, monogram, sudan
+seal, guiana, isuzu, ferrari, medal
+albania, kiribati, kyrgyzstan, tokelau, anguilla
+signature, svg, carisoprodol, logo, red
+
+[layer1, neuron 222]
+----------
+Top 20 concepts:
+signature, carisoprodol, rna, monogram, nucleotide
+peptide, initial, synthase, polymers, drosophila
+tyrosine, blackboard, logo, glucose, polymerase
+signatures, apoptosis, symbol, cheque, dehydrogenase
+----------
+Bottom 20 concepts:
+spotting, suche, collectable, want, raid
+particulars, coolpix, defense, flickr, petrol
+aaa, bilder, listings, blur, defence
+patrol, cleanup, defenses, defend, garrison
+
+[layer1, neuron 223]
+----------
+Top 20 concepts:
+grazing, pasture, wildlife, green, biodiversity
+nature, meadows, meadow, grass, lawn
+birding, surveying, hunting, neighbour, locals
+nearby, ecology, shropshire, toilette, ecological
+----------
+Bottom 20 concepts:
+volcano, badge, logos, lava, barcelona
+pour, nunavut, ferrari, bahrain, diocese
+signatures, spd, hiv, monogram, ascii
+drosophila, accelerator, svg, signature, logo
+
+[layer1, neuron 224]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, noir
+darker, venom, alexa, supernatural, lq
+wallpaper, headlights, panoramic, pluto, elec
+vr, paranormal, guitar, flashlight, cellar
+----------
+Bottom 20 concepts:
+preparatory, clipart, ibid, subcategories, adjoining
+establishments, practicable, incorporation, suitability, householder
+conserved, accommodations, listings, clearinghouse, consolidated
+precedence, purchaser, coefficient, specifying, appraiser
+
+[layer1, neuron 225]
+----------
+Top 20 concepts:
+red, logo, svg, albania, kyrgyzstan
+badge, kosovo, guiana, wikimedia, greed
+cymru, avaya, nws, liberia, rot
+ferrari, cardinal, hama, denmark, inuyasha
+----------
+Bottom 20 concepts:
+sunlight, townhouse, relativity, stalls, bathroom
+indoor, inside, widescreen, corridor, upstairs
+passages, fluorescence, suites, interior, corridors
+thresholds, downstairs, finepix, amenities, interiors
+
+[layer1, neuron 226]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+greed, malawi, cymru, kyrgyzstan, rot
+kosovo, guiana, ferrari, tonga, spd
+seal, badge, horde, municipalities, municipality
+----------
+Bottom 20 concepts:
+photos, interiors, upstairs, streamline, explored
+photography, photographs, photo, widescreen, suites
+amenities, thresholds, relativity, downstairs, passages
+coherence, descending, coolpix, retractable, finepix
+
+[layer1, neuron 227]
+----------
+Top 20 concepts:
+banner, darkness, dark, iss, noir
+darker, pluto, venom, sc, sao
+lq, dbz, elec, alexa, wallpaper
+vr, panoramic, guitar, initial, volcano
+----------
+Bottom 20 concepts:
+particulars, preparatory, applicability, safeguards, retaining
+practicable, subcategories, multifunction, listings, coefficient
+suites, consolidated, accommodations, amenities, occupancy
+adjoining, precedence, suitability, appraiser, specifying
+
+[layer1, neuron 228]
+----------
+Top 20 concepts:
+red, logo, svg, albania, greed
+guiana, liberia, malawi, municipality, tonga
+kosovo, cymru, rot, municipalities, kyrgyzstan
+kerala, ferrari, badge, municipal, tunisia
+----------
+Bottom 20 concepts:
+flying, photography, explored, swinger, coherence
+excursions, passages, sequence, highbeam, spotting
+relativity, widescreen, streamline, coolpix, retractable
+flight, trailing, glide, descending, finepix
+
+[layer1, neuron 229]
+----------
+Top 20 concepts:
+stormwater, steps, mosaic, excursions, biodiversity
+passages, postal, upstream, pathways, coolpix
+migrating, photographs, seekers, nature, succession
+catalytic, excursion, quotations, woodstock, ecological
+----------
+Bottom 20 concepts:
+symbol, hdd, tomato, coa, ferrari
+senate, fed, seal, mcsg, ign
+carisoprodol, profileprofile, electrode, signature, minimal
+spd, red, monogram, svg, logo
+
+[layer1, neuron 230]
+----------
+Top 20 concepts:
+interiors, decor, hostels, townhouse, furnishing
+suites, amenities, hostel, furnished, remodeling
+interior, dorm, kitchen, renovated, furnishings
+decorate, room, upstairs, apartment, corridors
+----------
+Bottom 20 concepts:
+suzuki, svn, avaya, toyota, tokelau
+nws, kyrgyzstan, diocese, albania, cymru
+spd, isuzu, wikimedia, red, seal
+signature, symbol, carisoprodol, logo, svg
+
+[layer1, neuron 231]
+----------
+Top 20 concepts:
+pic, bw, photographs, excursions, vintage
+pioneering, relativity, photography, photograph, ancestor
+caching, commute, sightseeing, observation, exploring
+withdrawn, retrieving, clic, afternoon, postal
+----------
+Bottom 20 concepts:
+papua, nws, banner, flag, uc
+monogram, albania, tobago, guiana, signature
+emblem, liberia, seal, anguilla, greed
+profileprofile, carisoprodol, svg, red, logo
+
+[layer1, neuron 232]
+----------
+Top 20 concepts:
+petrol, garrison, streamline, defend, airborne
+flying, glide, aviation, flight, flown
+cleanup, patrol, goose, aaa, fischer
+soaring, photography, flew, weber, scandinavian
+----------
+Bottom 20 concepts:
+cellar, organ, spd, albania, dungeon
+prostitution, crypt, carisoprodol, ferrari, diocese
+nws, senate, rna, monogram, horde
+municipalities, svg, crimson, signature, logo
+
+[layer1, neuron 233]
+----------
+Top 20 concepts:
+cookbooks, appetizers, recipes, cookbook, recipe
+mixtures, dinnerware, specialties, plated, dinners
+sampler, medley, stuffing, delights, cooking
+cuisine, food, flickr, indulgence, diner
+----------
+Bottom 20 concepts:
+albania, debian, iss, pluto, toshiba
+emblem, toyota, decal, ign, vodafone
+municipality, municipalities, carisoprodol, liberia, seal
+monogram, signature, isuzu, svg, logo
+
+[layer1, neuron 234]
+----------
+Top 20 concepts:
+appetizers, cookbooks, cookbook, recipes, culinary
+cuisine, cooking, plated, recipe, food
+dinnerware, starters, foods, specialties, chefs
+starter, salads, tasting, stuffing, bistro
+----------
+Bottom 20 concepts:
+denmark, signature, corps, directorate, spd
+isuzu, crimson, nws, liberia, albania
+yugoslavia, rot, municipal, senate, municipalities
+monogram, municipality, red, svg, logo
+
+[layer1, neuron 235]
+----------
+Top 20 concepts:
+maroon, burgundy, crimson, garnet, qatar
+cranberry, magenta, cabernet, mahogany, ubuntu
+stained, carisoprodol, velvet, stain, raspberry
+seal, stanford, medal, tyrosine, cardinal
+----------
+Bottom 20 concepts:
+modernization, mover, photo, surveying, inside
+suites, fotos, overhead, garrison, leveraging
+multifunction, defend, interiors, photos, toilette
+coolpix, photographs, photosmart, finepix, diecast
+
+[layer1, neuron 236]
+----------
+Top 20 concepts:
+red, logo, svg, albania, liberia
+guiana, malawi, cymru, municipality, municipalities
+kosovo, ferrari, badge, kyrgyzstan, signature
+denmark, electoral, nws, tonga, municipal
+----------
+Bottom 20 concepts:
+pic, interiors, excursions, glide, trailing
+suites, streamline, downstairs, widescreen, photography
+relativity, amenities, passages, explored, descending
+thresholds, coherence, retractable, coolpix, finepix
+
+[layer1, neuron 237]
+----------
+Top 20 concepts:
+red, logo, svg, albania, greed
+liberia, malawi, cymru, kyrgyzstan, rot
+kosovo, ferrari, guiana, seal, tonga
+spd, badge, horde, municipalities, kerala
+----------
+Bottom 20 concepts:
+interiors, photos, upstairs, explored, streamline
+photography, photographs, photo, widescreen, amenities
+suites, relativity, thresholds, downstairs, passages
+coherence, descending, coolpix, retractable, finepix
+
+[layer1, neuron 238]
+----------
+Top 20 concepts:
+molly, humphrey, shropshire, sherry, lola
+lilly, bailey, pepper, olive, flynn
+jasmine, libby, polly, murphy, macy
+dudley, brandy, darby, rudy, remington
+----------
+Bottom 20 concepts:
+senate, diocese, municipalities, ascii, yugoslavia
+instruments, rot, albania, decal, logos
+denmark, capitals, signature, monogram, spd
+frankfurt, accelerator, minimal, svg, logo
+
+[layer1, neuron 239]
+----------
+Top 20 concepts:
+red, logo, svg, albania, greed
+liberia, malawi, rot, kyrgyzstan, cymru
+kosovo, guiana, tonga, ferrari, spd
+seal, horde, badge, kerala, kenya
+----------
+Bottom 20 concepts:
+explored, photography, streamline, interiors, photos
+upstairs, photographs, widescreen, photo, thresholds
+amenities, suites, relativity, downstairs, passages
+coherence, descending, coolpix, retractable, finepix
+
+[layer1, neuron 240]
+----------
+Top 20 concepts:
+steps, nature, biodiversity, stormwater, trekking
+hiking, mosaic, wildlife, roadside, surveying
+explores, pathways, locals, excursions, hike
+walks, trail, exploring, hunting, pathway
+----------
+Bottom 20 concepts:
+ax, senate, bedroom, ncr, kiribati
+naval, ferrari, electrode, overlay, tomato
+iss, minimal, qatar, monogram, signature
+bahrain, spd, red, svg, logo
+
+[layer1, neuron 241]
+----------
+Top 20 concepts:
+interiors, cookbooks, amenities, interior, lobby
+establishments, workstations, repository, kitchen, hostels
+kitchens, gatherings, patrons, clubhouse, decor
+glassware, selecting, minimizing, shelving, novelties
+----------
+Bottom 20 concepts:
+suzuki, botswana, kyocera, angola, seal
+anguilla, signature, carisoprodol, symbol, albania
+rot, cymru, pixel, denmark, red
+spd, liberia, minimal, svg, logo
+
+[layer1, neuron 242]
+----------
+Top 20 concepts:
+garrison, aviation, airplanes, aerospace, aircraft
+flight, flew, soaring, flying, airlines
+blue, airborne, glide, plane, soar
+airfare, planes, petrol, defend, flown
+----------
+Bottom 20 concepts:
+villagers, carisoprodol, signatures, hiv, prostitution
+ordinator, gorilla, electrode, garnet, embryo
+medal, tomato, ventricular, dresser, rna
+ferrari, svg, monogram, logo, signature
+
+[layer1, neuron 243]
+----------
+Top 20 concepts:
+red, logo, svg, electoral, municipality
+malawi, municipalities, albania, kyrgyzstan, kosovo
+wikimedia, cymru, badge, greed, leipzig
+rai, denmark, nws, hungary, liberia
+----------
+Bottom 20 concepts:
+flew, caching, descending, retrieval, suites
+synchronization, trailing, glide, pioneering, relativity
+flight, passages, explored, coolpix, retractable
+thresholds, amenities, coherence, widescreen, finepix
+
+[layer1, neuron 244]
+----------
+Top 20 concepts:
+interiors, interior, upstairs, downstairs, installations
+multifunction, amenities, stair, stairs, loft
+stainless, usability, streamline, ventilation, suites
+diecast, penthouse, compartment, retractable, barred
+----------
+Bottom 20 concepts:
+horde, malawi, guiana, kerala, elk
+rajasthan, volcano, agricultural, liberia, kiribati
+signature, mongolia, nws, carisoprodol, logo
+anguilla, svg, kyrgyzstan, albania, red
+
+[layer1, neuron 245]
+----------
+Top 20 concepts:
+flying, flew, soaring, airborne, aviation
+flight, aircraft, airplanes, glide, aerospace
+airlines, landing, plane, flown, fly
+planes, descending, inbound, soar, intercept
+----------
+Bottom 20 concepts:
+hiv, ferrari, corridors, font, tavern
+crimson, rna, bunker, prostitution, organ
+carisoprodol, diocese, municipalities, dresser, basement
+crypt, dungeon, cellar, signature, logo
+
+[layer1, neuron 246]
+----------
+Top 20 concepts:
+shropshire, polly, paddy, lola, supervising
+surveying, fostering, willow, toilette, bailey
+humphrey, libby, supervisory, finepix, lilly
+macy, missy, murphy, wilde, cooper
+----------
+Bottom 20 concepts:
+rot, frankfurt, nunavut, bahrain, symbol
+drosophila, elk, diocese, carisoprodol, senate
+overlay, emblem, albania, spd, minimal
+red, monogram, signature, svg, logo
+
+[layer1, neuron 247]
+----------
+Top 20 concepts:
+stairs, architectures, stair, upstairs, lattice
+downstairs, steps, ladder, architectural, grid
+ladders, tate, repetition, architecture, structural
+ventilation, industrial, spiral, architect, loft
+----------
+Bottom 20 concepts:
+fox, kiribati, logo, profileprofile, signature
+medal, tokelau, juvenile, banner, labrador
+monogram, lama, elk, svg, pluto
+pixel, mongolia, seal, anguilla, carisoprodol
+
+[layer1, neuron 248]
+----------
+Top 20 concepts:
+logo, svg, signature, monogram, carisoprodol
+medal, emblem, nws, toyota, municipalities
+avaya, diocese, rna, municipality, nucleotide
+rectangular, spd, municipal, badge, directorate
+----------
+Bottom 20 concepts:
+photographs, solitary, pioneering, hunting, exploring
+spotting, toilette, retractable, defend, blur
+bilder, infocus, pic, flickr, want
+powershot, explored, coolpix, finepix, garrison
+
+[layer1, neuron 249]
+----------
+Top 20 concepts:
+airplanes, aviation, aircraft, flew, flying
+flight, soaring, airlines, airborne, plane
+aerospace, glide, airfare, planes, airplane
+flown, soar, airmail, airfares, landing
+----------
+Bottom 20 concepts:
+fireplace, bunker, sauna, crypt, prostitution
+corridor, salon, electrode, fireplaces, hiv
+bedroom, embryos, kitchen, rna, tavern
+signature, dungeon, dresser, basement, cellar
+
+[layer1, neuron 250]
+----------
+Top 20 concepts:
+thresholds, downstairs, upstairs, spiral, stair
+stargate, vaults, passages, threshold, photographs
+inside, repository, finepix, photosmart, accesses
+coolpix, revolving, interior, stairs, explored
+----------
+Bottom 20 concepts:
+papua, toshiba, yuan, ferrari, tokelau
+albania, liberia, guiana, avaya, isuzu
+toyota, spd, suzuki, fuji, carisoprodol
+signature, minimal, ascii, svg, logo
+
+[layer1, neuron 251]
+----------
+Top 20 concepts:
+grazing, green, wildlife, pasture, biodiversity
+nature, birding, meadows, surveying, locals
+meadow, grass, toilette, hunting, ecology
+lawn, neighbour, ecological, emerald, nearby
+----------
+Bottom 20 concepts:
+cellar, barcelona, logos, medal, hiv
+volcano, pour, garnet, diocese, ferrari
+signatures, lava, drosophila, ascii, spd
+monogram, accelerator, svg, signature, logo
+
+[layer1, neuron 252]
+----------
+Top 20 concepts:
+relativity, vintage, photographs, pic, bw
+charcoal, photography, snapshots, tate, noir
+withdrawn, analogue, stairs, passages, architectures
+awakenings, aperture, graphite, excursions, oldies
+----------
+Bottom 20 concepts:
+mongolia, nunavut, kyrgyzstan, municipality, botswana
+monogram, signature, seal, albania, profileprofile
+tobago, guiana, greed, liberia, carisoprodol
+nws, anguilla, svg, red, logo
+
+[layer1, neuron 253]
+----------
+Top 20 concepts:
+red, greed, logo, rot, svg
+seal, albania, liberia, horde, kyrgyzstan
+freebsd, spd, malawi, kong, ferrari
+kangaroo, inuyasha, cymru, ussr, blood
+----------
+Bottom 20 concepts:
+amenities, interiors, infocus, photographed, fluorescence
+upstairs, passages, interior, suites, downstairs
+descending, relativity, widescreen, coherence, photos
+coolpix, photo, photographs, retractable, finepix
+
+[layer1, neuron 254]
+----------
+Top 20 concepts:
+guiana, red, logo, svg, malawi
+liberia, albania, municipality, municipal, electoral
+nws, zambia, kerala, tanzania, municipalities
+mozambique, angola, mauritius, maharashtra, tonga
+----------
+Bottom 20 concepts:
+ultraviolet, chandelier, lilac, ambient, indigo
+departures, trailing, aperture, light, chestnut
+descending, passages, passengers, passing, photography
+beige, stargate, atmospheric, coherence, finepix
+
+[layer1, neuron 255]
+----------
+Top 20 concepts:
+streamline, diecast, cruiser, petrol, photography
+photosmart, tandem, transport, weber, pioneering
+garrison, motoring, fischer, scandinavian, movable
+wheeler, coupled, pioneer, blur, social
+----------
+Bottom 20 concepts:
+symbol, municipality, coa, hiv, volcano
+red, cellar, horde, albania, senate
+municipalities, diocese, crimson, rna, nws
+monogram, signature, carisoprodol, svg, logo
+
