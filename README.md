@@ -1,5 +1,10 @@
-## CLIP-Dissect
+# CLIP-Dissect
 
+A fork of https://github.com/Trustworthy-ML-Lab/CLIP-dissect
+
+
+
+## ===================== ORIGINAL README ===============
 An automatic and efficient tool to describe functionalities of individual neurons in DNNs.
 
 This is the official repository for our paper: [CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks](https://arxiv.org/abs/2204.10965) published at ICLR 2023. 
