@@ -178,7 +178,7 @@ if __name__ == "__main__":
         # outputs["description"].extend(descriptions)
         # outputs["similarity"].extend(vals.cpu().numpy())
 
-    torch.save(all_layer_similarities, 'all_layer_similarities.pt')
+    torch.save(all_layer_similarities, 'my_data/all_layer_similarities.pt')
 
     # # save as csv
     # df = pd.DataFrame(outputs)
