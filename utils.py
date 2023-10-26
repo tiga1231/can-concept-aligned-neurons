@@ -10,30 +10,79 @@ import data_utils
 PM_SUFFIX = {"max": "_max", "avg": ""}
 
 
-def get_activation(outputs, mode):
+def save_activation(
+    save_info,
+    mode,
+    out_device="cpu",
+):
+
+    def hook(model, input, output):
+        if "start" not in save_info:
+            save_info["start"] = 0
+        output = output.to(out_device)
+
+        if len(output.shape) == 4:  # CNN layers
+            if mode is None or mode in ["none", "None", "raw"]:
+                pass  # keep output as is
+            elif mode == "avg":
+                output = output.mean(dim=[2, 3])
+            elif mode == "max":
+                output = output.amax(dim=[2, 3])
+        elif len(output.shape) == 3:  # ViT
+            output = output[:, 0].clone()
+        elif len(output.shape) == 2:  # FC layers
+            pass  # keep output as is
+
+        start = save_info["start"]
+        layer_name = save_info["layer_name"]
+        save_name = save_info["save_name_format"].format(layer_name, start)
+        torch.save(
+            output,
+            save_name,
+        )
+
+        # increase start by batch_size, get ready for the next forward hook call
+        save_info["start"] += output.shape[0]
+
+    return hook
+
+
+def get_activation(outputs, key, mode, dataset_size=50000, out_device="cpu"):
     """
     mode: how to pool activations: one of avg, max
     for fc or ViT neurons does no pooling
     """
-    if mode == "avg":
 
-        def hook(model, input, output):
-            if len(output.shape) == 4:  # CNN layers
-                outputs.append(output.mean(dim=[2, 3]).detach())
-            elif len(output.shape) == 3:  # ViT
-                outputs.append(output[:, 0].clone())
-            elif len(output.shape) == 2:  # FC layers
-                outputs.append(output.detach())
+    def hook(model, input, output):
+        # init output tensor for certain key(layer)
+        if outputs[key] is None:
+            outputs[key] = torch.empty(
+                dataset_size,
+                *output.shape[1:],
+                device=out_device,
+            )
+            outputs[key + "_start"] = 0
 
-    elif mode == "max":
+        output = output.to(out_device)
+        start = outputs[key + "_start"]
+        batch_size = output.shape[0]
+        if len(output.shape) == 4:  # CNN layers
+            if mode == "avg":
+                outputs[key][start : start + batch_size] = output.mean(
+                    dim=[2, 3]
+                ).detach()
+            elif mode == "max":
+                outputs[key][start : start + batch_size] = output.amax(
+                    dim=[2, 3]
+                ).detach()
+            elif mode is None or mode in ["none", "None", "raw"]:
+                outputs[key][start : start + batch_size] = output.detach()
 
-        def hook(model, input, output):
-            if len(output.shape) == 4:  # CNN layers
-                outputs.append(output.amax(dim=[2, 3]).detach())
-            elif len(output.shape) == 3:  # ViT
-                outputs.append(output[:, 0].clone())
-            elif len(output.shape) == 2:  # FC layers
-                outputs.append(output.detach())
+        elif len(output.shape) == 3:  # ViT
+            outputs.append(output[:, 0].clone())
+
+        elif len(output.shape) == 2:  # FC layers
+            outputs.append(output.detach())
 
     return hook
 
@@ -56,40 +105,60 @@ def get_save_names(
 def save_target_activations(
     target_model,
     dataset,
-    save_name,
+    save_name_format,
     target_layers=["layer4"],
     batch_size=1000,
     device="cuda",
     pool_mode="avg",
 ):
     """
-    save_name: save_file path, should include {} which will be formatted by layer names
+    save_name_format: save_file path, should include {} which will be formatted by layer names
     """
-    _make_save_dir(save_name)
-    save_names = {}
-    for target_layer in target_layers:
-        save_names[target_layer] = save_name.format(target_layer)
+    _make_save_dir(save_name_format)
 
-    if _all_saved(save_names):
-        return
+    # save_names = {}
+    # for target_layer in target_layers:
+    #     save_names[target_layer] = save_name_format.format(target_layer)
+    # if _all_saved(save_names):
+    #     return
 
-    all_features = {target_layer: [] for target_layer in target_layers}
-
+    dataset_size = len(dataset)
+    all_features = {target_layer: None for target_layer in target_layers}
     hooks = {}
     for target_layer in target_layers:
-        command = "target_model.{}.register_forward_hook(get_activation(all_features[target_layer], pool_mode))".format(
-            target_layer
+        # command = f"target_model.{target_layer}.register_forward_hook(get_activation(all_features, target_layer, pool_mode))"
+        # hooks[target_layer] = eval(command)
+        layer = eval(f"target_model.{target_layer}")
+        save_info = dict(
+            start=0,
+            layer_name=target_layer,
+            save_name_format=save_name_format,
         )
-        hooks[target_layer] = eval(command)
+        print(save_info)
+        hook = layer.register_forward_hook(
+            # get_activation(
+            #     all_features,
+            #     target_layer,
+            #     pool_mode,
+            #     dataset_size,
+            #     out_device="cpu",
+            # )
+            save_activation(
+                save_info,
+                mode=pool_mode,
+                out_device="cpu",
+            )
+        )
+        hooks[target_layer] = hook
 
     with torch.no_grad():
-        for images, labels in tqdm(
-            DataLoader(dataset, batch_size, num_workers=8, pin_memory=True)
-        ):
-            features = target_model(images.to(device))
+        loader = DataLoader(dataset, batch_size, num_workers=8, pin_memory=True)
+        for images, labels in tqdm(loader):
+            target_model(images.to(device))
 
     for target_layer in target_layers:
-        torch.save(torch.cat(all_features[target_layer]), save_names[target_layer])
+        # torch.save(torch.cat(all_features[target_layer]), save_names[target_layer])
+        # torch.save(all_features[target_layer], save_names[target_layer])
         hooks[target_layer].remove()
     # free memory
     del all_features

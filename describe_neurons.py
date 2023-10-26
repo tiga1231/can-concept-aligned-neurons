@@ -114,6 +114,7 @@ if __name__ == "__main__":
     # similarity_fn = eval("similarity.{}".format(args.similarity_fn))
     similarity_fn = getattr(similarity, args.similarity_fn)
 
+    # NOTE save activations
     print("save_activations...")
     utils.save_activations(
         clip_name=args.clip_model,
@@ -140,7 +141,8 @@ if __name__ == "__main__":
 
     all_layer_similarities = []
     for target_layer in args.target_layers:
-        save_names = utils.get_save_names(
+
+        target_save_name, clip_save_name, text_save_name = utils.get_save_names(
             clip_name=args.clip_model,
             target_name=args.target_model,
             target_layer=target_layer,
@@ -149,7 +151,6 @@ if __name__ == "__main__":
             pool_mode=args.pool_mode,
             save_dir=args.activation_dir,
         )
-        target_save_name, clip_save_name, text_save_name = save_names
 
         similarities = utils.get_similarity_from_activations(
             target_save_name,
