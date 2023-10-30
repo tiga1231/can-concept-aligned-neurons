@@ -11,10 +11,10 @@ if device == "cpu":
 dataset_name = "imagenet_val"
 target_model_name = "resnet50"
 target_layers = [
-    "conv1",
-    "layer1",
-    "layer2",
-    "layer3",
+    # "conv1",
+    # "layer1",
+    # "layer2",
+    # "layer3",
     "layer4",
 ]
 pool_mode = "raw"

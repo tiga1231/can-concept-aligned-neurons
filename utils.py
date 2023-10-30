@@ -15,7 +15,6 @@ def save_activation(
     mode,
     out_device="cpu",
 ):
-
     def hook(model, input, output):
         if "start" not in save_info:
             save_info["start"] = 0
