@@ -3,8 +3,10 @@ import sys
 import argparse
 import datetime
 import json
-import pandas as pd
+
+# import pandas as pd
 import torch
+import numpy as np
 
 import utils
 import similarity
@@ -139,9 +141,9 @@ if __name__ == "__main__":
     with open(args.concept_set, "r") as f:
         words = (f.read()).split("\n")
 
+    print("getting neuron-concept similarities...")
     all_layer_similarities = []
     for target_layer in args.target_layers:
-
         target_save_name, clip_save_name, text_save_name = utils.get_save_names(
             clip_name=args.clip_model,
             target_name=args.target_model,
@@ -179,7 +181,26 @@ if __name__ == "__main__":
         # outputs["description"].extend(descriptions)
         # outputs["similarity"].extend(vals.cpu().numpy())
 
-    torch.save(all_layer_similarities, 'my_data/all_layer_similarities.pt')
+    dir_out = "my_data"
+    fn_out = f"{dir_out}/all_layer_similarities.pt"
+    print(f"saving neuron-concept similarities to {fn_out}")
+    torch.save(all_layer_similarities, fn_out)
+
+    # Save neuron-concept similarities per layer as numpy
+    for sim in all_layer_similarities:
+        layer_name = sim["layer"]
+
+        sim = sim["similarities"]
+        fn = f"{dir_out}/neuron_concept_similarities_{layer_name}.npy"
+        np.save(fn, sim.numpy())
+
+        # get top 100 concepts per neuron
+        top = 100
+        sim = sim.argsort(descending=True)
+        sim = sim[:, :top]  # get top
+        sim = sim.type(torch.int32)
+        fn = f"{dir_out}/concepts_top{top}_{layer_name}.npy"
+        np.save(fn, sim.numpy())
 
     # # save as csv
     # df = pd.DataFrame(outputs)
