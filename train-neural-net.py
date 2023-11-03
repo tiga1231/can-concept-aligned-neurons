@@ -142,7 +142,7 @@ for epoch in range(num_epochs):
 
         batch_bar.update()  # +1
     batch_bar.refresh()  # force finish
-    torch.save(f"checkpoint_{model_name}_{dataset_name}.pth", model.state_dict())
+    torch.save(model.state_dict(), f"checkpoint_{model_name}_{dataset_name}.pth")
 
     # vis
     if vis:
@@ -154,6 +154,7 @@ for epoch in range(num_epochs):
     if type(loss) is not float:
         loss = loss.item()
     print(f"Epoch {epoch+1}/{num_epochs}, minibatch loss: {loss:.4f}")
+    # TODO log loss and accuracy
     model.eval()
     evaluation = evaluate(model, val_dataset)
     correct, total, accuracy = (
