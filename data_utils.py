@@ -4,7 +4,8 @@ import pandas as pd
 from torchvision import datasets, transforms, models
 
 DATASET_ROOTS = {
-    "imagenet_val": "/home/lim38/dataset/imagenet-val/",
+    # "imagenet_val": "/home/lim38/dataset/imagenet-val/",
+    "imagenet_val": "/home/jack/data/dataset/imagenet/val",
     "broden": "data/broden1_224/images/",
 }
 
