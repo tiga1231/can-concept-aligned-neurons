@@ -1,72 +1,72 @@
 abacus: abacus.n.02
 abaya: abaya.n.01
-academic gown: academic_gown.n.01
+academic_gown: academic_gown.n.01
 accordion: accordion.n.01
 acorn: acorn.n.01
-acorn squash: acorn_squash.n.02
-acoustic guitar: acoustic_guitar.n.01
+acorn_squash: acorn_squash.n.02
+acoustic_guitar: acoustic_guitar.n.01
 admiral: admiral.n.02
 affenpinscher: affenpinscher.n.01
-afghan hound: afghan_hound.n.01
-african chameleon: african_chameleon.n.01
-african crocodile: african_crocodile.n.01
-african elephant: african_elephant.n.01
-african grey: african_grey.n.01
-african hunting dog: african_hunting_dog.n.01
+afghan_hound: afghan_hound.n.01
+african_chameleon: african_chameleon.n.01
+african_crocodile: african_crocodile.n.01
+african_elephant: african_elephant.n.01
+african_grey: african_grey.n.01
+african_hunting_dog: african_hunting_dog.n.01
 agama: agama.n.01
 agaric: agaric.n.02
-aircraft carrier: aircraft_carrier.n.01
+aircraft_carrier: aircraft_carrier.n.01
 airedale: airedale.n.01
 airliner: airliner.n.01
 airship: airship.n.01
 albatross: albatross.n.02
-alligator lizard: alligator_lizard.n.01
+alligator_lizard: alligator_lizard.n.01
 alp: alp.n.01
 altar: altar.n.02
 ambulance: ambulance.n.01
-american alligator: american_alligator.n.01
-american black bear: american_black_bear.n.01
-american chameleon: american_chameleon.n.01
-american coot: american_coot.n.01
-american egret: american_egret.n.01
-american lobster: american_lobster.n.02
-american staffordshire terrier: american_staffordshire_terrier.n.01
+american_alligator: american_alligator.n.01
+american_black_bear: american_black_bear.n.01
+american_chameleon: american_chameleon.n.01
+american_coot: american_coot.n.01
+american_egret: american_egret.n.01
+american_lobster: american_lobster.n.02
+american_staffordshire_terrier: american_staffordshire_terrier.n.01
 amphibian: amphibian.n.01
-analog clock: analog_clock.n.01
-anemone fish: anemone_fish.n.01
+analog_clock: analog_clock.n.01
+anemone_fish: anemone_fish.n.01
 angora: angora.n.03
 ant: ant.n.01
 apiary: apiary.n.01
 appenzeller: appenzeller.n.01
 apron: apron.n.01
-arabian camel: arabian_camel.n.01
-arctic fox: arctic_fox.n.01
+arabian_camel: arabian_camel.n.01
+arctic_fox: arctic_fox.n.01
 armadillo: armadillo.n.01
 artichoke: artichoke.n.02
 ashcan: ashcan.n.01
-assault rifle: assault_rifle.n.01
-australian terrier: australian_terrier.n.01
+assault_rifle: assault_rifle.n.01
+australian_terrier: australian_terrier.n.01
 axolotl: axolotl.n.01
 baboon: baboon.n.01
 backpack: backpack.n.01
 badger: badger.n.02
 bagel: bagel.n.01
 bakery: bakery.n.01
-balance beam: balance_beam.n.01
-bald eagle: bald_eagle.n.01
+balance_beam: balance_beam.n.01
+bald_eagle: bald_eagle.n.01
 balloon: balloon.n.01
 ballplayer: ballplayer.n.01
 ballpoint: ballpoint.n.01
 banana: banana.n.02
-band aid: band_aid.n.01
-banded gecko: banded_gecko.n.01
+band_aid: band_aid.n.01
+banded_gecko: banded_gecko.n.01
 banjo: banjo.n.01
 bannister: bannister.n.02
 barbell: barbell.n.01
-barber chair: barber_chair.n.01
+barber_chair: barber_chair.n.01
 barbershop: barbershop.n.01
 barn: barn.n.01
-barn spider: barn_spider.n.01
+barn_spider: barn_spider.n.01
 barometer: barometer.n.01
 barracouta: barracouta.n.01
 barrel: barrel.n.02
@@ -77,23 +77,23 @@ basketball: basketball.n.02
 basset: basset.n.01
 bassinet: bassinet.n.01
 bassoon: bassoon.n.01
-bath towel: bath_towel.n.01
-bathing cap: bathing_cap.n.01
+bath_towel: bath_towel.n.01
+bathing_cap: bathing_cap.n.01
 bathtub: bathtub.n.01
-beach wagon: beach_wagon.n.01
+beach_wagon: beach_wagon.n.01
 beacon: beacon.n.03
 beagle: beagle.n.01
 beaker: beaker.n.01
 bearskin: bearskin.n.02
 beaver: beaver.n.07
-bedlington terrier: bedlington_terrier.n.01
+bedlington_terrier: bedlington_terrier.n.01
 bee: bee.n.01
-bee eater: bee_eater.n.01
-beer bottle: beer_bottle.n.01
-beer glass: beer_glass.n.01
-bell cote: bell_cote.n.01
-bell pepper: bell_pepper.n.02
-bernese mountain dog: bernese_mountain_dog.n.01
+bee_eater: bee_eater.n.01
+beer_bottle: beer_bottle.n.01
+beer_glass: beer_glass.n.01
+bell_cote: bell_cote.n.01
+bell_pepper: bell_pepper.n.02
+bernese_mountain_dog: bernese_mountain_dog.n.01
 bib: bib.n.01
 bicycle-built-for-two: bicycle-built-for-two.n.01
 bighorn: bighorn.n.02
@@ -103,179 +103,179 @@ binoculars: binoculars.n.01
 birdhouse: birdhouse.n.01
 bison: bison.n.01
 bittern: bittern.n.01
-black and gold garden spider: black_and_gold_garden_spider.n.01
-black grouse: black_grouse.n.01
-black stork: black_stork.n.01
-black swan: black_swan.n.01
-black widow: black_widow.n.01
-black-and-tan coonhound: black-and-tan_coonhound.n.01
-black-footed ferret: black-footed_ferret.n.01
-blenheim spaniel: blenheim_spaniel.n.01
+black-and-tan_coonhound: black-and-tan_coonhound.n.01
+black-footed_ferret: black-footed_ferret.n.01
+black_and_gold_garden_spider: black_and_gold_garden_spider.n.01
+black_grouse: black_grouse.n.01
+black_stork: black_stork.n.01
+black_swan: black_swan.n.01
+black_widow: black_widow.n.01
+blenheim_spaniel: blenheim_spaniel.n.01
 bloodhound: bloodhound.n.01
 bluetick: bluetick.n.01
-boa constrictor: boa_constrictor.n.01
+boa_constrictor: boa_constrictor.n.01
 boathouse: boathouse.n.01
 bobsled: bobsled.n.02
 bolete: bolete.n.01
-bolo tie: bolo_tie.n.01
+bolo_tie: bolo_tie.n.01
 bonnet: bonnet.n.01
-book jacket: book_jacket.n.01
+book_jacket: book_jacket.n.01
 bookcase: bookcase.n.01
 bookshop: bookshop.n.01
-border collie: border_collie.n.01
-border terrier: border_terrier.n.01
+border_collie: border_collie.n.01
+border_terrier: border_terrier.n.01
 borzoi: borzoi.n.01
-boston bull: boston_bull.n.01
+boston_bull: boston_bull.n.01
 bottlecap: bottlecap.n.01
-bouvier des flandres: bouvier_des_flandres.n.01
+bouvier_des_flandres: bouvier_des_flandres.n.01
 bow: bow.n.04
-bow tie: bow_tie.n.01
-box turtle: box_turtle.n.01
+bow_tie: bow_tie.n.01
+box_turtle: box_turtle.n.01
 boxer: boxer.n.04
-brabancon griffon: brabancon_griffon.n.01
-brain coral: brain_coral.n.01
+brabancon_griffon: brabancon_griffon.n.01
+brain_coral: brain_coral.n.01
 brambling: brambling.n.01
 brass: brass.n.07
 brassiere: brassiere.n.01
 breakwater: breakwater.n.01
 breastplate: breastplate.n.01
 briard: briard.n.01
-brittany spaniel: brittany_spaniel.n.01
+brittany_spaniel: brittany_spaniel.n.01
 broccoli: broccoli.n.02
 broom: broom.n.01
-brown bear: brown_bear.n.01
+brown_bear: brown_bear.n.01
 bubble: bubble.n.01
 bucket: bucket.n.01
 buckeye: buckeye.n.01
 buckle: buckle.n.01
 bulbul: bulbul.n.01
-bull mastiff: bull_mastiff.n.01
-bullet train: bullet_train.n.01
-bulletproof vest: bulletproof_vest.n.01
+bull_mastiff: bull_mastiff.n.01
+bullet_train: bullet_train.n.01
+bulletproof_vest: bulletproof_vest.n.01
 bullfrog: bullfrog.n.01
 burrito: burrito.n.01
 bustard: bustard.n.01
-butcher shop: butcher_shop.n.01
-butternut squash: butternut_squash.n.02
+butcher_shop: butcher_shop.n.01
+butternut_squash: butternut_squash.n.02
 cab: cab.n.03
-cabbage butterfly: cabbage_butterfly.n.01
+cabbage_butterfly: cabbage_butterfly.n.01
 cairn: cairn.n.02
 caldron: caldron.n.01
-can opener: can_opener.n.01
+can_opener: can_opener.n.01
 candle: candle.n.01
 cannon: cannon.n.02
 canoe: canoe.n.01
 capuchin: capuchin.n.02
-car mirror: car_mirror.n.01
-car wheel: car_wheel.n.01
+car_mirror: car_mirror.n.01
+car_wheel: car_wheel.n.01
 carbonara: carbonara.n.01
 cardigan: cardigan.n.01
 cardoon: cardoon.n.02
 carousel: carousel.n.02
-carpenter's kit: carpenter's_kit.n.01
+carpenter's_kit: carpenter's_kit.n.01
 carton: carton.n.02
-cash machine: cash_machine.n.01
+cash_machine: cash_machine.n.01
 cassette: cassette.n.01
-cassette player: cassette_player.n.01
+cassette_player: cassette_player.n.01
 castle: castle.n.02
 catamaran: catamaran.n.01
 cauliflower: cauliflower.n.02
-cd player: cd_player.n.01
+cd_player: cd_player.n.01
 cello: cello.n.01
-cellular telephone: cellular_telephone.n.01
+cellular_telephone: cellular_telephone.n.01
 centipede: centipede.n.01
 chain: chain.n.03
-chain mail: chain_mail.n.01
-chain saw: chain_saw.n.01
-chainlink fence: chainlink_fence.n.01
-chambered nautilus: chambered_nautilus.n.01
+chain_mail: chain_mail.n.01
+chain_saw: chain_saw.n.01
+chainlink_fence: chainlink_fence.n.01
+chambered_nautilus: chambered_nautilus.n.01
 cheeseburger: cheeseburger.n.01
 cheetah: cheetah.n.01
-chesapeake bay retriever: chesapeake_bay_retriever.n.01
+chesapeake_bay_retriever: chesapeake_bay_retriever.n.01
 chest: chest.n.02
 chickadee: chickadee.n.01
 chiffonier: chiffonier.n.01
 chihuahua: chihuahua.n.03
 chime: chime.n.01
 chimpanzee: chimpanzee.n.01
-china cabinet: china_cabinet.n.01
+china_cabinet: china_cabinet.n.01
 chiton: chiton.n.02
-chocolate sauce: chocolate_sauce.n.01
+chocolate_sauce: chocolate_sauce.n.01
 chow: chow.n.03
-christmas stocking: christmas_stocking.n.01
+christmas_stocking: christmas_stocking.n.01
 church: church.n.02
 cicada: cicada.n.01
 cinema: cinema.n.02
 cleaver: cleaver.n.01
 cliff: cliff.n.01
-cliff dwelling: cliff_dwelling.n.01
+cliff_dwelling: cliff_dwelling.n.01
 cloak: cloak.n.01
 clog: clog.n.01
 clumber: clumber.n.01
 cock: cock.n.05
-cocker spaniel: cocker_spaniel.n.01
+cocker_spaniel: cocker_spaniel.n.01
 cockroach: cockroach.n.01
-cocktail shaker: cocktail_shaker.n.01
-coffee mug: coffee_mug.n.01
+cocktail_shaker: cocktail_shaker.n.01
+coffee_mug: coffee_mug.n.01
 coffeepot: coffeepot.n.01
 coho: coho.n.02
 coil: coil.n.01
 collie: collie.n.01
 colobus: colobus.n.01
-combination lock: combination_lock.n.01
-comic book: comic_book.n.01
-common iguana: common_iguana.n.01
-common newt: common_newt.n.01
-computer keyboard: computer_keyboard.n.01
+combination_lock: combination_lock.n.01
+comic_book: comic_book.n.01
+common_iguana: common_iguana.n.01
+common_newt: common_newt.n.01
+computer_keyboard: computer_keyboard.n.01
 conch: conch.n.01
 confectionery: confectionery.n.02
 consomme: consomme.n.01
-container ship: container_ship.n.01
+container_ship: container_ship.n.01
 convertible: convertible.n.01
-coral fungus: coral_fungus.n.01
-coral reef: coral_reef.n.01
+coral_fungus: coral_fungus.n.01
+coral_reef: coral_reef.n.01
 corkscrew: corkscrew.n.01
 corn: corn.n.02
 cornet: cornet.n.01
 coucal: coucal.n.01
 cougar: cougar.n.01
-cowboy boot: cowboy_boot.n.01
-cowboy hat: cowboy_hat.n.01
+cowboy_boot: cowboy_boot.n.01
+cowboy_hat: cowboy_hat.n.01
 coyote: coyote.n.01
 cradle: cradle.n.01
 crane: crane.n.04
-crash helmet: crash_helmet.n.01
+crash_helmet: crash_helmet.n.01
 crate: crate.n.01
 crayfish: crayfish.n.03
 crib: crib.n.01
 cricket: cricket.n.01
-crock pot: crock_pot.n.01
-croquet ball: croquet_ball.n.01
-crossword puzzle: crossword_puzzle.n.01
+crock_pot: crock_pot.n.01
+croquet_ball: croquet_ball.n.01
+crossword_puzzle: crossword_puzzle.n.01
 crutch: crutch.n.01
 cucumber: cucumber.n.02
 cuirass: cuirass.n.01
 cup: cup.n.06
-curly-coated retriever: curly-coated_retriever.n.01
-custard apple: custard_apple.n.02
+curly-coated_retriever: curly-coated_retriever.n.01
+custard_apple: custard_apple.n.02
 daisy: daisy.n.01
 dalmatian: dalmatian.n.02
 dam: dam.n.01
 damselfly: damselfly.n.01
-dandie dinmont: dandie_dinmont.n.01
+dandie_dinmont: dandie_dinmont.n.01
 desk: desk.n.01
-desktop computer: desktop_computer.n.01
+desktop_computer: desktop_computer.n.01
 dhole: dhole.n.01
-dial telephone: dial_telephone.n.01
+dial_telephone: dial_telephone.n.01
 diamondback: diamondback.n.01
 diaper: diaper.n.01
-digital clock: digital_clock.n.01
-digital watch: digital_watch.n.01
+digital_clock: digital_clock.n.01
+digital_watch: digital_watch.n.01
 dingo: dingo.n.01
-dining table: dining_table.n.01
+dining_table: dining_table.n.01
 dishrag: dishrag.n.01
 dishwasher: dishwasher.n.01
-disk brake: disk_brake.n.01
+disk_brake: disk_brake.n.01
 doberman: doberman.n.01
 dock: dock.n.05
 dogsled: dogsled.n.01
@@ -285,126 +285,126 @@ dough: dough.n.01
 dowitcher: dowitcher.n.01
 dragonfly: dragonfly.n.01
 drake: drake.n.02
-drilling platform: drilling_platform.n.01
+drilling_platform: drilling_platform.n.01
 drum: drum.n.01
 drumstick: drumstick.n.02
 dugong: dugong.n.01
 dumbbell: dumbbell.n.01
-dung beetle: dung_beetle.n.01
-dungeness crab: dungeness_crab.n.02
-dutch oven: dutch_oven.n.01
+dung_beetle: dung_beetle.n.01
+dungeness_crab: dungeness_crab.n.02
+dutch_oven: dutch_oven.n.01
 ear: ear.n.05
 earthstar: earthstar.n.01
 echidna: echidna.n.02
 eel: eel.n.02
 eft: eft.n.01
 eggnog: eggnog.n.01
-egyptian cat: egyptian_cat.n.01
-electric fan: electric_fan.n.01
-electric guitar: electric_guitar.n.01
-electric locomotive: electric_locomotive.n.01
-electric ray: electric_ray.n.01
-english foxhound: english_foxhound.n.01
-english setter: english_setter.n.01
-english springer: english_springer.n.01
-entertainment center: entertainment_center.n.01
+egyptian_cat: egyptian_cat.n.01
+electric_fan: electric_fan.n.01
+electric_guitar: electric_guitar.n.01
+electric_locomotive: electric_locomotive.n.01
+electric_ray: electric_ray.n.01
+english_foxhound: english_foxhound.n.01
+english_setter: english_setter.n.01
+english_springer: english_springer.n.01
+entertainment_center: entertainment_center.n.01
 entlebucher: entlebucher.n.01
 envelope: envelope.n.01
-eskimo dog: eskimo_dog.n.01
+eskimo_dog: eskimo_dog.n.01
 espresso: espresso.n.01
-espresso maker: espresso_maker.n.01
-european fire salamander: european_fire_salamander.n.01
-european gallinule: european_gallinule.n.01
-face powder: face_powder.n.01
-feather boa: feather_boa.n.01
-fiddler crab: fiddler_crab.n.01
+espresso_maker: espresso_maker.n.01
+european_fire_salamander: european_fire_salamander.n.01
+european_gallinule: european_gallinule.n.01
+face_powder: face_powder.n.01
+feather_boa: feather_boa.n.01
+fiddler_crab: fiddler_crab.n.01
 fig: fig.n.04
 file: file.n.03
-fire engine: fire_engine.n.01
-fire screen: fire_screen.n.01
+fire_engine: fire_engine.n.01
+fire_screen: fire_screen.n.01
 fireboat: fireboat.n.01
 flagpole: flagpole.n.02
 flamingo: flamingo.n.01
-flat-coated retriever: flat-coated_retriever.n.01
+flat-coated_retriever: flat-coated_retriever.n.01
 flatworm: flatworm.n.01
 flute: flute.n.01
 fly: fly.n.01
-folding chair: folding_chair.n.01
-football helmet: football_helmet.n.01
+folding_chair: folding_chair.n.01
+football_helmet: football_helmet.n.01
 forklift: forklift.n.01
 fountain: fountain.n.01
-fountain pen: fountain_pen.n.01
+fountain_pen: fountain_pen.n.01
 four-poster: four-poster.n.01
-fox squirrel: fox_squirrel.n.01
-freight car: freight_car.n.01
-french bulldog: french_bulldog.n.01
-french horn: french_horn.n.01
-french loaf: french_loaf.n.01
-frilled lizard: frilled_lizard.n.01
-frying pan: frying_pan.n.01
-fur coat: fur_coat.n.01
+fox_squirrel: fox_squirrel.n.01
+freight_car: freight_car.n.01
+french_bulldog: french_bulldog.n.01
+french_horn: french_horn.n.01
+french_loaf: french_loaf.n.01
+frilled_lizard: frilled_lizard.n.01
+frying_pan: frying_pan.n.01
+fur_coat: fur_coat.n.01
 gar: gar.n.01
-garbage truck: garbage_truck.n.01
-garden spider: garden_spider.n.01
-garter snake: garter_snake.n.01
-gas pump: gas_pump.n.01
+garbage_truck: garbage_truck.n.01
+garden_spider: garden_spider.n.01
+garter_snake: garter_snake.n.01
+gas_pump: gas_pump.n.01
 gasmask: gasmask.n.01
 gazelle: gazelle.n.01
-german shepherd: german_shepherd.n.01
-german short-haired pointer: german_short-haired_pointer.n.01
+german_shepherd: german_shepherd.n.01
+german_short-haired_pointer: german_short-haired_pointer.n.01
 geyser: geyser.n.01
-giant panda: giant_panda.n.01
-giant schnauzer: giant_schnauzer.n.01
+giant_panda: giant_panda.n.01
+giant_schnauzer: giant_schnauzer.n.01
 gibbon: gibbon.n.02
-gila monster: gila_monster.n.01
+gila_monster: gila_monster.n.01
 go-kart: go-kart.n.01
 goblet: goblet.n.01
-golden retriever: golden_retriever.n.01
+golden_retriever: golden_retriever.n.01
 goldfinch: goldfinch.n.02
 goldfish: goldfish.n.01
-golf ball: golf_ball.n.01
+golf_ball: golf_ball.n.01
 golfcart: golfcart.n.01
 gondola: gondola.n.02
 gong: gong.n.01
 goose: goose.n.01
-gordon setter: gordon_setter.n.01
+gordon_setter: gordon_setter.n.01
 gorilla: gorilla.n.01
 gown: gown.n.01
-grand piano: grand_piano.n.01
-granny smith: granny_smith.n.01
+grand_piano: grand_piano.n.01
+granny_smith: granny_smith.n.01
 grasshopper: grasshopper.n.01
-great dane: great_dane.n.01
-great grey owl: great_grey_owl.n.01
-great pyrenees: great_pyrenees.n.01
-great white shark: great_white_shark.n.01
-greater swiss mountain dog: greater_swiss_mountain_dog.n.01
-green lizard: green_lizard.n.01
-green mamba: green_mamba.n.01
-green snake: green_snake.n.02
+great_dane: great_dane.n.01
+great_grey_owl: great_grey_owl.n.01
+great_pyrenees: great_pyrenees.n.01
+great_white_shark: great_white_shark.n.01
+greater_swiss_mountain_dog: greater_swiss_mountain_dog.n.01
+green_lizard: green_lizard.n.01
+green_mamba: green_mamba.n.01
+green_snake: green_snake.n.02
 greenhouse: greenhouse.n.01
-grey fox: grey_fox.n.01
-grey whale: grey_whale.n.01
+grey_fox: grey_fox.n.01
+grey_whale: grey_whale.n.01
 grille: grille.n.02
-grocery store: grocery_store.n.01
+grocery_store: grocery_store.n.01
 groenendael: groenendael.n.01
 groom: groom.n.01
-ground beetle: ground_beetle.n.01
+ground_beetle: ground_beetle.n.01
 guacamole: guacamole.n.01
 guenon: guenon.n.01
 guillotine: guillotine.n.02
-guinea pig: guinea_pig.n.02
+guinea_pig: guinea_pig.n.02
 gyromitra: gyromitra.n.01
-hair slide: hair_slide.n.01
-hair spray: hair_spray.n.01
-half track: half_track.n.01
+hair_slide: hair_slide.n.01
+hair_spray: hair_spray.n.01
+half_track: half_track.n.01
 hammer: hammer.n.02
 hammerhead: hammerhead.n.03
 hamper: hamper.n.02
 hamster: hamster.n.01
-hand blower: hand_blower.n.01
-hand-held computer: hand-held_computer.n.01
+hand-held_computer: hand-held_computer.n.01
+hand_blower: hand_blower.n.01
 handkerchief: handkerchief.n.01
-hard disc: hard_disc.n.01
+hard_disc: hard_disc.n.01
 hare: hare.n.01
 harmonica: harmonica.n.01
 harp: harp.n.01
@@ -413,98 +413,98 @@ harvester: harvester.n.02
 harvestman: harvestman.n.01
 hatchet: hatchet.n.02
 hay: hay.n.01
-head cabbage: head_cabbage.n.02
+head_cabbage: head_cabbage.n.02
 hen: hen.n.02
 hen-of-the-woods: hen-of-the-woods.n.01
-hermit crab: hermit_crab.n.01
+hermit_crab: hermit_crab.n.01
 hip: hip.n.05
 hippopotamus: hippopotamus.n.01
 hog: hog.n.03
-hognose snake: hognose_snake.n.01
+hognose_snake: hognose_snake.n.01
 holster: holster.n.01
-home theater: home_theater.n.01
+home_theater: home_theater.n.01
 honeycomb: honeycomb.n.02
 hook: hook.n.04
 hoopskirt: hoopskirt.n.01
-horizontal bar: horizontal_bar.n.01
+horizontal_bar: horizontal_bar.n.01
 hornbill: hornbill.n.01
-horned viper: horned_viper.n.01
-horse cart: horse_cart.n.01
-hot pot: hot_pot.n.01
+horned_viper: horned_viper.n.01
+horse_cart: horse_cart.n.01
+hot_pot: hot_pot.n.01
 hotdog: hotdog.n.02
 hourglass: hourglass.n.01
-house finch: house_finch.n.01
-howler monkey: howler_monkey.n.01
+house_finch: house_finch.n.01
+howler_monkey: howler_monkey.n.01
 hummingbird: hummingbird.n.01
 hyena: hyena.n.01
 ibex: ibex.n.01
-ibizan hound: ibizan_hound.n.01
-ice bear: ice_bear.n.01
-ice cream: ice_cream.n.01
-ice lolly: ice_lolly.n.01
+ibizan_hound: ibizan_hound.n.01
+ice_bear: ice_bear.n.01
+ice_cream: ice_cream.n.01
+ice_lolly: ice_lolly.n.01
 impala: impala.n.01
-indian cobra: indian_cobra.n.01
-indian elephant: indian_elephant.n.01
-indigo bunting: indigo_bunting.n.01
+indian_cobra: indian_cobra.n.01
+indian_elephant: indian_elephant.n.01
+indigo_bunting: indigo_bunting.n.01
 indri: indri.n.01
 ipod: ipod.n.01
-irish setter: irish_setter.n.01
-irish terrier: irish_terrier.n.01
-irish water spaniel: irish_water_spaniel.n.01
-irish wolfhound: irish_wolfhound.n.01
+irish_setter: irish_setter.n.01
+irish_terrier: irish_terrier.n.01
+irish_water_spaniel: irish_water_spaniel.n.01
+irish_wolfhound: irish_wolfhound.n.01
 iron: iron.n.04
 isopod: isopod.n.01
-italian greyhound: italian_greyhound.n.01
+italian_greyhound: italian_greyhound.n.01
 jacamar: jacamar.n.01
 jack-o'-lantern: jack-o'-lantern.n.02
 jackfruit: jackfruit.n.02
 jaguar: jaguar.n.01
-japanese spaniel: japanese_spaniel.n.01
+japanese_spaniel: japanese_spaniel.n.01
 jay: jay.n.02
 jean: jean.n.01
 jeep: jeep.n.01
 jellyfish: jellyfish.n.02
 jersey: jersey.n.03
-jigsaw puzzle: jigsaw_puzzle.n.01
+jigsaw_puzzle: jigsaw_puzzle.n.01
 jinrikisha: jinrikisha.n.01
 joystick: joystick.n.02
 junco: junco.n.01
 keeshond: keeshond.n.01
 kelpie: kelpie.n.02
-kerry blue terrier: kerry_blue_terrier.n.01
-killer whale: killer_whale.n.01
+kerry_blue_terrier: kerry_blue_terrier.n.01
+killer_whale: killer_whale.n.01
 kimono: kimono.n.01
-king crab: king_crab.n.03
-king penguin: king_penguin.n.01
-king snake: king_snake.n.01
-kit fox: kit_fox.n.01
+king_crab: king_crab.n.03
+king_penguin: king_penguin.n.01
+king_snake: king_snake.n.01
+kit_fox: kit_fox.n.01
 kite: kite.n.04
-knee pad: knee_pad.n.01
+knee_pad: knee_pad.n.01
 knot: knot.n.02
 koala: koala.n.01
-komodo dragon: komodo_dragon.n.01
+komodo_dragon: komodo_dragon.n.01
 komondor: komondor.n.01
 kuvasz: kuvasz.n.01
-lab coat: lab_coat.n.01
-labrador retriever: labrador_retriever.n.01
+lab_coat: lab_coat.n.01
+labrador_retriever: labrador_retriever.n.01
 lacewing: lacewing.n.01
 ladle: ladle.n.01
 ladybug: ladybug.n.01
-lakeland terrier: lakeland_terrier.n.01
+lakeland_terrier: lakeland_terrier.n.01
 lakeside: lakeside.n.01
 lampshade: lampshade.n.01
 langur: langur.n.01
 laptop: laptop.n.01
-lawn mower: lawn_mower.n.01
-leaf beetle: leaf_beetle.n.01
+lawn_mower: lawn_mower.n.01
+leaf_beetle: leaf_beetle.n.01
 leafhopper: leafhopper.n.01
-leatherback turtle: leatherback_turtle.n.01
+leatherback_turtle: leatherback_turtle.n.01
 lemon: lemon.n.01
-lens cap: lens_cap.n.01
+lens_cap: lens_cap.n.01
 leonberg: leonberg.n.01
 leopard: leopard.n.02
-lesser panda: lesser_panda.n.01
-letter opener: letter_opener.n.01
+lesser_panda: lesser_panda.n.01
+letter_opener: letter_opener.n.01
 lhasa: lhasa.n.02
 library: library.n.05
 lifeboat: lifeboat.n.01
@@ -515,11 +515,11 @@ liner: liner.n.04
 lion: lion.n.01
 lionfish: lionfish.n.01
 lipstick: lipstick.n.01
-little blue heron: little_blue_heron.n.01
+little_blue_heron: little_blue_heron.n.01
 llama: llama.n.01
 loafer: loafer.n.02
 loggerhead: loggerhead.n.02
-long-horned beetle: long-horned_beetle.n.01
+long-horned_beetle: long-horned_beetle.n.01
 lorikeet: lorikeet.n.01
 lotion: lotion.n.01
 loudspeaker: loudspeaker.n.01
@@ -529,49 +529,49 @@ lycaenid: lycaenid.n.01
 lynx: lynx.n.02
 macaque: macaque.n.01
 macaw: macaw.n.01
-madagascar cat: madagascar_cat.n.01
-magnetic compass: magnetic_compass.n.01
+madagascar_cat: madagascar_cat.n.01
+magnetic_compass: magnetic_compass.n.01
 magpie: magpie.n.01
 mailbag: mailbag.n.02
 mailbox: mailbox.n.01
 maillot: maillot.n.01
 malamute: malamute.n.01
 malinois: malinois.n.01
-maltese dog: maltese_dog.n.01
-manhole cover: manhole_cover.n.01
+maltese_dog: maltese_dog.n.01
+manhole_cover: manhole_cover.n.01
 mantis: mantis.n.01
 maraca: maraca.n.01
 marimba: marimba.n.01
 marmoset: marmoset.n.01
 marmot: marmot.n.01
-mashed potato: mashed_potato.n.01
+mashed_potato: mashed_potato.n.01
 mask: mask.n.01
 matchstick: matchstick.n.01
 maypole: maypole.n.01
 maze: maze.n.01
-measuring cup: measuring_cup.n.01
-meat loaf: meat_loaf.n.01
-medicine chest: medicine_chest.n.01
+measuring_cup: measuring_cup.n.01
+meat_loaf: meat_loaf.n.01
+medicine_chest: medicine_chest.n.01
 meerkat: meerkat.n.01
 megalith: megalith.n.01
 menu: menu.n.02
-mexican hairless: mexican_hairless.n.01
+mexican_hairless: mexican_hairless.n.01
 microphone: microphone.n.01
 microwave: microwave.n.02
-military uniform: military_uniform.n.01
-milk can: milk_can.n.01
-miniature pinscher: miniature_pinscher.n.01
-miniature poodle: miniature_poodle.n.01
-miniature schnauzer: miniature_schnauzer.n.01
+military_uniform: military_uniform.n.01
+milk_can: milk_can.n.01
+miniature_pinscher: miniature_pinscher.n.01
+miniature_poodle: miniature_poodle.n.01
+miniature_schnauzer: miniature_schnauzer.n.01
 minibus: minibus.n.01
 miniskirt: miniskirt.n.01
 minivan: minivan.n.01
 mink: mink.n.03
 missile: missile.n.01
 mitten: mitten.n.01
-mixing bowl: mixing_bowl.n.01
-mobile home: mobile_home.n.01
-model t: model_t.n.01
+mixing_bowl: mixing_bowl.n.01
+mobile_home: mobile_home.n.01
+model_t: model_t.n.01
 modem: modem.n.01
 monarch: monarch.n.02
 monastery: monastery.n.01
@@ -581,33 +581,33 @@ moped: moped.n.01
 mortar: mortar.n.03
 mortarboard: mortarboard.n.02
 mosque: mosque.n.01
-mosquito net: mosquito_net.n.01
-motor scooter: motor_scooter.n.01
-mountain bike: mountain_bike.n.01
-mountain tent: mountain_tent.n.01
+mosquito_net: mosquito_net.n.01
+motor_scooter: motor_scooter.n.01
+mountain_bike: mountain_bike.n.01
+mountain_tent: mountain_tent.n.01
 mouse: mouse.n.04
 mousetrap: mousetrap.n.01
-moving van: moving_van.n.01
-mud turtle: mud_turtle.n.01
+moving_van: moving_van.n.01
+mud_turtle: mud_turtle.n.01
 mushroom: mushroom.n.05
 muzzle: muzzle.n.03
 nail: nail.n.02
-neck brace: neck_brace.n.01
+neck_brace: neck_brace.n.01
 necklace: necklace.n.01
 nematode: nematode.n.01
 newfoundland: newfoundland.n.01
-night snake: night_snake.n.01
+night_snake: night_snake.n.01
 nipple: nipple.n.02
-norfolk terrier: norfolk_terrier.n.01
-norwegian elkhound: norwegian_elkhound.n.01
-norwich terrier: norwich_terrier.n.01
+norfolk_terrier: norfolk_terrier.n.01
+norwegian_elkhound: norwegian_elkhound.n.01
+norwich_terrier: norwich_terrier.n.01
 notebook: notebook.n.02
 obelisk: obelisk.n.01
 oboe: oboe.n.01
 ocarina: ocarina.n.01
 odometer: odometer.n.01
-oil filter: oil_filter.n.01
-old english sheepdog: old_english_sheepdog.n.01
+oil_filter: oil_filter.n.01
+old_english_sheepdog: old_english_sheepdog.n.01
 orange: orange.n.01
 orangutan: orangutan.n.01
 organ: organ.n.05
@@ -618,7 +618,7 @@ otterhound: otterhound.n.01
 overskirt: overskirt.n.01
 ox: ox.n.01
 oxcart: oxcart.n.01
-oxygen mask: oxygen_mask.n.01
+oxygen_mask: oxygen_mask.n.01
 oystercatcher: oystercatcher.n.01
 packet: packet.n.03
 paddle: paddle.n.04
@@ -628,14 +628,14 @@ paintbrush: paintbrush.n.01
 pajama: pajama.n.02
 palace: palace.n.04
 panpipe: panpipe.n.01
-paper towel: paper_towel.n.01
+paper_towel: paper_towel.n.01
 papillon: papillon.n.01
 parachute: parachute.n.01
-parallel bars: parallel_bars.n.01
-park bench: park_bench.n.01
-parking meter: parking_meter.n.01
+parallel_bars: parallel_bars.n.01
+park_bench: park_bench.n.01
+parking_meter: parking_meter.n.01
 partridge: partridge.n.03
-passenger car: passenger_car.n.01
+passenger_car: passenger_car.n.01
 patas: patas.n.01
 patio: patio.n.01
 pay-phone: pay-phone.n.01
@@ -644,54 +644,54 @@ pedestal: pedestal.n.03
 pekinese: pekinese.n.01
 pelican: pelican.n.01
 pembroke: pembroke.n.01
-pencil box: pencil_box.n.01
-pencil sharpener: pencil_sharpener.n.01
+pencil_box: pencil_box.n.01
+pencil_sharpener: pencil_sharpener.n.01
 perfume: perfume.n.02
-persian cat: persian_cat.n.01
-petri dish: petri_dish.n.01
+persian_cat: persian_cat.n.01
+petri_dish: petri_dish.n.01
 photocopier: photocopier.n.01
 pick: pick.n.05
 pickelhaube: pickelhaube.n.01
-picket fence: picket_fence.n.01
+picket_fence: picket_fence.n.01
 pickup: pickup.n.01
 pier: pier.n.03
-piggy bank: piggy_bank.n.01
-pill bottle: pill_bottle.n.01
+piggy_bank: piggy_bank.n.01
+pill_bottle: pill_bottle.n.01
 pillow: pillow.n.01
 pineapple: pineapple.n.02
-ping-pong ball: ping-pong_ball.n.01
+ping-pong_ball: ping-pong_ball.n.01
 pinwheel: pinwheel.n.02
 pirate: pirate.n.03
 pitcher: pitcher.n.02
 pizza: pizza.n.01
 plane: plane.n.05
 planetarium: planetarium.n.01
-plastic bag: plastic_bag.n.01
+plastic_bag: plastic_bag.n.01
 plate: plate.n.08
-plate rack: plate_rack.n.01
+plate_rack: plate_rack.n.01
 platypus: platypus.n.01
 plow: plow.n.01
 plunger: plunger.n.03
-polaroid camera: polaroid_camera.n.01
+polaroid_camera: polaroid_camera.n.01
 pole: pole.n.01
 polecat: polecat.n.02
-police van: police_van.n.01
+police_van: police_van.n.01
 pomegranate: pomegranate.n.02
 pomeranian: pomeranian.n.01
 poncho: poncho.n.01
-pool table: pool_table.n.01
-pop bottle: pop_bottle.n.01
+pool_table: pool_table.n.01
+pop_bottle: pop_bottle.n.01
 porcupine: porcupine.n.01
 pot: pot.n.04
 potpie: potpie.n.01
-potter's wheel: potter's_wheel.n.01
-power drill: power_drill.n.01
-prairie chicken: prairie_chicken.n.01
-prayer rug: prayer_rug.n.01
+potter's_wheel: potter's_wheel.n.01
+power_drill: power_drill.n.01
+prairie_chicken: prairie_chicken.n.01
+prayer_rug: prayer_rug.n.01
 pretzel: pretzel.n.01
 printer: printer.n.02
 prison: prison.n.01
-proboscis monkey: proboscis_monkey.n.01
+proboscis_monkey: proboscis_monkey.n.01
 projectile: projectile.n.01
 projector: projector.n.02
 promontory: promontory.n.01
@@ -699,7 +699,7 @@ ptarmigan: ptarmigan.n.01
 puck: puck.n.02
 puffer: puffer.n.02
 pug: pug.n.01
-punching bag: punching_bag.n.02
+punching_bag: punching_bag.n.02
 purse: purse.n.03
 quail: quail.n.02
 quill: quill.n.01
@@ -708,45 +708,45 @@ racer: racer.n.02
 racket: racket.n.04
 radiator: radiator.n.03
 radio: radio.n.03
-radio telescope: radio_telescope.n.01
-rain barrel: rain_barrel.n.01
+radio_telescope: radio_telescope.n.01
+rain_barrel: rain_barrel.n.01
 ram: ram.n.05
 rapeseed: rapeseed.n.01
-recreational vehicle: recreational_vehicle.n.01
-red fox: red_fox.n.03
-red wine: red_wine.n.01
-red wolf: red_wolf.n.01
-red-backed sandpiper: red-backed_sandpiper.n.01
-red-breasted merganser: red-breasted_merganser.n.01
+recreational_vehicle: recreational_vehicle.n.01
+red-backed_sandpiper: red-backed_sandpiper.n.01
+red-breasted_merganser: red-breasted_merganser.n.01
+red_fox: red_fox.n.03
+red_wine: red_wine.n.01
+red_wolf: red_wolf.n.01
 redbone: redbone.n.01
 redshank: redshank.n.01
 reel: reel.n.03
-reflex camera: reflex_camera.n.01
+reflex_camera: reflex_camera.n.01
 refrigerator: refrigerator.n.01
-remote control: remote_control.n.01
+remote_control: remote_control.n.01
 restaurant: restaurant.n.01
 revolver: revolver.n.01
-rhinoceros beetle: rhinoceros_beetle.n.01
-rhodesian ridgeback: rhodesian_ridgeback.n.01
+rhinoceros_beetle: rhinoceros_beetle.n.01
+rhodesian_ridgeback: rhodesian_ridgeback.n.01
 rifle: rifle.n.01
 ringlet: ringlet.n.04
-ringneck snake: ringneck_snake.n.01
+ringneck_snake: ringneck_snake.n.01
 robin: robin.n.02
-rock beauty: rock_beauty.n.01
-rock crab: rock_crab.n.01
-rock python: rock_python.n.01
-rocking chair: rocking_chair.n.01
+rock_beauty: rock_beauty.n.01
+rock_crab: rock_crab.n.01
+rock_python: rock_python.n.01
+rocking_chair: rocking_chair.n.01
 rotisserie: rotisserie.n.01
 rottweiler: rottweiler.n.01
-rubber eraser: rubber_eraser.n.01
-ruddy turnstone: ruddy_turnstone.n.01
-ruffed grouse: ruffed_grouse.n.01
-rugby ball: rugby_ball.n.01
+rubber_eraser: rubber_eraser.n.01
+ruddy_turnstone: ruddy_turnstone.n.01
+ruffed_grouse: ruffed_grouse.n.01
+rugby_ball: rugby_ball.n.01
 rule: rule.n.12
-running shoe: running_shoe.n.01
+running_shoe: running_shoe.n.01
 safe: safe.n.01
-safety pin: safety_pin.n.01
-saint bernard: saint_bernard.n.01
+safety_pin: safety_pin.n.01
+saint_bernard: saint_bernard.n.01
 saltshaker: saltshaker.n.01
 saluki: saluki.n.01
 samoyed: samoyed.n.03
@@ -757,176 +757,176 @@ sax: sax.n.02
 scabbard: scabbard.n.01
 scale: scale.n.07
 schipperke: schipperke.n.01
-school bus: school_bus.n.01
+school_bus: school_bus.n.01
 schooner: schooner.n.02
 scoreboard: scoreboard.n.01
 scorpion: scorpion.n.03
-scotch terrier: scotch_terrier.n.01
-scottish deerhound: scottish_deerhound.n.01
+scotch_terrier: scotch_terrier.n.01
+scottish_deerhound: scottish_deerhound.n.01
 screen: screen.n.03
 screw: screw.n.04
 screwdriver: screwdriver.n.01
-scuba diver: scuba_diver.n.01
-sea anemone: sea_anemone.n.01
-sea cucumber: sea_cucumber.n.01
-sea lion: sea_lion.n.01
-sea slug: sea_slug.n.01
-sea snake: sea_snake.n.01
-sea urchin: sea_urchin.n.01
-sealyham terrier: sealyham_terrier.n.01
+scuba_diver: scuba_diver.n.01
+sea_anemone: sea_anemone.n.01
+sea_cucumber: sea_cucumber.n.01
+sea_lion: sea_lion.n.01
+sea_slug: sea_slug.n.01
+sea_snake: sea_snake.n.01
+sea_urchin: sea_urchin.n.01
+sealyham_terrier: sealyham_terrier.n.01
 seashore: seashore.n.01
-seat belt: seat_belt.n.01
-sewing machine: sewing_machine.n.01
-shetland sheepdog: shetland_sheepdog.n.01
+seat_belt: seat_belt.n.01
+sewing_machine: sewing_machine.n.01
+shetland_sheepdog: shetland_sheepdog.n.01
 shield: shield.n.02
 shih-tzu: shih-tzu.n.01
-shoe shop: shoe_shop.n.01
+shoe_shop: shoe_shop.n.01
 shoji: shoji.n.01
-shopping basket: shopping_basket.n.01
-shopping cart: shopping_cart.n.01
+shopping_basket: shopping_basket.n.01
+shopping_cart: shopping_cart.n.01
 shovel: shovel.n.01
-shower cap: shower_cap.n.01
-shower curtain: shower_curtain.n.01
+shower_cap: shower_cap.n.01
+shower_curtain: shower_curtain.n.01
 siamang: siamang.n.01
-siamese cat: siamese_cat.n.01
-siberian husky: siberian_husky.n.01
+siamese_cat: siamese_cat.n.01
+siberian_husky: siberian_husky.n.01
 sidewinder: sidewinder.n.01
-silky terrier: silky_terrier.n.01
+silky_terrier: silky_terrier.n.01
 ski: ski.n.01
-ski mask: ski_mask.n.01
+ski_mask: ski_mask.n.01
 skunk: skunk.n.04
-sleeping bag: sleeping_bag.n.01
-slide rule: slide_rule.n.01
-sliding door: sliding_door.n.01
+sleeping_bag: sleeping_bag.n.01
+slide_rule: slide_rule.n.01
+sliding_door: sliding_door.n.01
 slot: slot.n.07
-sloth bear: sloth_bear.n.01
+sloth_bear: sloth_bear.n.01
 slug: slug.n.07
 snail: snail.n.01
 snorkel: snorkel.n.01
-snow leopard: snow_leopard.n.01
+snow_leopard: snow_leopard.n.01
 snowmobile: snowmobile.n.01
 snowplow: snowplow.n.01
-soap dispenser: soap_dispenser.n.01
-soccer ball: soccer_ball.n.01
+soap_dispenser: soap_dispenser.n.01
+soccer_ball: soccer_ball.n.01
 sock: sock.n.01
-soft-coated wheaten terrier: soft-coated_wheaten_terrier.n.01
-solar dish: solar_dish.n.01
+soft-coated_wheaten_terrier: soft-coated_wheaten_terrier.n.01
+solar_dish: solar_dish.n.01
 sombrero: sombrero.n.02
 sorrel: sorrel.n.05
-soup bowl: soup_bowl.n.01
-space bar: space_bar.n.01
-space heater: space_heater.n.01
-space shuttle: space_shuttle.n.01
-spaghetti squash: spaghetti_squash.n.02
+soup_bowl: soup_bowl.n.01
+space_bar: space_bar.n.01
+space_heater: space_heater.n.01
+space_shuttle: space_shuttle.n.01
+spaghetti_squash: spaghetti_squash.n.02
 spatula: spatula.n.01
 speedboat: speedboat.n.01
-spider monkey: spider_monkey.n.01
-spider web: spider_web.n.01
+spider_monkey: spider_monkey.n.01
+spider_web: spider_web.n.01
 spindle: spindle.n.04
-spiny lobster: spiny_lobster.n.02
+spiny_lobster: spiny_lobster.n.02
 spoonbill: spoonbill.n.01
-sports car: sports_car.n.01
+sports_car: sports_car.n.01
 spotlight: spotlight.n.02
-spotted salamander: spotted_salamander.n.01
-squirrel monkey: squirrel_monkey.n.01
-staffordshire bullterrier: staffordshire_bullterrier.n.01
+spotted_salamander: spotted_salamander.n.01
+squirrel_monkey: squirrel_monkey.n.01
+staffordshire_bullterrier: staffordshire_bullterrier.n.01
 stage: stage.n.03
-standard poodle: standard_poodle.n.01
-standard schnauzer: standard_schnauzer.n.01
+standard_poodle: standard_poodle.n.01
+standard_schnauzer: standard_schnauzer.n.01
 starfish: starfish.n.01
-steam locomotive: steam_locomotive.n.01
-steel arch bridge: steel_arch_bridge.n.01
-steel drum: steel_drum.n.01
+steam_locomotive: steam_locomotive.n.01
+steel_arch_bridge: steel_arch_bridge.n.01
+steel_drum: steel_drum.n.01
 stethoscope: stethoscope.n.01
 stingray: stingray.n.01
 stinkhorn: stinkhorn.n.01
 stole: stole.n.01
-stone wall: stone_wall.n.01
+stone_wall: stone_wall.n.01
 stopwatch: stopwatch.n.01
 stove: stove.n.02
 strainer: strainer.n.01
 strawberry: strawberry.n.01
-street sign: street_sign.n.01
+street_sign: street_sign.n.01
 streetcar: streetcar.n.01
 stretcher: stretcher.n.03
-studio couch: studio_couch.n.01
+studio_couch: studio_couch.n.01
 stupa: stupa.n.01
 sturgeon: sturgeon.n.01
 submarine: submarine.n.01
 suit: suit.n.01
-sulphur butterfly: sulphur_butterfly.n.01
-sulphur-crested cockatoo: sulphur-crested_cockatoo.n.01
+sulphur-crested_cockatoo: sulphur-crested_cockatoo.n.01
+sulphur_butterfly: sulphur_butterfly.n.01
 sundial: sundial.n.01
 sunglass: sunglass.n.01
 sunglasses: sunglasses.n.01
 sunscreen: sunscreen.n.01
-suspension bridge: suspension_bridge.n.01
-sussex spaniel: sussex_spaniel.n.01
+suspension_bridge: suspension_bridge.n.01
+sussex_spaniel: sussex_spaniel.n.01
 swab: swab.n.02
 sweatshirt: sweatshirt.n.01
-swimming trunks: swimming_trunks.n.01
+swimming_trunks: swimming_trunks.n.01
 swing: swing.n.02
 switch: switch.n.01
 syringe: syringe.n.01
 tabby: tabby.n.01
-table lamp: table_lamp.n.01
-tailed frog: tailed_frog.n.01
+table_lamp: table_lamp.n.01
+tailed_frog: tailed_frog.n.01
 tank: tank.n.01
-tape player: tape_player.n.01
+tape_player: tape_player.n.01
 tarantula: tarantula.n.02
 teapot: teapot.n.01
 teddy: teddy.n.01
 television: television.n.02
 tench: tench.n.01
-tennis ball: tennis_ball.n.01
+tennis_ball: tennis_ball.n.01
 terrapin: terrapin.n.01
 thatch: thatch.n.04
-theater curtain: theater_curtain.n.01
+theater_curtain: theater_curtain.n.01
 thimble: thimble.n.02
-three-toed sloth: three-toed_sloth.n.01
+three-toed_sloth: three-toed_sloth.n.01
 thresher: thresher.n.01
 throne: throne.n.01
-thunder snake: thunder_snake.n.01
-tibetan mastiff: tibetan_mastiff.n.01
-tibetan terrier: tibetan_terrier.n.01
+thunder_snake: thunder_snake.n.01
+tibetan_mastiff: tibetan_mastiff.n.01
+tibetan_terrier: tibetan_terrier.n.01
 tick: tick.n.02
 tiger: tiger.n.02
-tiger beetle: tiger_beetle.n.01
-tiger cat: tiger_cat.n.02
-tiger shark: tiger_shark.n.01
-tile roof: tile_roof.n.01
-timber wolf: timber_wolf.n.01
+tiger_beetle: tiger_beetle.n.01
+tiger_cat: tiger_cat.n.02
+tiger_shark: tiger_shark.n.01
+tile_roof: tile_roof.n.01
+timber_wolf: timber_wolf.n.01
 titi: titi.n.03
 toaster: toaster.n.02
-tobacco shop: tobacco_shop.n.01
-toilet seat: toilet_seat.n.01
-toilet tissue: toilet_tissue.n.01
+tobacco_shop: tobacco_shop.n.01
+toilet_seat: toilet_seat.n.01
+toilet_tissue: toilet_tissue.n.01
 torch: torch.n.01
-totem pole: totem_pole.n.01
+totem_pole: totem_pole.n.01
 toucan: toucan.n.01
-tow truck: tow_truck.n.01
-toy poodle: toy_poodle.n.01
-toy terrier: toy_terrier.n.01
+tow_truck: tow_truck.n.01
+toy_poodle: toy_poodle.n.01
+toy_terrier: toy_terrier.n.01
 toyshop: toyshop.n.01
 tractor: tractor.n.01
-traffic light: traffic_light.n.01
-trailer truck: trailer_truck.n.01
+traffic_light: traffic_light.n.01
+trailer_truck: trailer_truck.n.01
 tray: tray.n.01
-tree frog: tree_frog.n.02
-trench coat: trench_coat.n.01
+tree_frog: tree_frog.n.02
+trench_coat: trench_coat.n.01
 triceratops: triceratops.n.01
 tricycle: tricycle.n.01
 trifle: trifle.n.01
 trilobite: trilobite.n.01
 trimaran: trimaran.n.01
 tripod: tripod.n.01
-triumphal arch: triumphal_arch.n.01
+triumphal_arch: triumphal_arch.n.01
 trolleybus: trolleybus.n.01
 trombone: trombone.n.01
 tub: tub.n.02
 turnstile: turnstile.n.01
 tusker: tusker.n.01
-typewriter keyboard: typewriter_keyboard.n.01
+typewriter_keyboard: typewriter_keyboard.n.01
 umbrella: umbrella.n.01
 unicycle: unicycle.n.01
 upright: upright.n.02
@@ -935,19 +935,19 @@ valley: valley.n.01
 vase: vase.n.01
 vault: vault.n.03
 velvet: velvet.n.01
-vending machine: vending_machine.n.01
+vending_machine: vending_machine.n.01
 vestment: vestment.n.01
 viaduct: viaduct.n.01
-vine snake: vine_snake.n.01
+vine_snake: vine_snake.n.01
 violin: violin.n.01
 vizsla: vizsla.n.01
 volcano: volcano.n.02
 volleyball: volleyball.n.02
 vulture: vulture.n.01
-waffle iron: waffle_iron.n.01
-walker hound: walker_hound.n.01
-walking stick: walking_stick.n.02
-wall clock: wall_clock.n.01
+waffle_iron: waffle_iron.n.01
+walker_hound: walker_hound.n.01
+walking_stick: walking_stick.n.02
+wall_clock: wall_clock.n.01
 wallaby: wallaby.n.01
 wallet: wallet.n.01
 wardrobe: wardrobe.n.01
@@ -955,43 +955,43 @@ warplane: warplane.n.01
 warthog: warthog.n.01
 washbasin: washbasin.n.02
 washer: washer.n.03
-water bottle: water_bottle.n.01
-water buffalo: water_buffalo.n.01
-water jug: water_jug.n.01
-water ouzel: water_ouzel.n.01
-water snake: water_snake.n.01
-water tower: water_tower.n.01
+water_bottle: water_bottle.n.01
+water_buffalo: water_buffalo.n.01
+water_jug: water_jug.n.01
+water_ouzel: water_ouzel.n.01
+water_snake: water_snake.n.01
+water_tower: water_tower.n.01
 weasel: weasel.n.02
-web site: web_site.n.01
+web_site: web_site.n.01
 weevil: weevil.n.01
 weimaraner: weimaraner.n.01
-welsh springer spaniel: welsh_springer_spaniel.n.01
-west highland white terrier: west_highland_white_terrier.n.01
+welsh_springer_spaniel: welsh_springer_spaniel.n.01
+west_highland_white_terrier: west_highland_white_terrier.n.01
 whippet: whippet.n.01
 whiptail: whiptail.n.01
-whiskey jug: whiskey_jug.n.01
+whiskey_jug: whiskey_jug.n.01
 whistle: whistle.n.04
-white stork: white_stork.n.01
-white wolf: white_wolf.n.01
+white_stork: white_stork.n.01
+white_wolf: white_wolf.n.01
 wig: wig.n.01
-wild boar: wild_boar.n.01
-window screen: window_screen.n.01
-window shade: window_shade.n.01
-windsor tie: windsor_tie.n.01
-wine bottle: wine_bottle.n.01
+wild_boar: wild_boar.n.01
+window_screen: window_screen.n.01
+window_shade: window_shade.n.01
+windsor_tie: windsor_tie.n.01
+wine_bottle: wine_bottle.n.01
 wing: wing.n.02
-wire-haired fox terrier: wire-haired_fox_terrier.n.01
+wire-haired_fox_terrier: wire-haired_fox_terrier.n.01
 wok: wok.n.01
-wolf spider: wolf_spider.n.01
+wolf_spider: wolf_spider.n.01
 wombat: wombat.n.01
-wood rabbit: wood_rabbit.n.01
-wooden spoon: wooden_spoon.n.02
+wood_rabbit: wood_rabbit.n.01
+wooden_spoon: wooden_spoon.n.02
 wool: wool.n.01
-worm fence: worm_fence.n.01
+worm_fence: worm_fence.n.01
 wreck: wreck.n.04
 yawl: yawl.n.01
-yellow lady's slipper: yellow_lady's_slipper.n.01
-yorkshire terrier: yorkshire_terrier.n.01
+yellow_lady's_slipper: yellow_lady's_slipper.n.01
+yorkshire_terrier: yorkshire_terrier.n.01
 yurt: yurt.n.01
 zebra: zebra.n.01
 zucchini: zucchini.n.02
