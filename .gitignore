@@ -15,3 +15,4 @@ results/
 
 *.pt
 my_data/
+static/
