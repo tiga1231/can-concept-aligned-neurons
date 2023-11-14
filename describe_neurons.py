@@ -12,6 +12,10 @@ import utils
 import similarity
 
 
+def makedirs(d):
+    os.makedirs(d, exist_ok=True)
+
+
 parser = argparse.ArgumentParser(description="CLIP-Dissect")
 
 parser.add_argument(
@@ -181,7 +185,8 @@ if __name__ == "__main__":
         # outputs["description"].extend(descriptions)
         # outputs["similarity"].extend(vals.cpu().numpy())
 
-    dir_out = "my_data"
+    dir_out = f"my_data/{args.target_model}"
+    makedirs(dir_out)
     fn_out = f"{dir_out}/all_layer_similarities.pt"
     print(f"saving neuron-concept similarities to {fn_out}")
     torch.save(all_layer_similarities, fn_out)
