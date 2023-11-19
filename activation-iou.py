@@ -16,6 +16,7 @@ from matplotlib import colormaps
 
 import data_utils
 
+
 plt.style.use("ggplot")
 plt.style.use("seaborn-v0_8-colorblind")
 

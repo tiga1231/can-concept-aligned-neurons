@@ -10,7 +10,7 @@ DATASET_ROOTS = {
 }
 
 
-def get_target_model(target_name, device):
+def get_target_model(target_name, device, weights):
     """
     returns target model in eval mode and its preprocess function
     target_name: supported options - {resnet18_places, resnet18, resnet34, resnet50, resnet101, resnet152}
@@ -29,15 +29,34 @@ def get_target_model(target_name, device):
         target_model.eval()
         preprocess = get_resnet_imagenet_preprocess()
     elif "vit_b" in target_name:
+        # TODO load weights
         target_name_cap = target_name.replace("vit_b", "ViT_B")
         weights = eval("models.{}_Weights.IMAGENET1K_V1".format(target_name_cap))
         preprocess = weights.transforms()
         target_model = eval("models.{}(weights=weights).to(device)".format(target_name))
     elif "resnet" in target_name:
         target_name_cap = target_name.replace("resnet", "ResNet")
-        weights = eval("models.{}_Weights.IMAGENET1K_V1".format(target_name_cap))
-        preprocess = weights.transforms()
-        target_model = eval("models.{}(weights=weights).to(device)".format(target_name))
+        default_weights = eval(
+            "models.{}_Weights.IMAGENET1K_V1".format(target_name_cap)
+        )
+        preprocess = default_weights.transforms()
+        if weights == "default":
+            weights = default_weights
+            target_model = eval(
+                "models.{}(weights=weights).to(device)".format(target_name)
+            )
+        else:
+            print(f"loading weights from {weights}")
+            # custom training from sw
+            weights = torch.load(weights)
+            target_model = eval(f"models.{target_name}(num_classes={500}).to(device)")
+            if "state_dict" in weights:  # .ckpt from sw
+                state_dict = {
+                    k.replace("model.", ""): v for k, v in weights["state_dict"].items()
+                }
+                target_model.load_state_dict(state_dict)
+            else:
+                target_model.load_state_dict(weights)
 
     target_model.eval()
     return target_model, preprocess

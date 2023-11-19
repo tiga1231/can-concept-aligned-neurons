@@ -18,3 +18,4 @@ results/
 *.png
 my_data/
 static/
+model_checkpoints/

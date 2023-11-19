@@ -39,9 +39,22 @@ parser.add_argument(
     "--target_model",
     type=str,
     default="resnet50",
-    help=""""Which model to dissect, supported options are pretrained imagenet models from torchvision and resnet18_places""",
+    help="Which model to dissect, supported options are pretrained imagenet models from torchvision and resnet18_places",
 )
 
+parser.add_argument(
+    "--model_weight",
+    type=str,
+    default="default",
+    help="model weight",
+)
+
+parser.add_argument(
+    "--dir_out",
+    type=str,
+    default="my_data",
+    help="output directory",
+)
 parser.add_argument(
     "--target_layers",
     type=str,
@@ -132,6 +145,7 @@ if __name__ == "__main__":
         device=args.device,
         pool_mode=args.pool_mode,
         save_dir=args.activation_dir,
+        model_weight=args.model_weight,
     )
 
     outputs = {
@@ -185,7 +199,7 @@ if __name__ == "__main__":
         # outputs["description"].extend(descriptions)
         # outputs["similarity"].extend(vals.cpu().numpy())
 
-    dir_out = f"my_data/{args.target_model}"
+    dir_out = args.dir_out or f"my_data/{args.target_model}"
     makedirs(dir_out)
     fn_out = f"{dir_out}/all_layer_similarities.pt"
     print(f"saving neuron-concept similarities to {fn_out}")

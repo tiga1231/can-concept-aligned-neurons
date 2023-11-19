@@ -161,9 +161,12 @@ def save_activations(
     device,
     pool_mode,
     save_dir,
+    model_weight,
 ):
     clip_model, clip_preprocess = clip.load(clip_name, device=device)
-    target_model, target_preprocess = data_utils.get_target_model(target_name, device)
+    target_model, target_preprocess = data_utils.get_target_model(
+        target_name, device, model_weight
+    )
     # setup data
     data_c = data_utils.get_data(d_probe, clip_preprocess)
     data_t = data_utils.get_data(d_probe, target_preprocess)
