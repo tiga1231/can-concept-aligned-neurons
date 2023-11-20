@@ -23,20 +23,19 @@ def get_highly_activated_images():
 
     layer = req["layer"]
     neurons = req["neurons"]
+    model = req["model"]
     print(f"grabbing layer={layer}, neurons={neurons}")
 
     # 1. Get neuron activations of the right layer
-    if layer in all_layer_neuron_activations:
-        neuron_activations = all_layer_neuron_activations[layer]
+    key = f"{model}-{layer}"
+    if key in all_layer_neuron_activations:
+        neuron_activations = all_layer_neuron_activations[key]
     else:
         # neuron_activations = np.load(f"./my_data/neuron_activations_{layer}.npy")
-        neuron_activations = np.load(
-            f"./my_data/neuron_activation_image_argsort_{layer}.npy"
-        )
-        all_layer_neuron_activations[layer] = neuron_activations
+        fn = f"my_data/{model}/neuron_activation_image_argsort_{layer}.npy"
+        neuron_activations = np.load(fn)
+        all_layer_neuron_activations[key] = neuron_activations
 
-    # 2. grab neuron activations in the query
-    # 3. grab highly activated image indices
     neuron_activations_selected = neuron_activations[neurons]
 
     # 4. get file names of highly activated images

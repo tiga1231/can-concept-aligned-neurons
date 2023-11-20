@@ -7,6 +7,7 @@ import json
 # import pandas as pd
 import torch
 import numpy as np
+from tqdm.auto import tqdm
 
 import utils
 import similarity
@@ -117,6 +118,7 @@ parser.add_argument(
     default="soft_wpmi",
     choices=[
         "soft_wpmi",
+        "soft_wpmi_2",
         "wpmi",
         "rank_reorder",
         "cos_similarity",
@@ -172,21 +174,35 @@ if __name__ == "__main__":
             save_dir=args.activation_dir,
         )
 
+        hierarchy_name = "my_data/wordnet_nodes.json"
         similarities = utils.get_similarity_from_activations(
             target_save_name,
             clip_save_name,
             text_save_name,
+            hierarchy_name,
             similarity_fn,
             return_target_feats=False,
             device=args.device,
         )  # neuron x vabulary_size
-        print(target_layer, similarities.shape)
-        all_layer_similarities.append(
-            dict(
-                similarities=similarities.detach().cpu(),
-                layer=target_layer,
+
+        if len(similarities) == 2:
+            [similarities, log_pc_given_n] = similarities
+            print(target_layer, similarities.shape)
+            all_layer_similarities.append(
+                dict(
+                    similarities=similarities.detach().cpu(),
+                    pc_given_n=log_pc_given_n.detach().cpu(),
+                    layer=target_layer,
+                )
             )
-        )
+        else:
+            print(target_layer, similarities.shape)
+            all_layer_similarities.append(
+                dict(
+                    similarities=similarities.detach().cpu(),
+                    layer=target_layer,
+                )
+            )
 
         # sys.exit(0)
         # take argmax
@@ -206,20 +222,46 @@ if __name__ == "__main__":
     torch.save(all_layer_similarities, fn_out)
 
     # Save neuron-concept similarities per layer as numpy
-    for sim in all_layer_similarities:
-        layer_name = sim["layer"]
+    for als in all_layer_similarities:
+        layer_name = als["layer"]
 
-        sim = sim["similarities"]
+        sim = als["similarities"]
+        sim = sim.type(torch.float16)
         fn = f"{dir_out}/neuron_concept_similarities_{layer_name}.npy"
         np.save(fn, sim.numpy())
 
+        pcn = als["pc_given_n"]
+        pcn = pcn.type(torch.float16)
+        fn = f"{dir_out}/prob_concept_given_neuron_{layer_name}.npy"
+        np.save(fn, pcn.numpy())
+
         # get top 100 concepts per neuron
         top = 100
-        sim = sim.argsort(descending=True)
-        sim = sim[:, :top]  # get top
-        sim = sim.type(torch.int32)
+        top_concepts = sim.argsort(descending=True)[:, :top]
+        top_concepts = top_concepts.type(torch.int32)
         fn = f"{dir_out}/concepts_top{top}_{layer_name}.npy"
-        np.save(fn, sim.numpy())
+        np.save(fn, top_concepts.numpy())
+
+    print("saving top highly activated images...")
+    top = 100
+    for target_layer in tqdm(args.target_layers):
+        target_save_name, _, _ = utils.get_save_names(
+            clip_name=args.clip_model,
+            target_name=args.target_model,
+            target_layer=target_layer,
+            d_probe=args.d_probe,
+            concept_set=args.concept_set,
+            pool_mode=args.pool_mode,
+            save_dir=args.activation_dir,
+        )
+        neuron_activations = torch.load(target_save_name, map_location="cpu")
+        neuron_activation_image_argsort = (
+            neuron_activations.argsort(0, descending=True).int()[:top].t()
+        )
+        np.save(
+            f"{dir_out}/neuron_activation_image_argsort_{target_layer}.npy",
+            neuron_activation_image_argsort.numpy(),
+        )
 
     # # save as csv
     # df = pd.DataFrame(outputs)

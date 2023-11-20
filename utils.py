@@ -6,6 +6,8 @@ import clip
 from tqdm import tqdm
 from torch.utils.data import DataLoader
 import data_utils
+import json
+import itertools
 
 PM_SUFFIX = {"max": "_max", "avg": ""}
 
@@ -207,6 +209,7 @@ def get_similarity_from_activations(
     target_save_name,
     clip_save_name,
     text_save_name,
+    hierarchy_name,
     similarity_fn,
     return_target_feats=True,
     device="cuda",
@@ -220,18 +223,42 @@ def get_similarity_from_activations(
     del image_features, text_features
     torch.cuda.empty_cache()
 
+    # neuron activations
     target_feats = torch.load(target_save_name, map_location="cpu")
-    similarity = similarity_fn(clip_feats, target_feats, device=device)
+    with open(hierarchy_name) as f:
+        nodes = json.load(f)
+        nodes = sorted(nodes, key=lambda x: x["level"])
+
+    n_neurons = target_feats.shape[1]
+    n_concepts = clip_feats.shape[1]
+    pc_given_n = torch.empty(n_neurons, n_concepts, device=device)
+
+    # similarities = torch.empty(n_neurons, n_concepts, device=device)
+    # for level, concept_group in itertools.groupby(nodes, key=lambda d: d["level"]):
+    #     concept_indices = [c["index"] for c in concept_group]
+    #     sim, pcn = similarity_fn(
+    #         clip_feats[:, concept_indices],
+    #         target_feats,
+    #         device=device,
+    #     )
+    #     similarities[:, concept_indices] = sim
+    #     pc_given_n[:, concept_indices] = pcn
+
+    similarities, pc_given_n = similarity_fn(
+        clip_feats,
+        target_feats,
+        device=device,
+    )
 
     del clip_feats
     torch.cuda.empty_cache()
 
     if return_target_feats:
-        return similarity, target_feats
+        return similarities, target_feats, pc_given_n
     else:
         del target_feats
         torch.cuda.empty_cache()
-        return similarity
+        return similarities, pc_given_n
 
 
 def get_cos_similarity(
@@ -246,7 +273,6 @@ def get_cos_similarity(
     pred_embeds = []
     gt_embeds = []
 
-    # print(preds)
     with torch.no_grad():
         for i in range(math.ceil(len(pred_tokens) / batch_size)):
             pred_embeds.append(
