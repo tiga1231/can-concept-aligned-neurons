@@ -29,7 +29,6 @@ def get_target_model(target_name, device, weights):
         target_model.eval()
         preprocess = get_resnet_imagenet_preprocess()
     elif "vit_b" in target_name:
-        # TODO load weights
         target_name_cap = target_name.replace("vit_b", "ViT_B")
         weights = eval("models.{}_Weights.IMAGENET1K_V1".format(target_name_cap))
         preprocess = weights.transforms()
@@ -46,18 +45,20 @@ def get_target_model(target_name, device, weights):
                 "models.{}(weights=weights).to(device)".format(target_name)
             )
         else:
+            # NOTE custom training from sw
             print(f"loading weights from {weights}")
-            # custom training from sw
             weights = torch.load(weights)
-            target_model = eval(f"models.{target_name}(num_classes={500}).to(device)")
             if "state_dict" in weights:  # .ckpt from sw
                 state_dict = {
                     k.replace("model.", ""): v for k, v in weights["state_dict"].items()
                 }
-                target_model.load_state_dict(state_dict)
             else:
-                target_model.load_state_dict(weights)
+                state_dict = weights
+            num_classes = state_dict["fc.bias"].shape[0]
+            target_model = getattr(models, target_name)(num_classes=num_classes)
+            target_model.load_state_dict(state_dict)
 
+    target_model = target_model.to(device)
     target_model.eval()
     return target_model, preprocess
 
