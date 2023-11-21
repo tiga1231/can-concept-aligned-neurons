@@ -1,8 +1,10 @@
 import os
-import sys
+
+# import sys
 import argparse
-import datetime
-import json
+
+# import datetime
+# import json
 
 # import pandas as pd
 import torch
@@ -40,7 +42,8 @@ parser.add_argument(
     "--target_model",
     type=str,
     default="resnet50",
-    help="Which model to dissect, supported options are pretrained imagenet models from torchvision and resnet18_places",
+    help="Which model to dissect, supported options are "
+    "pretrained imagenet models from torchvision and resnet18_places",
 )
 
 parser.add_argument(
@@ -60,7 +63,9 @@ parser.add_argument(
     "--target_layers",
     type=str,
     default="conv1,layer1,layer2,layer3,layer4",
-    help="""Which layer neurons to describe. String list of layer names to describe, separated by comma(no spaces). Follows the naming scheme of the Pytorch module used""",
+    help="Which layer neurons to describe. "
+    "String list of layer names to describe, separated by comma(no spaces). "
+    "Follows the naming scheme of the Pytorch module used",
 )
 
 parser.add_argument(
