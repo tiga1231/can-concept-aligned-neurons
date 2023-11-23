@@ -2,6 +2,8 @@ import os
 import torch
 import pandas as pd
 from torchvision import datasets, transforms, models
+from robustbench import load_model
+
 
 DATASET_ROOTS = {
     "imagenet_val": "/home/lim38/dataset/imagenet-val/",
@@ -18,6 +20,7 @@ def get_target_model(target_name, device, weights):
 
     To Dissect a different model implement its loading and preprocessing function here
     """
+
     if target_name == "resnet18_places":
         target_model = models.resnet18(num_classes=365).to(device)
         state_dict = torch.load("data/resnet18_places365.pth.tar")["state_dict"]
@@ -28,11 +31,22 @@ def get_target_model(target_name, device, weights):
         target_model.load_state_dict(new_state_dict)
         target_model.eval()
         preprocess = get_resnet_imagenet_preprocess()
+
     elif "vit_b" in target_name:
         target_name_cap = target_name.replace("vit_b", "ViT_B")
         weights = eval("models.{}_Weights.IMAGENET1K_V1".format(target_name_cap))
         preprocess = weights.transforms()
         target_model = eval("models.{}(weights=weights).to(device)".format(target_name))
+
+    elif target_name == "resnet50robust":
+        #  load model for robust net, vitb16 used to compare with vision transformers.
+        target_model = load_model(
+            model_name="Erichson2022NoisyMix_new",
+            dataset="imagenet",
+            threat_model="corruptions",
+        ).model.to(device)
+        preprocess = get_resnet_imagenet_preprocess()
+
     elif "resnet" in target_name:
         target_name_cap = target_name.replace("resnet", "ResNet")
         default_weights = eval(
