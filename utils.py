@@ -214,6 +214,7 @@ def get_similarity_from_activations(
     return_target_feats=True,
     device="cuda",
 ):
+    print(target_save_name)
     image_features = torch.load(clip_save_name, map_location="cpu").float()
     text_features = torch.load(text_save_name, map_location="cpu").float()
     with torch.no_grad():

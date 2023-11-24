@@ -154,6 +154,7 @@ if __name__ == "__main__":
         save_dir=args.activation_dir,
         model_weight=args.model_weight,
     )
+    print('DONE')
 
     outputs = {
         "layer": [],
@@ -240,15 +241,15 @@ if __name__ == "__main__":
         fn = f"{dir_out}/prob_concept_given_neuron_{layer_name}.npy"
         np.save(fn, pcn.numpy())
 
-        # get top 100 concepts per neuron
-        top = 100
+        # get top 20 concepts per neuron
+        top = 20
         top_concepts = sim.argsort(descending=True)[:, :top]
         top_concepts = top_concepts.type(torch.int32)
         fn = f"{dir_out}/concepts_top{top}_{layer_name}.npy"
         np.save(fn, top_concepts.numpy())
 
     print("saving top highly activated images...")
-    top = 100
+    top = 20
     for target_layer in tqdm(args.target_layers):
         target_save_name, _, _ = utils.get_save_names(
             clip_name=args.clip_model,
