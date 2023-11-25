@@ -17,5 +17,5 @@ pip install git+https://github.com/openai/CLIP.git
 # RobustBench
 pip install git+https://github.com/RobustBench/robustbench.git
 
-
-
+# Auto-attack
+pip install git+https://github.com/fra31/auto-attack

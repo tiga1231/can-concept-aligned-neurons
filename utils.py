@@ -171,7 +171,7 @@ def save_activations(
     )
     # setup data
     data_c = data_utils.get_data(d_probe, clip_preprocess)
-    data_t = data_utils.get_data(d_probe, target_preprocess)
+    data_t = data_utils.get_data(d_probe, target_preprocess, target_model)
 
     with open(concept_set, "r") as f:
         words = (f.read()).split("\n")

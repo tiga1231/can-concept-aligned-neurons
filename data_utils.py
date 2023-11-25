@@ -7,6 +7,7 @@ from robustbench import load_model
 
 DATASET_ROOTS = {
     "imagenet_val": "/home/lim38/dataset/imagenet-val/",
+    "imagenet_val_attack": "/home/lim38/dataset/imagenet-val-attack/",
     # "imagenet_val": "/home/jack/data/dataset/imagenet/val",
     "broden": "data/broden1_224/images/",
 }
