@@ -1,13 +1,16 @@
-import os
+import itertools
+import json
 import math
+import os
+
 import numpy as np
 import torch
-import clip
-from tqdm import tqdm
 from torch.utils.data import DataLoader
+from torchvision import transforms
+from tqdm import tqdm
+
+import clip
 import data_utils
-import json
-import itertools
 
 PM_SUFFIX = {"max": "_max", "avg": ""}
 
@@ -170,8 +173,14 @@ def save_activations(
         target_name, device, model_weight
     )
     # setup data
+
+    if "attack" in d_probe:
+        # load already cropped data
+        to_tensor = transforms.ToTensor()
+        target_preprocess = to_tensor
+
     data_c = data_utils.get_data(d_probe, clip_preprocess)
-    data_t = data_utils.get_data(d_probe, target_preprocess, target_model)
+    data_t = data_utils.get_data(d_probe, target_preprocess)
 
     with open(concept_set, "r") as f:
         words = (f.read()).split("\n")

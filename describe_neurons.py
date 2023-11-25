@@ -76,6 +76,7 @@ parser.add_argument(
         "imagenet_broden",
         "cifar100_val",
         "imagenet_val",
+        "imagenet_val_attack",
         "broden",
         "imagenet_broden",
     ],
@@ -154,7 +155,7 @@ if __name__ == "__main__":
         save_dir=args.activation_dir,
         model_weight=args.model_weight,
     )
-    print('DONE')
+    print("DONE")
 
     outputs = {
         "layer": [],

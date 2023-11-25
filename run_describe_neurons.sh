@@ -6,9 +6,11 @@ CONCEPT_SET='data/wordnet_hierarchy.txt'
 SIMILARITY_FN='soft_wpmi_2'
 
 # alternative args
+# ViT
 TARGET_LAYER_VIT='encoder.layers.encoder_layer_1,encoder.layers.encoder_layer_2,encoder.layers.encoder_layer_3,encoder.layers.encoder_layer_4,encoder.layers.encoder_layer_5,encoder.layers.encoder_layer_6,encoder.layers.encoder_layer_7,encoder.layers.encoder_layer_8,encoder.layers.encoder_layer_9,encoder.layers.encoder_layer_10,encoder.layers.encoder_layer_11'
 
-D_PROBE='imagenet_val_attack'
+# Attack
+D_PROBE_ATTACK='imagenet_val_attack'
 
 
 
@@ -101,15 +103,35 @@ D_PROBE='imagenet_val_attack'
 #      --similarity_fn="$SIMILARITY_FN" \
 #      --concept_set="$CONCEPT_SET"
 
-## attacks data
- python describe_neurons.py \
-     --target_model='resnet50robust' \
-     --activation_dir='my_data/resnet50robust/' \
-     --dir_out='my_data/resnet50robust' \
-     --clip_model="$CLIP_MODEL" \
-     --d_probe="$D_PROBE_ATTACK" \
-     --target_layer="$TARGET_LAYER" \
-     --similarity_fn="$SIMILARITY_FN" \
-     --concept_set="$CONCEPT_SET"
+# # attacks
+# python describe_neurons.py \
+#     --target_model='resnet50' \
+#     --activation_dir='my_data/resnet50_under_attack/' \
+#     --dir_out='my_data/resnet50_under_attack' \
+#     --clip_model="$CLIP_MODEL" \
+#     --d_probe="$D_PROBE_ATTACK" \
+#     --target_layer="$TARGET_LAYER" \
+#     --similarity_fn="$SIMILARITY_FN" \
+#     --concept_set="$CONCEPT_SET"
+
+# python describe_neurons.py \
+#     --target_model='resnet50robust' \
+#     --activation_dir='my_data/resnet50robust_under_attack/' \
+#     --dir_out='my_data/resnet50robust_under_attack' \
+#     --clip_model="$CLIP_MODEL" \
+#     --d_probe="$D_PROBE_ATTACK" \
+#     --target_layer="$TARGET_LAYER" \
+#     --similarity_fn="$SIMILARITY_FN" \
+#     --concept_set="$CONCEPT_SET"
+
+python describe_neurons.py \
+    --target_model='resnet34' \
+    --activation_dir='my_data/resnet34_under_attack/' \
+    --dir_out='my_data/resnet34_under_attack' \
+    --clip_model="$CLIP_MODEL" \
+    --d_probe="$D_PROBE_ATTACK" \
+    --target_layer="$TARGET_LAYER" \
+    --similarity_fn="$SIMILARITY_FN" \
+    --concept_set="$CONCEPT_SET"
 
 # --pool_mode='None'

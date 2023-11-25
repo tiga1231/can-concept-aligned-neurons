@@ -59,7 +59,7 @@ os.makedirs(out_dir, exist_ok=True)
 adversary = AutoAttack(
     forward_pass,
     norm="Linf",
-    eps=8 / 255,  # bound over image domain [0,1]
+    eps=15 / 255,  # bound over image domain [0,1]
     version="custom",
     attacks_to_run=["apgd-ce"],
     verbose=True,
