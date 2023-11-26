@@ -178,6 +178,7 @@ def save_activations(
         # load already cropped data
         to_tensor = transforms.ToTensor()
         target_preprocess = to_tensor
+        print("loading attack preprocess...")
 
     data_c = data_utils.get_data(d_probe, clip_preprocess)
     data_t = data_utils.get_data(d_probe, target_preprocess)
@@ -202,6 +203,7 @@ def save_activations(
 
     save_clip_text_features(clip_model, text, text_save_name, batch_size)
     save_clip_image_features(clip_model, data_c, clip_save_name, batch_size, device)
+    print(f"saving {target_model} activations...")
     save_target_activations(
         target_model,
         data_t,

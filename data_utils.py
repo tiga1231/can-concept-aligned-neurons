@@ -22,6 +22,7 @@ def get_target_model(target_name, device, weights):
     To Dissect a different model implement its loading and preprocessing function here
     """
 
+    print(f"getting {target_name} model...")
     if target_name == "resnet18_places":
         target_model = models.resnet18(num_classes=365).to(device)
         state_dict = torch.load("data/resnet18_places365.pth.tar")["state_dict"]
@@ -47,6 +48,7 @@ def get_target_model(target_name, device, weights):
             threat_model="corruptions",
         ).model.to(device)
         preprocess = get_resnet_imagenet_preprocess()
+        print("loading resnet50robust model")
 
     elif "resnet" in target_name:
         target_name_cap = target_name.replace("resnet", "ResNet")
@@ -110,6 +112,7 @@ def get_data(dataset_name, preprocess=None):
         )
 
     elif dataset_name in DATASET_ROOTS.keys():
+        print("Loading data from ", DATASET_ROOTS[dataset_name])
         data = datasets.ImageFolder(DATASET_ROOTS[dataset_name], preprocess)
 
     elif dataset_name == "imagenet_broden":

@@ -72,7 +72,10 @@ loader = DataLoader(
     num_workers=16,
 )
 i = 0  # global image count
-for img, target in tqdm(loader):
+for b, [img, target] in enumerate(tqdm(loader)):
+    # if b < 457:  # skip previously done jobs
+    #     i += target.shape[0]
+    # continue
     img, target = img.cuda(), target.cuda()
     adv = adversary.run_standard_evaluation(img, target)
     print()
