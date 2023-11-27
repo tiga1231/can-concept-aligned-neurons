@@ -75,6 +75,11 @@ def get_target_model(target_name, device, weights):
             target_model = getattr(models, target_name)(num_classes=num_classes)
             target_model.load_state_dict(state_dict)
 
+    elif target_name == "googlenet":
+        default_weights = models.GoogLeNet_Weights.IMAGENET1K_V1
+        preprocess = default_weights.transforms()
+        target_model = models.googlenet(weights=default_weights)
+
     target_model = target_model.to(device)
     target_model.eval()
     return target_model, preprocess

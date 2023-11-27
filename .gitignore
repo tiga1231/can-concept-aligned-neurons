@@ -19,3 +19,5 @@ results/
 my_data/
 static/
 model_checkpoints/
+
+Session.vim
