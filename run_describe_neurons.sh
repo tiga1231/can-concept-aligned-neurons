@@ -7,7 +7,7 @@ CONCEPT_SET='data/wordnet_hierarchy.txt'
 SIMILARITY_FN='soft_wpmi_2'
 # alternative args
 # ViT
-TARGET_LAYER_VIT='encode.layers.encoder_layer_0,encoder.layers.encoder_layer_1,encoder.layers.encoder_layer_2,encoder.layers.encoder_layer_3,encoder.layers.encoder_layer_4,encoder.layers.encoder_layer_5,encoder.layers.encoder_layer_6,encoder.layers.encoder_layer_7,encoder.layers.encoder_layer_8,encoder.layers.encoder_layer_9,encoder.layers.encoder_layer_10,encoder.layers.encoder_layer_11'
+TARGET_LAYER_VIT='conv_proj,encoder.layers.encoder_layer_0,encoder.layers.encoder_layer_1,encoder.layers.encoder_layer_2,encoder.layers.encoder_layer_3,encoder.layers.encoder_layer_4,encoder.layers.encoder_layer_5,encoder.layers.encoder_layer_6,encoder.layers.encoder_layer_7,encoder.layers.encoder_layer_8,encoder.layers.encoder_layer_9,encoder.layers.encoder_layer_10,encoder.layers.encoder_layer_11'
 TARGET_LAYER_GOOGLENET='conv1,conv2,conv3,inception3a,inception3b,inception4a,inception4b,inception4c,inception4d,inception4e,inception5a,inception5b'
 # Attack
 D_PROBE_ATTACK='imagenet_val_attack'
