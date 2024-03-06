@@ -44,16 +44,16 @@ D_PROBE_ATTACK='imagenet_val_attack'
 #     --similarity_fn="$SIMILARITY_FN" \
 #     --concept_set="$CONCEPT_SET"
 
-# ViT
-python describe_neurons.py \
-    --target_model='vit_b_16' \
-    --activation_dir='my_data/vit_b_16/' \
-    --dir_out='my_data/vit_b_16/' \
-    --clip_model="$CLIP_MODEL" \
-    --d_probe="$D_PROBE" \
-    --target_layer="$TARGET_LAYER_VIT" \
-    --similarity_fn="$SIMILARITY_FN" \
-    --concept_set="$CONCEPT_SET"
+# # ViT
+# python describe_neurons.py \
+#     --target_model='vit_b_16' \
+#     --activation_dir='my_data/vit_b_16/' \
+#     --dir_out='my_data/vit_b_16/' \
+#     --clip_model="$CLIP_MODEL" \
+#     --d_probe="$D_PROBE" \
+#     --target_layer="$TARGET_LAYER_VIT" \
+#     --similarity_fn="$SIMILARITY_FN" \
+#     --concept_set="$CONCEPT_SET"
 
 #
 # # custom splits
@@ -79,17 +79,17 @@ python describe_neurons.py \
 #     --similarity_fn="$SIMILARITY_FN" \
 #     --concept_set="$CONCEPT_SET"
 
-# # artificial
-# python describe_neurons.py \
-#     --target_model='resnet50' \
-#     --activation_dir='my_data/resnet50_artificial/' \
-#     --dir_out='my_data/resnet50_artificial/' \
-#     --model_weight='model_checkpoints/resnet50_imagenet_artificial(550).ckpt' \
-#     --clip_model="$CLIP_MODEL" \
-#     --d_probe="$D_PROBE" \
-#     --target_layer="$TARGET_LAYER_RESNET" \
-#     --similarity_fn="$SIMILARITY_FN" \
-#     --concept_set="$CONCEPT_SET"
+# artificial
+python describe_neurons.py \
+    --target_model='resnet50' \
+    --activation_dir='my_data/resnet50_artificial/' \
+    --dir_out='my_data/resnet50_artificial/' \
+    --model_weight='model_checkpoints/resnet50_imagenet_artificial(550).ckpt' \
+    --clip_model="$CLIP_MODEL" \
+    --d_probe="$D_PROBE" \
+    --target_layer="$TARGET_LAYER_RESNET" \
+    --similarity_fn="$SIMILARITY_FN" \
+    --concept_set="$CONCEPT_SET"
 
 # # natural
 # python describe_neurons.py \
