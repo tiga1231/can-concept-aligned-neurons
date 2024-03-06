@@ -16,6 +16,13 @@ def index():
 # cache
 all_layer_neuron_activations = dict()
 
+@app.route("/get_images", methods=["GET"])
+def get_images():
+    image_data = data_utils.get_data("imagenet_val")
+    image_fns = [i[0] for i in image_data.imgs]
+    image_fns = ["static/images/" + "/".join(fn.split("/")[-2:]) for fn in image_fns]
+    return image_fns
+
 
 @app.route("/get_highly_activated_images", methods=["POST", "GET"])
 def get_highly_activated_images():
